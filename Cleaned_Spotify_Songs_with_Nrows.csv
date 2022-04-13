@@ -1,0 +1,1001 @@
+,track_id,track_name,track_artist,track_popularity,track_album_id,track_album_name,track_album_release_date,playlist_name,playlist_genre,playlist_subgenre,danceability,energy,key,mode,speechiness,acousticness,liveness,valence,tempo,duration_ms
+0,6f807x0ima9a1j3VPbc7VN,I Don't Care (with Justin Bieber) - Loud Luxury Remix,Ed Sheeran,66,2oCs0DGTsRO98Gh5ZSl2Cx,I Don't Care (with Justin Bieber) [Loud Luxury Remix],2019-06-14,Pop Remix,pop,dance pop,0.75,0.92,6,1,0.06,0.1,0.07,0.52,122.04,194754
+1,0r7CVbZTWZgbTCYdfa2P31,Memories - Dillon Francis Remix,Maroon 5,67,63rPSO264uRjW1X5E6cWv6,Memories (Dillon Francis Remix),2019-12-13,Pop Remix,pop,dance pop,0.73,0.82,11,1,0.04,0.07,0.36,0.69,99.97,162600
+2,1z1Hg7Vb0AhHDiEmnDE79l,All the Time - Don Diablo Remix,Zara Larsson,70,1HoSmj2eLcsrR0vE9gThr4,All the Time (Don Diablo Remix),2019-07-05,Pop Remix,pop,dance pop,0.68,0.93,1,0,0.07,0.08,0.11,0.61,124.01,176616
+3,75FpbthrwQmzHlBJLuGdC7,Call You Mine - Keanu Silva Remix,The Chainsmokers,60,1nqYsOef1yKKuGOVchbsk6,Call You Mine - The Remixes,2019-07-19,Pop Remix,pop,dance pop,0.72,0.93,7,1,0.1,0.03,0.2,0.28,121.96,169093
+4,1e8PAfcKUYoKkxPhrHqw4x,Someone You Loved - Future Humans Remix,Lewis Capaldi,69,7m7vv9wlQ4i0LFuJiE2zsQ,Someone You Loved (Future Humans Remix),2019-03-05,Pop Remix,pop,dance pop,0.65,0.83,1,1,0.04,0.08,0.08,0.72,123.98,189052
+5,7fvUMiyapMsRRxr07cU8Ef,Beautiful People (feat. Khalid) - Jack Wins Remix,Ed Sheeran,67,2yiy9cd2QktrNvWC2EUi0k,Beautiful People (feat. Khalid) [Jack Wins Remix],2019-07-11,Pop Remix,pop,dance pop,0.68,0.92,8,1,0.13,0.08,0.14,0.58,124.98,163049
+6,2OAylPUDDfwRGfe0lYqlCQ,Never Really Over - R3HAB Remix,Katy Perry,62,7INHYSeusaFlyrHSNxm8qH,Never Really Over (R3HAB Remix),2019-07-26,Pop Remix,pop,dance pop,0.45,0.86,5,0,0.06,0.19,0.18,0.15,112.65,187675
+7,6b1RNvAcJjQH73eZO4BLAB,Post Malone (feat. RANI) - GATTÜSO Remix,Sam Feldt,69,6703SRPsLkS4bPtMFFJes1,Post Malone (feat. RANI) [GATTÜSO Remix],2019-08-29,Pop Remix,pop,dance pop,0.54,0.9,4,0,0.04,0.03,0.11,0.37,127.94,207619
+8,7bF6tCO3gFb8INrEDcjNT5,Tough Love - Tiësto Remix / Radio Edit,Avicii,68,7CvAfGvq4RlIwEbT9o8Iav,Tough Love (Tiësto Remix),2019-06-14,Pop Remix,pop,dance pop,0.59,0.94,8,1,0.06,0.02,0.64,0.37,127.02,193187
+9,1IXGILkPm0tOCNeq00kCPa,If I Can't Have You - Gryffin Remix,Shawn Mendes,67,4QxzbfSsVryEQwvPFEV5Iu,If I Can't Have You (Gryffin Remix),2019-06-20,Pop Remix,pop,dance pop,0.64,0.82,2,1,0.03,0.06,0.09,0.59,124.96,253040
+10,3eFJI470ALf1EYjywPRsJy,Cross Me (feat. Chance the Rapper & PnB Rock) - M-22 Remix,Ed Sheeran,58,49bXZtlI5kQSqQMSCnSaWO,Cross Me (feat. Chance the Rapper & PnB Rock) [M-22 Remix],2019-06-21,Pop Remix,pop,dance pop,0.68,0.92,6,1,0.18,0.15,0.12,0.75,121.98,207894
+11,3iJeF2izF1QcpCgUc97BLl,Hate Me - R3HAB Remix,Ellie Goulding,67,6e6RVFWdZaoTiLAZOCMnps,Hate Me (R3HAB Remix),2019-08-16,Pop Remix,pop,dance pop,0.44,0.77,8,1,0.06,0.15,0.13,0.33,123.12,203733
+12,6e0CvGZf7CouOpYF8toXHC,Body On My,Loud Luxury,67,2R66I0nzp3NnuUlzIGWQ5P,Body On My,2019-03-29,Pop Remix,pop,dance pop,0.74,0.73,1,1,0.05,0.04,0.37,0.69,121.98,192507
+13,3eLdNmnRWr9gIyBcqTSSti,SOS - Laidback Luke Tribute Remix / Radio Edit,Avicii,68,7Al4TIo0c5twNLfdOh1y1u,SOS (Laidback Luke Tribute Remix),2019-05-17,Pop Remix,pop,dance pop,0.57,0.92,5,0,0.06,0.01,0.34,0.68,123.92,164516
+14,55nMnifaQWKe3f9cbwOXwx,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Tiësto Remix,Martin Garrix,63,2vx3BtBMn8Ed3ygEg1OT2t,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) [Remixes],2019-07-12,Pop Remix,pop,dance pop,0.69,0.78,5,0,0.06,0.01,0.07,0.24,126.07,255238
+15,1EJgymgJHcjSOGSHcYaxvW,South of the Border (feat. Camila Cabello & Cardi B) - Andy Jarvis Remix,Ed Sheeran,66,1imXAvLuowvPYIsFMYUPY0,South of the Border (feat. Camila Cabello & Cardi B) [Andy Jarvis Remix],2019-12-11,Pop Remix,pop,dance pop,0.8,0.84,0,1,0.09,0.13,0.36,0.72,125.03,188230
+16,5WaXMQMlQpq8pwIdaFP43L,All My Friends - Eden Prince Remix,AJ Mitchell,60,4lXBBbiEgwTzcfAkqdXJV1,All My Friends (Eden Prince Remix),2019-05-03,Pop Remix,pop,dance pop,0.69,0.9,1,0,0.09,0.07,0.43,0.37,118.05,173548
+17,3TjLsDgL0bTbSQIF6M5Ki8,Say My Name (feat. Bebe Rexha & J Balvin) - Lucas & Steve Remix,David Guetta,65,19z3vpbBT09lZ54neDfuFL,Say My Name (feat. Bebe Rexha & J Balvin) [Lucas & Steve Remix],2018-12-28,Pop Remix,pop,dance pop,0.68,0.75,10,0,0.16,0.04,0.17,0.52,120.0,189375
+18,0GfS3y8Jd7SHWd9R51s7Fo,Dancing With A Stranger (With Normani) - Cheat Codes Remix,Sam Smith,69,2LDzwN4iZ4qbSA32E9CG4Q,Dancing With A Stranger (With Normani) [Cheat Codes Remix],2019-03-08,Pop Remix,pop,dance pop,0.75,0.56,1,1,0.05,0.1,0.14,0.32,111.96,159404
+19,2v3DuCVBbopteJqdM7aKQK,Let It Be Me - Sondr Remix,Steve Aoki,35,097kyycr5ZuLS2cPwwUHwt,Let It Be Me (Remixes),2019-10-18,Pop Remix,pop,dance pop,0.47,0.82,7,1,0.09,0.01,0.13,0.23,122.68,185366
+20,4QAUGy6k7c3IOAhgWz52r7,Heaven - David Guetta & MORTEN Remix,Avicii,70,37bCTD5iLWMpDcBanNkkXB,Heaven (David Guetta & MORTEN Remix),2019-08-23,Pop Remix,pop,dance pop,0.57,0.93,6,0,0.04,0.0,0.1,0.2,125.95,215238
+21,3Ciaf6WgvG95TGRGxQ1yO8,All Around The World (La La La) - Marnik Remix,R3HAB,64,5r998zJ0MNYb2TTxyQmjxT,All Around The World (La La La) [Marnik Remix],2019-08-23,Pop Remix,pop,dance pop,0.71,0.91,9,0,0.03,0.09,0.11,0.71,135.02,170667
+22,1mC2UjWt25Oixtqu7C6suL,Don't Leave Me Alone (feat. Anne-Marie) - EDX's Indian Summer Remix,David Guetta,62,1WhPuMFm5VaTJqe9rl3C5Q,Don't Leave Me Alone (feat. Anne-Marie) [EDX's Indian Summer Remix],2019-05-08,Pop Remix,pop,dance pop,0.68,0.82,4,0,0.13,0.05,0.12,0.34,123.94,210968
+23,2wenGTypSYHXl1sN1pNC7X,Slow Dance (feat. Ava Max) - Sam Feldt Remix,AJ Mitchell,70,6Ol6C42O7AWnTkj8pHMHWv,Slow Dance (feat. Ava Max) [Sam Feldt Remix],2019-10-25,Pop Remix,pop,dance pop,0.73,0.85,1,1,0.04,0.11,0.04,0.37,124.02,193548
+24,4sqABRRGU7CzcHXCyxUzFw,Do You Mean (feat. Ty Dolla $ign & bülow) - Myon Remix,The Chainsmokers,58,5vf16sRhXB2f3sS5kteU2T,Do You Mean - The Remixes (feat. Ty Dolla $ign & bülow),2019-05-24,Pop Remix,pop,dance pop,0.62,0.89,11,1,0.04,0.02,0.4,0.42,110.02,205093
+25,5dy3WUywjZcalTno1io8TQ,Hold Me While You Wait - Steve Void Remix,Lewis Capaldi,63,1LTVUVJQ9wNArrbm02ZOVL,Hold Me While You Wait (Steve Void Remix),2019-06-21,Pop Remix,pop,dance pop,0.68,0.76,11,1,0.04,0.1,0.33,0.47,124.93,172800
+26,2M9GeaCQXrV12J0wzBxIwi,One Thing Right - Firebeatz Remix,Marshmello,66,13pvchQvJxxpvvtsasA4NG,One Thing Right (Remixes),2019-08-09,Pop Remix,pop,dance pop,0.68,0.85,1,0,0.04,0.01,0.03,0.35,126.0,192381
+27,1zzOMDmkRZy0g9f4JTAZKn,Close To Me (with Diplo) (feat. Swae Lee) - CID Remix,Ellie Goulding,8,5bMicFMWsZlRZNTDq9h3oA,Close To Me (Remixes),2019-02-01,Pop Remix,pop,dance pop,0.66,0.9,1,0,0.05,0.03,0.33,0.4,126.0,175000
+28,4OFFY6L5ywYM1TwhXX69wQ,So Am I - Toby Green Remix,Ava Max,62,4pl2838fY2YPaqiT2yWuMo,So Am I (Toby Green Remix),2019-05-23,Pop Remix,pop,dance pop,0.62,0.94,6,1,0.05,0.0,0.09,0.37,128.0,166875
+29,1hr5Y2i4NlE3LPvQZ9Q5Ao,When You Leave - Breathe Carolina Remix,Nikki Vianna,30,6MhbDWEsAP9Xsgoj0TuEOc,When You Leave (Breathe Carolina Remix),2019-04-19,Pop Remix,pop,dance pop,0.68,0.91,1,1,0.1,0.03,0.27,0.82,119.88,155080
+30,1aT7vltGhkjyMI3F3aO3A4,Mother - Fedde Le Grand Remix,Charlie Puth,56,2Ryw2kkGP0VecGM9b4kjgo,Mother (Fedde Le Grand Remix),2019-11-01,Pop Remix,pop,dance pop,0.64,0.87,11,1,0.04,0.03,0.4,0.36,128.09,178125
+31,4YaU1EjXIkdRdkOI4cCZys,Signs - Eden Prince Remix,Starley,56,249wM0bMES3O4nFuwARq9i,Signs (Eden Prince Remix),2018-11-30,Pop Remix,pop,dance pop,0.7,0.81,0,0,0.08,0.11,0.37,0.5,121.99,172000
+32,0Fc9QSMX6fgEBgDjUax7t7,Ruin My Life - Steve James Remix,Zara Larsson,58,6rWRg6yLGcLdG0IRaCB9LN,Ruin My Life (Remixes),2018-11-23,Pop Remix,pop,dance pop,0.72,0.84,11,1,0.04,0.01,0.08,0.64,123.95,177097
+33,7AasLZ4TYgh7dbJXZxcZVE,Torn - KREAM Remix,Ava Max,60,6gKLNSKPll9DAG5xiygMxD,Torn (KREAM Remix),2019-09-05,Pop Remix,pop,dance pop,0.74,0.86,0,1,0.1,0.0,0.24,0.73,125.03,169935
+34,7p4jpmyBnOpqQ3rSGJzZ7w,Quite Miss Home - Steve Void Remix,James Arthur,60,4H87kr1cjR2CSUkTFopYEK,Quite Miss Home (Steve Void Remix),2019-11-22,Pop Remix,pop,dance pop,0.72,0.82,10,1,0.05,0.11,0.16,0.35,124.98,220413
+35,4sLtguRBis05qfsBgJ1IdN,Love Me Less (feat. Quinn XCII) - Party Pupils Remix,MAX,55,3E3l9Ae226bVoSwoPNuwWv,Love Me Less (Remixes),2019-06-21,Pop Remix,pop,dance pop,0.75,0.83,1,1,0.12,0.08,0.08,0.89,128.02,185273
+36,508lUjbGcPrL0CfvHC7UvI,Happier - Matt Medved Remix,Marshmello,59,44iw4l4Syoi5HZgCQzNSKJ,Happier (Remixes Pt. 2),2018-11-30,Pop Remix,pop,dance pop,0.82,0.83,5,1,0.05,0.13,0.06,0.79,122.03,170164
+37,7FDaS1k08rwMoAThmzUkOZ,Side Effects - Fedde Le Grand Remix,The Chainsmokers,63,3Yb3f9PL7aBpjuJPyiV0ot,Side Effects - Remixes,2018-07-25,Pop Remix,pop,dance pop,0.63,0.85,0,0,0.04,0.04,0.43,0.66,126.03,172360
+38,6m8SIT10j41SPpPFOknTmP,Good Things Fall Apart (with Jon Bellion) [Tiësto's Big Room Remix],ILLENIUM,67,1r4KIEhxQJ7o3b5Fbv2sRe,Good Things Fall Apart (with Jon Bellion) [Tiësto's Big Room Remix],2019-07-12,Pop Remix,pop,dance pop,0.56,0.81,2,1,0.05,0.01,0.08,0.5,129.98,247385
+39,5Vwgf4MVO0vLv8fbxaGGiW,Paradise - Bazzi vs. Black Caviar Remix,Bazzi vs.,55,0TLVzJLOGaY5j7UdKskpMx,Paradise (Bazzi vs. Black Caviar Remix),2019-06-27,Pop Remix,pop,dance pop,0.73,0.82,11,0,0.05,0.0,0.1,0.68,124.02,218015
+40,5scxjvcdozadBoRRN0UMaM,White Mercedes - EDX's Miami Sunset Remix,Charli XCX,56,37vNU8L52IJZuO7e9hqBd9,White Mercedes (EDX's Miami Sunset Remix),2019-10-25,Pop Remix,pop,dance pop,0.85,0.77,5,1,0.05,0.01,0.2,0.59,124.01,200444
+41,6oJ6le65B3SEqPwMRNXWjY,Higher Love,Kygo,87,4wquJImu8RtyEuDtIAsfcE,Higher Love,2019-06-28,Pop Remix,pop,dance pop,0.69,0.68,8,1,0.03,0.02,0.1,0.4,103.95,228267
+42,2tilX6FUl0IwFgiOYjuc6V,Unlove You,Armin van Buuren,62,6k63cIUizpLu0h5hhIg8LG,Unlove You,2019-10-18,Pop Remix,pop,dance pop,0.68,0.93,3,0,0.06,0.03,0.14,0.66,116.89,150160
+43,3yNZ5r3LKfdmjoS3gkhUCT,bad guy (with Justin Bieber),Billie Eilish,83,6lMlX68jJrx67hiCqdiDvW,bad guy (with Justin Bieber),2019-07-11,Pop Remix,pop,dance pop,0.67,0.45,0,1,0.3,0.25,0.12,0.68,135.06,194840
+44,478QYNLw6dhTTx4oEkhBeq,Freaking Me Out - Keanu Silva Remix,Ava Max,55,6sOIjQyLBuivHFkEBttj5J,Freaking Me Out (Keanu Silva Remix),2019-11-01,Pop Remix,pop,dance pop,0.76,0.93,1,0,0.06,0.13,0.09,0.29,122.04,177466
+45,3C4fzUgIP3ahkhOBdP38GM,Heaven Can Wait - The Aston Shuffle Remix,Sia,61,6fUjIqkNJY56xS62ild7D1,Heaven Can Wait (The Aston Shuffle Remix),2019-05-24,Pop Remix,pop,dance pop,0.62,0.86,5,1,0.06,0.0,0.09,0.44,121.97,218373
+46,2k4c9ZAlIYHyXiJ4i20FO7,When It Comes To You - Benny Benassi & BB Team Remix,Sean Paul,56,13u5uffEUZZBoaI5kn5Zqd,When It Comes To You (Remixes),2019-10-25,Pop Remix,pop,dance pop,0.79,0.89,10,0,0.17,0.05,0.22,0.41,121.96,144073
+47,79zGYOcAe2VmJsyQiJX31a,Gone - The Wild Remix,Charli XCX,57,2QVWSdvejmRHBaK1mroxPL,Gone (The Wild Remix),2019-08-09,Pop Remix,pop,dance pop,0.64,0.84,6,1,0.04,0.06,0.04,0.59,124.08,193861
+48,6B2NRQjtSOtqi67d72r5cx,American Boy - Brooks Remix,Estelle,56,2oUf4rrrptVC50h75WzjmI,American Boy (Brooks Remix),2019-06-14,Pop Remix,pop,dance pop,0.61,0.76,5,0,0.11,0.1,0.2,0.53,128.08,200625
+49,08rBIlTMXlF5uEHobZglxv,Million Pieces - M-22 Remix,Bastille,53,4lzn3ikjb2HPZM6U6Y1IRL,Million Pieces (M-22 Remix),2019-09-27,Pop Remix,pop,dance pop,0.64,0.99,4,0,0.06,0.08,0.11,0.48,123.95,166237
+50,1BmdqDrBU5eohtRwHBls6C,joy. (R3HAB Remix),for KING & COUNTRY,56,2gGMD56Y8DAvIzpoYfA014,joy. (R3HAB Remix),2019-01-25,Pop Remix,pop,dance pop,0.75,0.81,0,0,0.06,0.09,0.11,0.48,120.04,171500
+51,5rxKInBVj0QE87KenyDiLf,Crash Into Me - Settle Down Steavis Aoki Remix,Steve Aoki,34,6GXIqRarFMaBWoF4N33foM,Crash Into Me (Settle Down Steavis Aoki Remix),2019-11-12,Pop Remix,pop,dance pop,0.54,0.96,1,0,0.03,0.0,0.26,0.12,127.98,266719
+52,3kgKVcBpBGuSeaEC0AZGlb,Old Town Road - Diplo Remix,Lil Nas X,74,66FxETmTBazRMZNbvGtGQl,Old Town Road (Diplo Remix),2019-04-29,Pop Remix,pop,dance pop,0.77,0.77,6,1,0.06,0.0,0.11,0.3,140.04,204027
+53,5qCrT9lVmIGxqB8i6bb83P,Lovers + Strangers - GATTÜSO Remix,Starley,46,3BnKoWIFRdfjSmxfQPOHuK,Lovers + Strangers (GATTÜSO Remix),2019-11-15,Pop Remix,pop,dance pop,0.65,0.82,10,0,0.05,0.02,0.07,0.39,125.98,203968
+54,3Lv3frZVXU7Q0JEFvLIzWW,Promises (with Sam Smith) - David Guetta Remix,Calvin Harris,63,7g15PlMnaKmFMUsSpR8aZt,Promises (with Sam Smith) [Remixes],2018-10-19,Pop Remix,pop,dance pop,0.59,0.7,3,0,0.04,0.19,0.1,0.22,125.16,190417
+55,2bZYJvVRN5EqIvAUFhUNls,Flames (with ZAYN) - R3HAB & Skytech VIP Remix,R3HAB,55,04MEXjH1XyMV7O0IWDXN5p,Flames (with ZAYN) (R3HAB & Skytech VIP Remix),2019-12-12,Pop Remix,pop,dance pop,0.36,0.79,5,0,0.16,0.01,0.04,0.17,80.44,237686
+56,3utdq3dPLVD4r7Vv9BnCAI,What Am I - SONDR Remix,Why Don't We,52,1UmAfO69MdjI20N6etueHb,What Am I (SONDR Remix),2019-11-01,Pop Remix,pop,dance pop,0.54,0.84,0,0,0.04,0.03,0.28,0.51,118.02,180361
+57,1ppOGANOzMT01Cxh9jx4hN,Cool Kids,Olympis,67,1ZmJJdNN2BAnVqoiU4xtZe,Cool Kids,2019-11-01,Pop Remix,pop,dance pop,0.74,0.5,8,1,0.05,0.42,0.13,0.12,126.1,139048
+58,5Shjuje8PRcX7ueEVajrLH,Loco Contigo (with J. Balvin & Tyga) - Cedric Gervais Remix,DJ Snake,63,4shNfMW19y4WnkuhCHum19,Loco Contigo (with J. Balvin & Tyga) [Cedric Gervais Remix],2019-08-09,Pop Remix,pop,dance pop,0.75,0.84,6,0,0.04,0.0,0.09,0.46,124.0,279800
+59,6wKJjrWWP4qpzYbE8oQkc4,All Star - Breathe Carolina Remix,Smash Mouth,60,5lsHOl5P5mWLHeslZCLSaQ,All Star (Breathe Carolina Remix),2019-08-23,Pop Remix,pop,dance pop,0.75,0.9,3,0,0.04,0.03,0.11,0.75,115.02,217043
+60,6EDH26ppl7R8oV4tGilCkS,Trampoline - Dave Audé Remix,SHAED,45,2ms8D5cy72qBtVnxKlXtP3,Melt (Deluxe),2019-12-27,Pop Remix,pop,dance pop,0.61,0.96,7,0,0.1,0.02,0.07,0.5,125.98,230476
+61,4RaN7556EogBfF80klMEX2,Stay (Don't Go Away) [feat. Raye] - Mark Knight Remix,David Guetta,58,5DInvPwtc0gzZuZjpu1BHc,Stay (Don't Go Away) [feat. Raye] [Mark Knight Remix],2019-07-11,Pop Remix,pop,dance pop,0.61,1.0,9,0,0.05,0.09,0.04,0.66,125.0,188640
+62,1nwoWaqzB30bD4IPqRNuex,With You - Dexter Remix,Kaskade,51,5cHgBxHHpJLjMWGBBiJEVJ,With You - The Remixes,2019-09-12,Pop Remix,pop,dance pop,0.68,0.79,1,0,0.13,0.12,0.22,0.47,126.09,196613
+63,4fDBElPGDqZQ3rJorZTm2w,Safety (feat. DJ Snake) - Dark Heart 2am Mix,GASHI,58,393WHbcQ36YL7O87MqYZzJ,Safety (The Dark Heart Remixes) (feat. DJ Snake),2019-11-15,Pop Remix,pop,dance pop,0.71,0.8,5,0,0.03,0.02,0.33,0.29,124.02,210000
+64,6AZ21kPj2a0INgf3uCviVu,Beautiful (feat. Camila Cabello) - Bazzi vs. EDX's Ibiza Sunrise Remix,Bazzi vs.,56,6KGnQuHVrsfblNq0ekXp3y,Beautiful (feat. Camila Cabello) [Bazzi vs. EDX's Ibiza Sunrise Remix],2018-09-28,Pop Remix,pop,dance pop,0.69,0.86,2,1,0.09,0.06,0.24,0.45,121.98,187869
+65,3uXHSf9sSIpOJWuC1H8DiU,Talk - Disclosure VIP,Khalid,60,3zKB8eOzx6nPOnKUf0A4CS,Talk (Disclosure VIP),2019-03-27,Pop Remix,pop,dance pop,0.78,0.87,4,0,0.2,0.02,0.04,0.56,128.96,273229
+66,4Q9iBGT9b9CVTtDwsgQWnl,Spicy - Majestic Remix,Herve Pagez,48,1PbOvsQE07RzhUzeaZTldw,Spicy (with Diplo & Charli XCX) [Remixes],2019-10-11,Pop Remix,pop,dance pop,0.81,0.84,11,1,0.08,0.0,0.02,0.96,121.98,255861
+67,6LCsZ8ARrIq0n9nr6gM2ru,Don't Leave Me Lonely (feat. Yebba) - Claptone Remix,Mark Ronson,56,7kDHIbujnNBfCxe0KhYkZ3,Don't Leave Me Lonely (feat. Yebba) [Claptone Remix],2019-10-04,Pop Remix,pop,dance pop,0.78,0.78,8,1,0.04,0.04,0.02,0.46,124.99,216714
+68,27F9FlipD657qYRQT3qxFm,Treehouse - R3HAB Remix,James Arthur,56,6T3Bfp49DNsclv7kq9eqP2,Treehouse (R3HAB Remix),2019-09-13,Pop Remix,pop,dance pop,0.37,0.78,6,1,0.15,0.01,0.05,0.29,88.01,192653
+69,6B9cqNooxIyPfr3P5EB8LA,Hearts Ain't Gonna Lie - Eden Prince Remix,Arlissa,65,00wIfIEWOqJ2RFrRazVl0i,"Hearts Ain't Gonna Lie (Remixes, Pt. 1)",2018-02-09,Pop Remix,pop,dance pop,0.61,0.83,6,0,0.08,0.2,0.03,0.6,117.83,238451
+70,05CwHjIk71RXVU40boRMnR,Call You Mine,The Chainsmokers,39,1ONuDpN0a3zhCUyKCgtuzK,World War Joy,2019-05-31,Dance Pop,pop,dance pop,0.59,0.7,7,1,0.03,0.22,0.41,0.5,104.0,217653
+71,0qc4QlcCxVTGyShurEv1UU,Post Malone (feat. RANI),Sam Feldt,83,41S9bfzXTSGK4HU2mp5qXH,Magnets EP,2019-05-24,Dance Pop,pop,dance pop,0.59,0.64,7,1,0.12,0.08,0.1,0.65,107.36,174444
+72,5icOoE6VgqFKohjWWNp0Ac,Here With Me,Marshmello,83,6NHS3hV16MZyfcp0nSHdrd,Here With Me,2019-03-08,Dance Pop,pop,dance pop,0.79,0.56,5,0,0.04,0.06,0.16,0.18,99.96,156347
+73,6GIRtKNXokeu25nn7U6Hu8,Easier - Seeb Remix,5 Seconds of Summer,71,1N3m1ZId0DMGaCN83haJLs,Easier (Seeb Remix),2019-07-12,Dance Pop,pop,dance pop,0.56,0.75,5,1,0.06,0.07,0.15,0.72,97.88,165767
+74,4PkIDTPGedm0enzdvilLNd,Sixteen,Ellie Goulding,81,5AXNN75OmMjFrwst6ExNPx,Sixteen,2019-04-12,Dance Pop,pop,dance pop,0.67,0.8,8,1,0.14,0.27,0.06,0.54,109.92,201072
+75,5PYQUBXc7NYeI1obMKSJK0,Never Really Over,Katy Perry,85,3KjXg0MDej2pG9fv6I22lT,Never Really Over,2019-05-31,Dance Pop,pop,dance pop,0.77,0.88,8,1,0.06,0.19,0.32,0.38,99.99,223523
+76,4Gcv5SsxnQWpmOnUI19EJk,All You Need To Know (feat. Calle Lehmann),Gryffin,76,0xLM3GiU0ZSstvhmeV0hmf,All You Need To Know (feat. Calle Lehmann),2019-03-27,Dance Pop,pop,dance pop,0.51,0.79,0,1,0.04,0.01,0.11,0.23,139.99,238459
+77,5YkmS18BehACOhIIeUqe6l,I Miss Myself (with HRVY),NOTD,71,0G0ho2sdOWIRRAh1PDTVFd,I Miss Myself (with HRVY),2019-05-03,Dance Pop,pop,dance pop,0.72,0.86,0,1,0.21,0.09,0.16,0.66,96.05,191612
+78,3vQhEd4lOg4mAV6CHCgoHW,South of the Border (feat. Camila Cabello & Cardi B) - Sam Feldt Remix,Ed Sheeran,65,05Bru0ZVTxp4orAyrZIA77,South of the Border (feat. Camila Cabello & Cardi B) [Sam Feldt Remix],2019-10-04,Dance Pop,pop,dance pop,0.79,0.86,5,1,0.04,0.22,0.34,0.49,110.01,173455
+79,6wo37KVqFJhtuxPTpLCcfe,Takeaway (feat. Lennon Stella),The Chainsmokers,67,1JawI0XkEwmQ5Bwef3RMbq,World War Joy...Takeaway,2019-07-24,Dance Pop,pop,dance pop,0.29,0.5,3,1,0.04,0.12,0.1,0.36,85.33,209893
+80,3OTSBoYKO7HzGVj8Bu2OH9,All the Time,Zara Larsson,74,4x79GTZCS7XsmxK9qxxMmV,All the Time,2019-06-21,Dance Pop,pop,dance pop,0.66,0.8,6,0,0.06,0.18,0.12,0.5,101.98,228112
+81,4NSW0Km5ZG60L8FthUebPJ,What I Like About You (feat. Theresa Rex),Jonas Blue,81,6gPZmYBSipug1asf4zu9jh,What I Like About You (feat. Theresa Rex),2019-03-22,Dance Pop,pop,dance pop,0.46,0.8,1,1,0.05,0.29,0.12,0.55,102.46,220396
+82,1xK7enJZVdv37fnnxoZlPq,With You,Kaskade,71,03Rd91m56yw4XklwHF9FHq,With You,2019-06-14,Dance Pop,pop,dance pop,0.36,0.92,1,0,0.49,0.12,0.19,0.53,172.19,180840
+83,1z1XegUChLLQfcbtIK8ABn,Body Back (feat. Maia Wright),Gryffin,75,3VCPQRcHVxiVaePlQ6TwoF,Body Back (feat. Maia Wright),2019-10-18,Dance Pop,pop,dance pop,0.69,0.83,8,1,0.04,0.09,0.18,0.49,123.03,214634
+84,6aoGtdWXBkYQ2O2wnyIz2x,Not Ok,Kygo,73,3GTuto6NDtZegL6idSk183,Not Ok,2019-05-23,Dance Pop,pop,dance pop,0.62,0.66,11,0,0.04,0.03,0.32,0.41,105.0,210944
+85,5tAa8Uaqr4VvA3693mbIhU,Ruin My Life,Zara Larsson,79,2BM5FQCILC33Va2jOZ11Mu,Ruin My Life,2018-10-18,Dance Pop,pop,dance pop,0.66,0.7,11,1,0.06,0.42,0.1,0.58,124.9,190932
+86,18W92Zm1KjLCbUIszOhpkD,I Wanna Know (feat. Bea Miller),NOTD,74,2xqSl9X8ulJayI0KxABaLV,I Wanna Know (feat. Bea Miller),2018-03-16,Dance Pop,pop,dance pop,0.66,0.72,6,1,0.06,0.03,0.12,0.6,119.93,197939
+87,3D37T7euWvVJ45evRmriIh,Better With You,3LAU,63,4CoLHunP23dUcORSP1Nfzb,Better With You,2019-03-01,Dance Pop,pop,dance pop,0.57,0.75,3,1,0.03,0.02,0.11,0.25,102.04,192941
+88,3y3brCCecHC3Db18aIOnny,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",Kygo,79,1Z7WbPmn7QFoJ2DrNfEehz,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",2019-04-19,Dance Pop,pop,dance pop,0.59,0.7,9,0,0.08,0.38,0.13,0.27,121.8,215316
+89,6XqvFyJGdUD5IWee02ARKU,Polaroid,Jonas Blue,16,6x8gRx7RDvPckYBzPodW8w,Blue,2018-11-09,Dance Pop,pop,dance pop,0.65,0.9,7,0,0.04,0.29,0.07,0.47,114.04,193377
+90,575NJxNUVDqwJGdzBrlLbv,Lost In Japan - Remix,Shawn Mendes,75,3ynoYncFXzo2OfPT8j93Pw,Lost In Japan (Remix),2018-09-27,Dance Pop,pop,dance pop,0.71,0.86,10,1,0.22,0.09,0.35,0.29,107.18,201253
+91,70YPzqSEwJvAIQ6nMs1cjY,In Your Arms (with X Ambassadors),ILLENIUM,75,60xcVwuQJAOyu11xf9mObS,ASCEND,2019-08-16,Dance Pop,pop,dance pop,0.4,0.81,2,1,0.05,0.2,0.11,0.11,148.04,220730
+92,7Ht0v0LWBCOEjmNQ0iMpNr,I'm Not Alright,Loud Luxury,55,3AaYBMcqoBYcZLfBsNDLri,I'm Not Alright,2019-07-12,Dance Pop,pop,dance pop,0.88,0.86,4,1,0.05,0.08,0.46,0.68,121.99,185062
+93,6nDKrPlXdpomGBgAlO7UdP,SOS,Avicii,30,7Jx7doYIXITyR2LQB0Hvbc,SOS,2019-04-10,Dance Pop,pop,dance pop,0.8,0.64,5,0,0.07,0.27,0.12,0.38,100.0,157202
+94,2b1BwUGGyKq0CoJd8G1B6M,Harder,Jax Jones,62,1fYOToOfdZXY5hrOra8z2Z,Snacks,2019-07-12,Dance Pop,pop,dance pop,0.91,0.83,5,0,0.07,0.09,0.15,0.75,104.03,159753
+95,09IStsImFySgyp0pIQdqAc,The Middle,Zedd,84,7nEiwcUSwycvC77kZ9ub7c,The Middle,2018-01-23,Dance Pop,pop,dance pop,0.75,0.66,7,1,0.04,0.17,0.11,0.44,107.01,184732
+96,1lGVyEkGHUz7Pg78QGaS4a,Wanted,NOTD,70,5sPC6RYCERdNCzHLRf9zHb,Wanted,2019-09-27,Dance Pop,pop,dance pop,0.69,0.67,5,1,0.07,0.18,0.06,0.38,95.97,160998
+97,6ksMjdec8b6C45TUawkAdu,Crash Into Me,Steve Aoki,37,2dRuXHSYXjRubjTkjMFZFD,Crash Into Me,2019-07-12,Dance Pop,pop,dance pop,0.67,0.82,1,0,0.1,0.0,0.58,0.34,115.03,226093
+98,1vsQb8n0icvMsFnL9663LM,Need Your Love (with Noah Kahan),Gryffin,70,5CaTHgZaRvb2vCK1mVbCR1,Gravity,2019-10-24,Dance Pop,pop,dance pop,0.58,0.76,0,1,0.04,0.16,0.18,0.52,104.1,205787
+99,6pooRNiLyYpxZeIA5kJ5EX,Good Things Fall Apart (with Jon Bellion),ILLENIUM,74,4IYvXJnU8zPRzPPTu4dJUl,Good Things Fall Apart (with Jon Bellion),2019-05-13,Dance Pop,pop,dance pop,0.64,0.59,2,1,0.03,0.01,0.12,0.44,144.03,216668
+100,5WHTFyqSii0lmT9R21abT8,Don't Call Me Up,Mabel,85,0syM7OUAhV7S6XmOa4nLUZ,Ivy To Roses (Mixtape),2019-01-18,Dance Pop,pop,dance pop,0.67,0.88,9,1,0.15,0.3,0.08,0.23,98.99,178480
+101,1pBO9JDqh1y3TbCKEO1OvG,Nostalgic,A R I Z O N A,36,1mfUDy3N3YIHDlJp42IKmY,Nostalgic,2019-06-18,Dance Pop,pop,dance pop,0.69,0.54,0,1,0.1,0.25,0.18,0.33,99.97,182668
+102,1LjxmkW3xRQP2HzswhYyyc,Let It Be Me,Steve Aoki,52,6nPJEALAjWKOE1jWPws7jj,Let It Be Me,2019-09-06,Dance Pop,pop,dance pop,0.66,0.76,7,1,0.09,0.08,0.11,0.39,114.1,224061
+103,7FCZhkhzEUVNUAlGauNKIe,Lovers + Strangers,Starley,58,25sQqb9Bw2zbBLXQGJwFRG,Lovers + Strangers,2019-10-11,Dance Pop,pop,dance pop,0.65,0.69,1,1,0.08,0.11,0.14,0.65,110.21,178501
+104,2JoIjuzRplpYGvvLpSW2on,Sad Song (feat. TINI),Alesso,72,0D26ZmfHtg7309j2TEKxnR,Sad Song (feat. TINI),2019-06-14,Dance Pop,pop,dance pop,0.73,0.69,0,1,0.04,0.09,0.34,0.55,110.02,154024
+105,4PUWpNtDejQwwa80LjvxXl,Sleepless Nights,ayokay,64,7arFGGWl2p1FTC3LPTw7Dz,In the Shape of a Dream,2018-08-31,Dance Pop,pop,dance pop,0.66,0.7,11,1,0.03,0.06,0.23,0.45,139.98,197880
+106,1nufXiTCTTAeJfO9hLHvO8,Save Me Tonight,ARTY,63,0wQCkA93jbaOowF6bHsDfz,Save Me Tonight,2019-01-25,Dance Pop,pop,dance pop,0.55,0.9,5,0,0.05,0.01,0.14,0.41,125.85,170079
+107,1NDxZ7cFAo481dtYWdrUnR,Pretty Girl - Cheat Codes X CADE Remix,Maggie Lindemann,77,1XYA8eDvomdYTbQBzk0jT1,Pretty Girl (Cheat Codes X CADE Remix),2017-03-02,Dance Pop,pop,dance pop,0.7,0.87,7,0,0.03,0.15,0.1,0.73,121.03,193613
+108,1ahVFh0ViDZr8LvkEVlq3B,No Sleep (feat. Bonn),Martin Garrix,76,7KJTuTXYSnBGNgAxte3CSg,No Sleep (feat. Bonn),2019-02-21,Dance Pop,pop,dance pop,0.44,0.64,11,1,0.03,0.13,0.12,0.33,128.13,207095
+109,0Ev562zA4pmUsBqjxsxxdx,Feel Good (feat. Daya),Gryffin,74,1fP5UnRB0WNWNHSZRHsRCR,Feel Good (feat. Daya),2017-03-03,Dance Pop,pop,dance pop,0.62,0.71,2,1,0.03,0.22,0.21,0.48,138.06,248156
+110,5l8AUgBTWuOECwVgYtaUyE,Endless Summer,Cashae,56,7zygyMUltFYOvHoT3NOTsj,Endless Summer,2019-07-12,Dance Pop,pop,dance pop,0.62,0.72,4,1,0.06,0.05,0.07,0.33,101.09,202072
+111,35MKhw2YBKApmD7fAnPERC,Faith (with Dolly Parton) [feat. Mr. Probz],Galantis,77,1QrYKuMTMLwpTwzOFhfnOk,Faith (with Dolly Parton) [feat. Mr. Probz],2019-10-25,Dance Pop,pop,dance pop,0.55,0.8,8,1,0.05,0.14,0.11,0.72,118.12,186805
+112,3Kuu5vASpXK8oRsxOvau6P,Think About You,Kygo,71,5vZy4cohzmdhOUGCdsUNpt,Think About You,2019-02-14,Dance Pop,pop,dance pop,0.67,0.6,10,1,0.04,0.17,0.11,0.19,123.97,208567
+113,7KW3XQV5Or5CF57MYVj5h4,Party For One,Carly Rae Jepsen,64,25it7uSpNFuRoD6uNc0Tfu,Dedicated,2019-05-17,Dance Pop,pop,dance pop,0.7,0.63,6,1,0.04,0.05,0.1,0.46,123.45,184533
+114,3M9Apu4OZfylLTFKvgEtKa,Ritual,Tiësto,82,0efvl0HsK2xxttk4IVOJry,Ritual,2019-05-31,Dance Pop,pop,dance pop,0.65,0.73,3,0,0.06,0.16,0.08,0.77,115.0,198996
+115,5N4erncE7kuUccm7zEmwzk,Electricity (with Dua Lipa),Silk City,81,429B3se6xtZuvblNnS2iy7,Electricity (with Dua Lipa),2018-09-06,Dance Pop,pop,dance pop,0.59,0.67,0,1,0.05,0.01,0.34,0.5,118.16,238173
+116,6QcrReLyoun4xrPVsZ5OJE,Lie,Shallou,41,4v1f4kZMvCpwCSwkxC82ia,Lie,2018-01-25,Dance Pop,pop,dance pop,0.66,0.43,2,0,0.08,0.3,0.08,0.22,107.99,215446
+117,1kQhi22kyluRCnIPAXtxEZ,I Found You (with Calvin Harris),benny blanco,62,7dQ734EW0iLvQfF6vBFNiZ,FRIENDS KEEP SECRETS,2018-12-07,Dance Pop,pop,dance pop,0.79,0.86,6,1,0.04,0.03,0.24,0.36,122.99,189165
+118,5cE201rNvIkryS8N1dJ5nR,Now That I Found You,Carly Rae Jepsen,5,1xqz6l2gObcbw25EqODDCt,Now That I Found You / No Drug Like Me,2019-02-27,Dance Pop,pop,dance pop,0.61,0.74,0,0,0.05,0.01,0.11,0.57,124.17,200318
+119,4AkCyd9Nlbt8JprQq9V6o2,All Comes Back To You,R3HAB,72,5sF8cTLQirqDYQWJwzxq87,All Comes Back To You,2019-10-25,Dance Pop,pop,dance pop,0.73,0.76,4,1,0.09,0.52,0.09,0.52,128.02,160312
+120,48GmVZwvkoVC5StfMLfNJE,Need U,DVBBS,24,2yBTjWwQLEr2i0LTIcUmwT,Need U,2019-08-16,Dance Pop,pop,dance pop,0.71,0.7,10,1,0.1,0.29,0.13,0.47,114.99,219521
+121,01iyINEYgPQ7ThMZuHUsqS,First Love,Lost Kings,58,7syMmofF2t1xI0RFCtrSG9,First Love,2017-10-13,Dance Pop,pop,dance pop,0.62,0.94,5,1,0.35,0.03,0.13,0.6,94.38,207428
+122,6BwClo5W3VvTzJv8bvZXDD,Something Real,Armin van Buuren,65,42Q6dojwO2PInszaHUFjly,Something Real,2019-07-12,Dance Pop,pop,dance pop,0.57,0.81,1,1,0.04,0.04,0.07,0.23,127.92,179531
+123,108r6pnZHStBIktpyyps9w,TIME,Alesso,64,3d0kltye1eEt6vbHZJSJVE,ALESSO MIXTAPE - PROGRESSO VOLUME 1,2019-03-08,Dance Pop,pop,dance pop,0.77,0.81,5,1,0.11,0.01,0.34,0.66,119.97,166000
+124,24Hzd4FPhz0HPx9jhM9cap,Something About You (with Rudimental),Elderbrook,53,0xiqgV5gVnjsKVWpBqXyaO,Distinction EP,2019-08-09,Dance Pop,pop,dance pop,0.77,0.6,6,0,0.19,0.56,0.19,0.66,107.04,203200
+125,4aTtHoSBB0CuQGA6vXBNyp,Home (feat. Bonn),Martin Garrix,72,1cL51Zp86zgzMDTXRiq8w9,Home (feat. Bonn),2019-08-16,Dance Pop,pop,dance pop,0.47,0.61,8,0,0.03,0.07,0.13,0.24,128.11,239067
+126,0gIZLyF3MWQVcspzrLWYod,Simple (STVW Remix),FANNYPACK,39,3FGJOM0PZMpQUZ3CkUSDld,Simple (STVW Remix),2019-04-12,Dance Pop,pop,dance pop,0.43,0.92,9,0,0.06,0.3,0.29,0.62,121.97,147554
+127,6y1UtRcHQU07aUs3oxZ8Yn,Sorry,Joel Corry,75,1PvEp0qeU6o2rm0i2qUC2N,Sorry,2019-04-05,Dance Pop,pop,dance pop,0.74,0.79,8,0,0.06,0.05,0.32,0.85,125.0,188640
+128,54z0kLF0skj0Hdb9wCqPJt,Spicy (with Diplo & Charli XCX),Herve Pagez,60,7J5VpxOH7WctwtGuFYydUz,Spicy (with Diplo & Charli XCX),2019-05-30,Dance Pop,pop,dance pop,0.84,0.82,8,0,0.05,0.05,0.11,0.48,109.99,157159
+129,6mPstbtzhyqKmwefY4eVWD,The Upside (feat. Elle King),Lindsey Stirling,18,1B9rsSz0Prc3R2NtDrs5nN,The Upside (feat. Elle King) / The Upside / Underground,2019-08-02,Dance Pop,pop,dance pop,0.51,0.86,2,1,0.07,0.0,0.54,0.35,117.01,228502
+130,6uBhi9gBXWjanegOb2Phh0,Stay,Zedd,79,1I4W7JKzYbl8VKRfD61DIS,Stay,2017-02-23,Dance Pop,pop,dance pop,0.69,0.62,5,0,0.06,0.25,0.12,0.54,102.04,210091
+131,1Pe3Tnahd3nNcKrTvNvNvW,Million Voices,Armin van Buuren,60,5cqwXF2j9LkvFInBFlnQd3,Balance,2019-10-25,Dance Pop,pop,dance pop,0.47,0.87,3,1,0.05,0.01,0.12,0.18,126.11,187150
+132,4w8niZpiMy6qz1mntFA5uM,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,83,0ZHyvPke0EcVt6rYA8Ins3,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",2018-09-28,Dance Pop,pop,dance pop,0.84,0.8,8,0,0.23,0.16,0.06,0.62,95.88,212500
+133,7BKLCZ1jbUBVqRi2FVlTVw,Closer (feat. Halsey),The Chainsmokers,85,0rSLgV8p5FzfnqlEk4GzxE,Closer (feat. Halsey),2016-07-29,Dance Pop,pop,dance pop,0.75,0.52,8,1,0.03,0.41,0.11,0.66,95.01,244960
+134,2IDHoSlbG0CKH9rhq68wTb,Say My Name (feat. Zyra) - RAC Mix,ODESZA,47,7Eg6srmG6BVIEiUmiRjzI4,Say My Name Remixes,2014-10-13,Dance Pop,pop,dance pop,0.65,0.62,9,1,0.05,0.02,0.06,0.48,115.0,243091
+135,60wwxj6Dd9NJlirf84wr2c,Clarity,Zedd,74,7juWTdmjo0vYywWu8HiQxs,Clarity,2012-01-01,Dance Pop,pop,dance pop,0.51,0.78,8,1,0.07,0.04,0.07,0.18,128.0,271427
+136,6kPJZM97LwdG9QIsT7khp6,Solo (feat. Demi Lovato),Clean Bandit,80,1q7a5wZeti0neU2jDn8Dz3,Solo (feat. Demi Lovato),2018-05-17,Dance Pop,pop,dance pop,0.74,0.64,11,0,0.04,0.04,0.35,0.56,105.0,222653
+137,3ebXMykcMXOcLeJ9xZ17XH,Scared to Be Lonely,Martin Garrix,81,2v9rQe4F8fVSh5v8bAq0jF,Scared to Be Lonely,2017-01-27,Dance Pop,pop,dance pop,0.58,0.54,1,0,0.06,0.09,0.26,0.2,137.97,220883
+138,7iNIg7XDEaYECfWD5dJ9Va,Friends (with BloodPop®),Justin Bieber,76,7huML9zDbY4thKH0xSuZTP,Friends (with BloodPop®),2017-08-17,Dance Pop,pop,dance pop,0.74,0.73,8,1,0.04,0.0,0.3,0.62,104.98,189467
+139,6cy3ki60hLwimwIje7tALf,RITMO (Bad Boys For Life),The Black Eyed Peas,96,6EobpC5SDFy5DF50dWNVGF,RITMO (Bad Boys For Life),2019-10-12,Dance Pop,pop,dance pop,0.72,0.72,10,0,0.07,0.03,0.24,0.67,104.99,221714
+140,5N5k9nd479b1xpDZ4usjrg,Promises (with Sam Smith),Calvin Harris,84,2tpWgbBdzjkaJVJzR4T8y1,Promises (with Sam Smith),2018-08-17,Dance Pop,pop,dance pop,0.78,0.77,11,1,0.04,0.01,0.32,0.49,123.07,213309
+141,0qaWEvPkts34WF68r8Dzx9,Turn Me On (feat. Vula),Riton,86,7mtnp7B5yFt3D3PAznGzc8,Turn Me On (feat. Vula),2019-09-13,Dance Pop,pop,dance pop,0.74,0.83,11,1,0.04,0.01,0.09,0.52,124.05,208474
+142,6jq6rcOikCZAmjliAgAmfT,Light,San Holo,68,4k2ygY7kW4n1eVtR2i0F0H,Light,2017-02-10,Dance Pop,pop,dance pop,0.57,0.76,1,1,0.06,0.09,0.09,0.43,150.09,239853
+143,762UXiwEHYY97VL45sAUPR,2U,David Guetta,66,0EYVu7ginQ5nPsQj3woBAQ,2U,2017-06-09,Dance Pop,pop,dance pop,0.55,0.65,8,0,0.06,0.22,0.22,0.56,144.88,194907
+144,6RUKPb4LETWmmr3iAEQktW,Something Just Like This,The Chainsmokers,83,4JPguzRps3kuWDD5GS6oXr,Memories...Do Not Open,2017-04-07,Dance Pop,pop,dance pop,0.62,0.64,11,0,0.03,0.05,0.16,0.45,103.02,247160
+145,7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),Calvin Harris,85,7GEzhoTiqcPYkOprWQu581,One Kiss (with Dua Lipa),2018-04-06,Dance Pop,pop,dance pop,0.79,0.86,9,0,0.11,0.04,0.08,0.59,123.99,214847
+146,3zU9rdflI65tK4dkkNSp77,Heroes (we could be),Alesso,73,0tRVSbmOwilUucqjzU0fQw,Forever,2015-05-26,Dance Pop,pop,dance pop,0.5,0.75,5,1,0.06,0.03,0.34,0.36,125.9,210013
+147,12GEpg2XOPyqk03JZEZnJs,It Ain’t Me (with Selena Gomez),Kygo,69,4VNy5ifZtW3E9SgffbGEti,It Ain't Me,2017-02-17,Dance Pop,pop,dance pop,0.64,0.53,0,1,0.07,0.12,0.09,0.52,99.97,220781
+148,4kte3OcW800TPvOVgrLLj8,Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,69,4HPdvrPf9RGfJ2hNYrODpC,R.E.D. (Deluxe Edition),2012-01-01,Dance Pop,pop,dance pop,0.66,0.68,5,1,0.04,0.25,0.37,0.25,124.91,251627
+149,0lYBSQXN6rCTvUZvg9S0lU,Let Me Love You,DJ Snake,81,02sEJTj1sye1JaqxqpcSCp,Encore,2016-08-05,Dance Pop,pop,dance pop,0.65,0.72,8,1,0.03,0.09,0.14,0.16,99.99,205947
+150,3vv9phIu6Y1vX3jcqaGz5Z,Roses,The Chainsmokers,73,2GFflENKz28RcMoSuulPZC,Roses,2015-06-16,Dance Pop,pop,dance pop,0.71,0.8,4,1,0.06,0.04,0.31,0.34,100.0,226739
+151,2QtJA4gbwe1AcanB2p21aP,Stay The Night - Featuring Hayley Williams Of Paramore,Zedd,61,4xak0izXQHOMV9Wu1mDAAy,Clarity (Deluxe),2012,Dance Pop,pop,dance pop,0.6,0.74,8,1,0.04,0.11,0.09,0.46,127.96,217347
+152,1BltsyC5W3SAABdxyrDXwi,Latch,Disclosure,19,1ZFGRj11NnZHos8DUbbpF1,Settle,2013-01-01,Dance Pop,pop,dance pop,0.5,0.73,1,1,0.17,0.02,0.09,0.52,121.98,255632
+153,3tTYxjYYcXFqFXA0AZ1Fav,Flames,David Guetta,57,2Sq9AIsIrad2GygwB6QLPt,7,2018-09-14,Dance Pop,pop,dance pop,0.61,0.73,5,0,0.04,0.07,0.09,0.36,93.96,195000
+154,09CtPGIpYB4BrO8qb1RGsF,Sorry,Justin Bieber,81,6Fr2rQkZ383FcMqFyT7yPr,Purpose (Deluxe),2015-11-13,Dance Pop,pop,dance pop,0.65,0.76,0,0,0.04,0.08,0.3,0.41,99.94,200787
+155,0azC730Exh71aQlOt9Zj3y,This Is What You Came For,Calvin Harris,79,3pEgGUv379EDinvg1TN7Kt,This Is What You Came For,2016-04-29,Dance Pop,pop,dance pop,0.63,0.93,9,0,0.03,0.2,0.15,0.46,123.96,222160
+156,4h8VwCb1MTGoLKueQ1WgbD,Wake Me Up,Avicii,84,1s9tU91VJt4sU5owi29GD3,True,2013-01-01,Dance Pop,pop,dance pop,0.53,0.78,2,1,0.05,0.0,0.16,0.64,124.08,247427
+157,0E9ZjEAyAwOXZ7wJC0PD33,In My Mind,Dynoro,84,1c79SozES9Eb3Lzf9KVaIa,In My Mind,2018-06-08,Dance Pop,pop,dance pop,0.69,0.77,6,1,0.15,0.18,0.12,0.16,125.9,184560
+158,0lHAMNU8RGiIObScrsRgmP,Titanium (feat. Sia),David Guetta,66,5aprcHwM1KJhaY9Kbxkfkn,Nothing but the Beat 2.0,2011-08-26,Dance Pop,pop,dance pop,0.6,0.79,0,0,0.1,0.07,0.13,0.3,126.06,245040
+159,0n8ob8S72lvznoVfiwz4qL,Where Are Ü Now,Skrillex,8,6Fr2rQkZ383FcMqFyT7yPr,Purpose (Deluxe),2015-11-13,Dance Pop,pop,dance pop,0.43,0.74,7,1,0.06,0.03,0.14,0.19,139.42,242520
+160,4r6eNCsrZnQWJzzvFh4nlg,Firework,Katy Perry,64,2eQMC9nJE3f3hCNKlYYHL1,Teenage Dream,2010-01-01,Dance Pop,pop,dance pop,0.64,0.83,8,1,0.05,0.14,0.11,0.65,124.07,227893
+161,0GzmMQizDeA2NVMUaZksv0,Mi Gente (feat. Beyoncé),J Balvin,61,55228F4QRlYDzJ4H02tDHA,Mi Gente (feat. Beyoncé),2017-09-28,Dance Pop,pop,dance pop,0.76,0.72,11,0,0.08,0.02,0.23,0.47,105.01,209733
+162,1MlAkYV0nbRKWhhfvTt3zc,Don't You Worry Child - Radio Edit,Swedish House Mafia,27,2OW1FFaG8vgbRl0WilKz1B,Until Now,2012-01-01,Dance Pop,pop,dance pop,0.61,0.83,11,0,0.05,0.11,0.18,0.43,129.04,213169
+163,1WkMMavIMc4JZ8cfMmxHkI,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,74,65ayND23IInUPHJKsaAqe7,TROLLS (Original Motion Picture Soundtrack),2016-09-23,Dance Pop,pop,dance pop,0.67,0.83,0,1,0.07,0.01,0.1,0.7,113.04,237547
+164,7C7yqFTM0ncyJ04GIKrxdV,Anything Could Happen,Ellie Goulding,57,4754Cgv1sdfwTpdVX83xAC,Halcyon,2012-01-01,Dance Pop,pop,dance pop,0.7,0.78,0,1,0.03,0.43,0.14,0.38,103.0,286322
+165,0WfKDYeUAoLA3vdvLKKWMW,Poker Face,Lady Gaga,69,2FBA8NCSuQNi8jaR2Xjbal,The Fame,2008-01-01,Dance Pop,pop,dance pop,0.85,0.81,4,1,0.08,0.12,0.12,0.78,119.0,237200
+166,22mek4IiqubGD9ctzxc69s,How Deep Is Your Love,Calvin Harris,77,3cG32DOXJoYlOHMmJIaQsm,How Deep Is Your Love,2015-07-17,Dance Pop,pop,dance pop,0.74,0.87,11,0,0.07,0.04,0.39,0.34,122.0,212640
+167,61ZM92T2zaXIVsqncThQzC,In Your Eyes (feat. Alida),Robin Schulz,74,7Aq8cN8Br8AHcDqC327dlV,In Your Eyes (feat. Alida),2020-01-10,Dance Room,pop,dance pop,0.57,0.67,8,0,0.07,0.18,0.08,0.45,120.02,208222
+168,6TnxdnJcZIwCWiCHq5Qds0,Wish You Well (with Sigala),Sigala,5,1vlHG5JJCSsWBuA5vPTY7Q,Get To Know,2019-09-27,Dance Room,pop,dance pop,0.67,0.89,5,0,0.06,0.12,0.33,0.57,124.97,206440
+169,2aFAmDBycyEnj3lcS95JMe,With You - LöKii Remix,Kaskade,57,5cHgBxHHpJLjMWGBBiJEVJ,With You - The Remixes,2019-09-12,Dance Room,pop,dance pop,0.71,0.73,9,1,0.04,0.02,0.37,0.51,120.01,231480
+170,0Npijoc6ZcUe1devUugKvI,Dive,Hot Shade,68,2DUrw9sLe99AbZ8cRbsXk8,Dive,2019-12-20,Dance Room,pop,dance pop,0.65,0.79,4,1,0.05,0.01,0.14,0.41,123.98,164490
+171,5gwLIRjGFf3hXuHoKEsWLg,No Goodbye,Paul Kalkbrenner,65,1ix4O6SU7i8W2H6RYb3O8R,No Goodbye,2019-07-26,Dance Room,pop,dance pop,0.94,0.58,6,0,0.04,0.1,0.15,0.63,125.0,168547
+172,3d4lc8esnUl7Bx9J9d9oty,Work,MOTi,58,7G0zAdOGlZALLj0yIu1b7j,Work,2019-01-25,Dance Room,pop,dance pop,0.7,0.93,0,1,0.04,0.04,0.18,0.63,126.06,155238
+173,0U6bQIAh6MCGo1xjbIIx2S,Instagram,Dimitri Vegas & Like Mike,81,7FTzcNdsKhMe53orWXsai8,Instagram,2019-07-05,Dance Room,pop,dance pop,0.76,0.91,8,0,0.1,0.12,0.42,0.95,96.07,184558
+174,3oIVK7arAFuUOCGafPLxSC,Better Off Without You (feat. Shift K3Y),Becky Hill,68,6ItQBh0GYXQc3jYGP79Ww9,Better Off Without You (feat. Shift K3Y),2020-01-10,Dance Room,pop,dance pop,0.68,0.86,7,1,0.04,0.06,0.1,0.3,124.0,198743
+175,2I4jAMEOEUQD5V1byYCqNS,Butterfly,Molella,43,34WpdPTXdf5kPoDShF9Nsv,Butterfly,2019-06-21,Dance Room,pop,dance pop,0.63,0.66,7,0,0.03,0.09,0.14,0.6,124.04,159194
+176,59QmL8ygKtVfMHmPx3GaBX,All The Love You Got,MOTi,57,7iCEc635CaDogFMA6NPmUc,All The Love You Got,2019-12-20,Dance Room,pop,dance pop,0.76,0.74,7,1,0.08,0.14,0.11,0.25,126.01,165714
+177,5EdYlCWou17k0N1PADLKfO,Call You Mine - Asketa & Natan Chaim Remix,The Chainsmokers,58,1nqYsOef1yKKuGOVchbsk6,Call You Mine - The Remixes,2019-07-19,Dance Room,pop,dance pop,0.58,0.84,7,1,0.04,0.0,0.5,0.28,115.07,183653
+178,5MvsfUN0H79C24t3fPepeL,Love Is Not Enough,GATTÜSO,58,4pMsuhPZP44rMBrgDQKGFL,Love Is Not Enough,2019-12-19,Dance Room,pop,dance pop,0.63,0.82,8,1,0.03,0.0,0.12,0.13,127.95,202500
+179,7CHi4DtfK4heMlQaudCuHK,Lose Control,MEDUZA,91,1qSOaTvsCOyFJya3v1UzkP,Lose Control,2019-10-11,Dance Room,pop,dance pop,0.6,0.53,10,0,0.04,0.13,0.14,0.53,123.94,168387
+180,1CW7tYkpJ95c7bQkRf6CcK,I Wanna Dance,Jonas Blue,67,3niF8tyjfJw8pmfc6VYKGa,I Wanna Dance,2019-07-19,Dance Room,pop,dance pop,0.82,0.84,0,1,0.14,0.09,0.26,0.62,126.03,184582
+181,4bSFPMXKYaCoBhzJv276zl,After The Landslide - Club Remix,Matt Simons,42,5dUclWPRHUknlqyiffoqfE,After The Landslide (Remix),2019-09-19,Dance Room,pop,dance pop,0.63,0.73,6,1,0.04,0.02,0.7,0.46,120.0,240000
+182,5AFrctm65wWIqJsjHPPx85,Midnight Hour with Boys Noize & Ty Dolla $ign,Skrillex,70,65Xj1lewlRP7RB5LiCeNBV,Midnight Hour with Boys Noize & Ty Dolla $ign,2019-08-29,Dance Room,pop,dance pop,0.8,0.9,0,1,0.07,0.0,0.2,0.33,125.98,198839
+183,3DsjHcLYMExprXJECT4QQP,Pon de Replay,Ed Marquis,64,3D74WUurXHavsASBjlxONT,Pon de Replay,2017-04-28,Dance Room,pop,dance pop,0.53,0.72,6,0,0.24,0.12,0.04,0.48,103.99,257943
+184,7FjZU7XFs7P9jHI9Z0yRhK,So Close,NOTD,79,4ZIaWbFnkMozASM1CA59K6,So Close (feat. Georgia Ku),2018-11-02,Dance Room,pop,dance pop,0.7,0.87,10,1,0.07,0.12,0.1,0.76,125.03,190302
+185,5ijpy4l0nKZPIKHui6SQfE,Look Into My Eyes,Brando,48,7DnfkpW8qZvwrd5juFewce,Look Into My Eyes,2020-01-10,Dance Room,pop,dance pop,0.79,0.54,1,1,0.05,0.12,0.12,0.43,115.99,154654
+186,6j8eH9frh703HaGBaSRS6u,Not in Control,Glaceo,53,5oePvMoJsFArZDomjsTzlk,Not in Control,2019-12-20,Dance Room,pop,dance pop,0.9,0.63,0,1,0.1,0.2,0.16,0.49,122.0,179016
+187,79Vz5MNH7Qe4F7hPKT8tPz,BLUE,Tiësto,75,1WjspDqwIlXKkI7QWGifZ2,BLUE,2019-12-13,Dance Room,pop,dance pop,0.74,0.72,11,1,0.03,0.02,0.21,0.9,118.03,167859
+188,65mOk4n0tfrMysFXu12ufx,Don't Waste My Time,Kharfi,46,4n7kOauHRMuQ97McSDr0zm,Don't Waste My Time,2019-11-08,Dance Room,pop,dance pop,0.77,0.69,9,0,0.21,0.05,0.83,0.59,118.12,154286
+189,4w5Grfxx5Rpup6mo5v6bW0,Beat Of My Heart,Lost Frequencies,67,6NQRmMazNOKi0IiIXlNzGh,Alive And Feeling Fine,2019-10-04,Dance Room,pop,dance pop,0.71,0.52,6,1,0.03,0.13,0.11,0.3,111.99,183183
+190,3uiQZlSlSDRduWLFBTSEot,Don't Start Now - Kungs Remix,Dua Lipa,65,4mzsZJ8apTlyqRRJgJcFY9,Don't Start Now (Kungs Remix),2019-12-18,Dance Room,pop,dance pop,0.66,0.7,11,0,0.27,0.04,0.06,0.25,122.02,216256
+191,29ikXeGM6kScvhvqfvgiwO,Drunken Truth,Steve Void,56,2BWk9BoPaXaMi93wZsSoXk,The Seed EP,2019-12-20,Dance Room,pop,dance pop,0.78,0.74,1,0,0.04,0.08,0.11,0.5,110.05,158091
+192,2Eld7kejX6FH9OptVyKQak,Jacques,Jax Jones,42,4ka7Gqb1T5lWqbtPUxiLsC,Jacques,2019-08-28,Dance Room,pop,dance pop,0.79,0.55,9,0,0.07,0.07,0.08,0.48,120.02,203227
+193,3BOcWxFUURAomDXRSDFve4,Something Real,Armin van Buuren,58,5cqwXF2j9LkvFInBFlnQd3,Balance,2019-10-25,Dance Room,pop,dance pop,0.57,0.81,1,1,0.04,0.04,0.07,0.23,127.92,179531
+194,4YhN72dRYL2Z3MsaKyT7rS,Stay (Don't Go Away) [feat. Raye],David Guetta,74,581MrXg5n979mmvZaC6AOE,Stay (Don't Go Away) [feat. Raye],2019-05-09,Dance Room,pop,dance pop,0.67,0.8,9,0,0.06,0.26,0.2,0.55,119.86,185943
+195,7DQ5CZjAQdhgDgdnSXxJ7Z,Solid Gold,PNAU,65,3g0mfsWlOOUNheV5L3kQKs,Solid Gold,2019-05-02,Dance Room,pop,dance pop,0.57,0.95,5,0,0.05,0.1,0.08,0.3,104.98,208367
+196,2aXA9aQfrqaOi1Wy3NfSZI,One Life,Mike Perry,64,2GlcDrDfKOtb2EQPFFGISo,One Life,2019-09-27,Dance Room,pop,dance pop,0.65,0.76,3,1,0.06,0.1,0.24,0.23,128.01,204591
+197,62XCV3AmCMkPa9X5mCim8O,All ‘Bout The Money,FAULHABER,51,3droSng2pOwou8B3UlZVHW,All ‘Bout The Money,2019-10-18,Dance Room,pop,dance pop,0.72,0.78,6,0,0.06,0.14,0.14,0.33,110.03,169964
+198,5llPdGZJjJFJv9aL6ZaiLY,Never Letting Go,Audien,63,7wufuX5VOkpdsAMxXIekGT,Never Letting Go,2018-11-09,Dance Room,pop,dance pop,0.53,0.76,1,1,0.03,0.09,0.22,0.12,127.98,172520
+199,7pWK1kMgHy5lNNiIfuRbkP,Used To Love (with Dean Lewis),Martin Garrix,83,3YD1qyD9KPFzzTK1UC1Gvo,Used To Love (with Dean Lewis),2019-10-31,Dance Room,pop,dance pop,0.65,0.69,4,1,0.04,0.46,0.34,0.39,118.97,236765
+200,2W9pBY75aWOV39S73mqqbn,Giulia,Prince Paris,55,7DgJKMKFWmgXxaLBeQQPq6,Giulia,2019-11-29,Dance Room,pop,dance pop,0.68,0.92,0,1,0.04,0.0,0.24,0.37,130.05,153231
+201,1JxQmgCEipmHCUiJS568pE,What Do I Do? - Benny Benassi Remix,Georgia Ku,39,1D0ELNaChtO3Dv3eI5Ces1,What Do I Do? (Benny Benassi Remix),2019-10-18,Dance Room,pop,dance pop,0.66,0.83,10,1,0.08,0.43,0.09,0.61,115.35,167249
+202,6pu5jQqenr37n0z6eBKOh0,Dreams Of You (feat. Rae Morris),Icarus,48,26et8vS0ynfWtbIFKKtZi4,Dreams Of You (feat. Rae Morris),2019-10-04,Dance Room,pop,dance pop,0.57,0.96,6,0,0.03,0.0,0.2,0.15,123.01,291785
+203,3RBk0P36O7wCMxF263jRJL,I Will Let You Down (feat. KLARA),Madison Mars,59,260cikvVyA0LdY9qMt2Lsd,I Will Let You Down (feat. KLARA),2019-12-06,Dance Room,pop,dance pop,0.61,0.92,0,0,0.07,0.2,0.31,0.42,126.02,182000
+204,4uRx3SdWG2cNVfRNVPwHDS,Carillon (with Achille Lauro),Nahaze,64,5m6qywwXbrvheftV15bf4q,Carillon (with Achille Lauro),2019-12-11,Dance Room,pop,dance pop,0.56,0.56,9,0,0.15,0.06,0.12,0.24,151.63,242385
+205,3ZRgqoTb7pVO11IxcKGtMo,La Vie - Gabry Ponte Mix,DJ Ross,42,39OTG6vCVZ01IHgUH9QgTR,La Vie (Gabry Ponte Mix),2019-11-15,Dance Room,pop,dance pop,0.59,0.88,4,0,0.22,0.08,0.33,0.48,127.01,177638
+206,0DhkTGjEaIHaSxTfC14BFm,Lullaby,R3HAB,70,2Y5NgR5CQJeqAz5iYN5agm,Lullaby,2018-01-26,Dance Room,pop,dance pop,0.63,0.8,1,0,0.04,0.03,0.06,0.26,127.97,160184
+207,4nx4h17pRj1ikT0hZecR8z,Say It,Phantoms,57,0xIhw2XT55ZWZvXT2ZKQ3w,Disconnect,2019-07-19,Dance Room,pop,dance pop,0.74,0.8,11,0,0.04,0.02,0.11,0.31,122.01,204693
+208,1tq4UL9BB7BHuT6eorlX3X,All This Time,Deorro,21,0gJoQZxblePiQK1nBisINs,All This Time,2019-07-12,Dance Room,pop,dance pop,0.66,0.86,2,1,0.32,0.17,0.12,0.23,130.07,225160
+209,4TIkSdsNSfqpuq6ZYvCjAz,All You Need To Know (feat. Calle Lehmann),Gryffin,68,2IAVHJdaRPFA6MQqXHoG75,Gravity,2019-10-24,Dance Room,pop,dance pop,0.53,0.73,0,1,0.04,0.01,0.1,0.22,139.93,238338
+210,4P7F3kb2Ze1YleD6lUYwJo,Acordeão,Tiësto,63,3s0VDNOSXqUsCg1IPIvD6B,Acordeão,2019-08-08,Dance Room,pop,dance pop,0.55,0.89,1,1,0.15,0.05,0.09,0.78,125.23,131204
+211,3qeJ84Y6PRS9LtliOuT94Z,My Friend,Yves V,54,4pW42SzwGvQ2VjFOnNXXX3,My Friend,2019-05-31,Dance Room,pop,dance pop,0.47,0.91,2,0,0.06,0.03,0.57,0.2,126.11,170000
+212,7sYAS4CpbV90oSemgaEQat,On & On,Alok,79,2a9AGivapFES2j2ElI3odn,On & On,2019-11-22,Dance Room,pop,dance pop,0.75,0.78,10,0,0.07,0.02,0.76,0.67,125.07,147027
+213,1CRy08G60mS5jvhB27xMpS,Juliet & Romeo,Martin Solveig,72,4ndTH1x8j5zYaidYSO5MXh,Juliet & Romeo,2019-12-06,Dance Room,pop,dance pop,0.71,0.66,11,1,0.03,0.04,0.07,0.78,122.01,204514
+214,02itaCXOdC54J0ISjqqFAp,All Around The World (La La La),R3HAB,80,0Y59j5oCvwTM2aNyPb6YpJ,All Around The World (La La La),2019-04-05,Dance Room,pop,dance pop,0.73,0.86,9,0,0.03,0.48,0.1,0.52,124.95,147840
+215,52EB2Gk1nkxZmbomJOXUde,Are You Lonely (feat. ISÁK),Steve Aoki,47,7kfaArlpn1f192XMoWQs5U,Are You Lonely (feat. ISÁK),2019-02-22,Dance Room,pop,dance pop,0.52,0.79,6,0,0.04,0.02,0.09,0.18,90.06,157333
+216,4Jwp3yjIQfudmjuctLQlfJ,No More (feat. Brenda Mullen) - Bottai Edit,Alex Gaudino,19,72KW8nIFEscnr5wwEQKVGS,No More (feat. Brenda Mullen) [Bottai Edit],2019-03-01,Dance Room,pop,dance pop,0.68,0.67,4,1,0.04,0.0,0.28,0.41,125.04,200640
+217,7N06jo3EnV792VFaG8vuW6,Close Your Eyes,Felix Jaehn,79,0PhTTyRWpJVlg4F5RC0xmE,Close Your Eyes,2019-11-22,Dance Room,pop,dance pop,0.82,0.82,11,0,0.2,0.07,0.13,0.52,128.14,160794
+218,517cAnPxsaxfrkKHHY41wB,Buzzing (with Nevve),Audien,59,2On33uhLKdn7nhqYtWvxhX,Escapism,2019-11-08,Dance Room,pop,dance pop,0.64,0.59,7,0,0.03,0.13,0.16,0.3,128.0,225000
+219,3GT2CBmJWIEdCpHiB31WYK,Never Be Alone (feat. Aloe Blacc),David Guetta,68,2bSuTiPTy8EhtwWbbmiPdK,Never Be Alone (feat. Aloe Blacc),2019-07-26,Dance Room,pop,dance pop,0.54,0.91,6,0,0.04,0.02,0.09,0.73,126.01,178671
+220,7fPuWrlpwDcHm5aHCH5D9t,Roses - Imanbek Remix,SAINt JHN,72,1p5rgTwzlrhJnSdi93zpbd,Roses (Imanbek Remix),2019-09-13,Dance Room,pop,dance pop,0.78,0.72,8,1,0.05,0.01,0.28,0.9,121.97,176219
+221,1rRWFc2p77FYyb67m5YeVO,Insane,Ofenbach,66,6xZas36HIne9hYQsXfySUi,Insane,2019-11-15,Dance Room,pop,dance pop,0.81,0.76,4,0,0.1,0.41,0.17,0.71,125.02,142230
+222,1LDDUVvutZ3qxvnOrulCBM,Daydreams - Sultan + Shepard Echoes Of Life Remix,ARTY,59,7L70aUHrZBbccNjXOl8vCz,Daydreams (Sultan + Shepard Echoes Of Life Remix),2020-01-03,Dance Room,pop,dance pop,0.67,0.79,1,1,0.04,0.03,0.56,0.16,122.0,220205
+223,2wOVXsIRIoniqipE9I5ZVx,Only Want You - Sam Feldt Remix,Rita Ora,64,7c9f6egxXKmO7tb0Hrhgrt,Only Want You (Sam Feldt Remix),2019-04-05,Cardio,pop,dance pop,0.58,0.79,9,1,0.13,0.23,0.12,0.35,105.94,179151
+224,0byab45cmZntz74RxcASrf,Close To Me (with Diplo) (feat. Swae Lee) - Felix Cartal Remix,Ellie Goulding,9,5bMicFMWsZlRZNTDq9h3oA,Close To Me (Remixes),2019-02-01,Cardio,pop,dance pop,0.73,0.84,1,0,0.03,0.01,0.16,0.47,126.01,223533
+225,4ciBIS83LHQpKf4noVKP51,Woke Up Late (feat. Hailee Steinfeld) - Sam Feldt Remix,Drax Project,41,7l7qbsJMfxuAci9hS0Gftr,Woke Up Late (Sam Feldt Remix),2019-05-02,Cardio,pop,dance pop,0.63,0.73,0,1,0.1,0.07,0.11,0.5,122.06,196475
+226,19TOAlTFq0NDHvUPQR0tkr,South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix,Ed Sheeran,69,3BjxjIkTZKUpeZ6n5MYMNx,South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix],2019-09-27,Cardio,pop,dance pop,0.84,0.77,2,0,0.07,0.21,0.11,0.78,114.05,195924
+227,6VP3410weACXiPCVLKSkOb,Not Ok - Frank Walker Remix,Kygo,66,0i8D6axM9VFpS6A6Pu4M7Z,Not Ok (Frank Walker Remix),2019-07-05,Cardio,pop,dance pop,0.68,0.87,2,1,0.06,0.03,0.07,0.44,121.93,183934
+228,5ql2mP9FUhB3SgMzv2akuO,Heaven (feat. Veronica),Dzeko,68,0YChiWq0EY70A7kYenRHyI,Heaven (feat. Veronica),2019-01-04,Cardio,pop,dance pop,0.66,0.88,0,0,0.05,0.25,0.11,0.18,127.99,195000
+229,3jwQwGVERUXo7eaAgL1xAo,Sixteen - Don Diablo Remix,Ellie Goulding,66,3J9P04H2RDPOt9rhKqr5Oz,Sixteen (Don Diablo Remix),2019-05-10,Cardio,pop,dance pop,0.49,0.77,5,0,0.16,0.43,0.08,0.3,123.15,193548
+230,46W9iEjOg5nkMvb6lo4Jwz,Don’t Give Up On Me Now (with Julie Bergan),R3HAB,63,3c75BN83lBpZC0sPBiSycu,Don’t Give Up On Me Now (with Julie Bergan),2019-05-10,Cardio,pop,dance pop,0.69,0.71,4,1,0.05,0.09,0.12,0.27,115.27,127826
+231,0GRoERSBBky3YgdKW2w2Vc,Brave,Don Diablo,68,1vlt3ZZeHbtRWKOFu45TEJ,Brave,2019-04-26,Cardio,pop,dance pop,0.65,0.87,6,1,0.05,0.17,0.13,0.54,119.85,184027
+232,3sHuIjfAzluc6S9cXoqfqC,Let It Be Me,Steve Aoki,23,5ocW53VBnOprl6EAMOLGet,Let It Be Me,2019-09-06,Cardio,pop,dance pop,0.66,0.76,7,1,0.09,0.08,0.11,0.39,114.1,224061
+233,4fK2NU9UyQJV74ZGiSVYsr,Carry On - Nicky Romero Remix,Kygo,67,14BprFzfLNat9osGVdFmXM,Carry On (Nicky Romero Remix),2019-05-30,Cardio,pop,dance pop,0.45,0.68,9,0,0.09,0.18,0.48,0.44,125.66,175312
+234,0jlpHhGUFn4aAWLsRRnwep,Magnets (feat. Sophie Simmons),Sam Feldt,62,6IUzDCyxwQG7OpLtR7b1Kq,Magnets (feat. Sophie Simmons),2019-05-10,Cardio,pop,dance pop,0.73,0.8,5,1,0.06,0.02,0.06,0.43,121.99,179016
+235,2pMntGuRgHAHVtrpC6kgGy,Don't Give Up On Me,Andy Grammer,9,4g1vikZzxSQv4GJjfca3sj,Don't Give Up On Me (with R3HAB),2019-04-12,Cardio,pop,dance pop,0.49,0.77,3,1,0.09,0.05,0.13,0.12,121.44,190645
+236,7EHCt2jdVwHp557sfMPosf,Found Love (feat. Lovespeake),MOTi,59,2iDiLocF5KAJfxDz7p5c68,Found Love (feat. Lovespeake),2019-02-15,Cardio,pop,dance pop,0.6,0.89,8,1,0.13,0.0,0.4,0.64,126.06,157024
+237,5YN0zHycJ0Yxz31A5QsVov,These Are The Times (feat. JRM),Martin Garrix,71,2OkqLVAw949KZZ8lgMMIdj,These Are The Times (feat. JRM),2019-07-18,Cardio,pop,dance pop,0.69,0.71,4,1,0.03,0.05,0.16,0.61,127.03,188656
+238,14nIFzHQf1OBWf6VHVR8DF,Wherever You Go,Jonas Blue,21,6x8gRx7RDvPckYBzPodW8w,Blue,2018-11-09,Cardio,pop,dance pop,0.71,0.72,7,1,0.11,0.08,0.04,0.48,104.05,208947
+239,14sOS5L36385FJ3OL8hew4,Happy Now,Kygo,81,6nAjd2MlBY1f1mNu6BsWLO,Happy Now,2018-10-26,Cardio,pop,dance pop,0.69,0.57,9,1,0.08,0.37,0.25,0.49,118.0,211362
+240,23FHa9lYnG6Dr8OzombPkS,Roots,Valerie Broussard,69,4p0nrJ3SXAtZVaCnY0C0kM,Roots,2019-08-16,Cardio,pop,dance pop,0.68,0.78,7,1,0.04,0.06,0.18,0.58,123.0,184564
+241,06BrHnTVDOydsfg0LZ6mQb,Talk - Alle Farben Remix,Khalid,56,0N3tXBqOxFYcmrYRe8HDvr,Talk (Alle Farben Remix),2019-04-04,Cardio,pop,dance pop,0.64,0.82,9,0,0.05,0.13,0.11,0.49,126.02,167990
+242,1YSwQvw1NrEPfA0j1iY8eV,All The Lies - Toby Romeo Remix / Radio Edit,Alok,56,2FdyKqNeEX2H7gUhtlmJDC,All The Lies (Remixes),2019-07-19,Cardio,pop,dance pop,0.71,0.81,6,1,0.18,0.01,0.37,0.63,119.97,163000
+243,1FlIzyCvRFQUE4pc7PiaIo,High Hopes - Don Diablo Remix,Panic! At The Disco,60,1cBoBrARkIfC4wGhxlK2qB,High Hopes (Don Diablo Remix),2019-01-11,Cardio,pop,dance pop,0.59,0.89,5,1,0.08,0.02,0.49,0.29,126.09,185714
+244,3eW2EDwNRAiQKkgom96dUa,Summer Air (feat. Trevor Guthrie),Hardwell,40,7aagqlOIxgnH5uvBs87f8s,Summer Air (feat. Trevor Guthrie),2019-05-31,Cardio,pop,dance pop,0.63,0.57,4,1,0.05,0.09,0.22,0.56,125.99,201905
+245,1k08GK7ox8SDmEMvn81TwU,Can We Pretend (feat. Cash Cash) - Sigala Remix,P!nk,57,0I9UedpOOvAbt7MsHe1X6U,Can We Pretend (feat. Cash Cash) [Sigala Remix],2019-06-28,Cardio,pop,dance pop,0.7,0.88,1,0,0.18,0.07,0.32,0.54,124.97,183360
+246,4raMIjIjMc8JohHth7l9lG,Bruises - Steve Void Remix,Lewis Capaldi,70,3bAq5agU2IUDfDuO4w50aR,Bruises EP,2019-09-27,Cardio,pop,dance pop,0.79,0.75,9,1,0.05,0.24,0.32,0.54,124.97,212280
+247,52Y5nYBQgqawttJxxtUv1e,Insomnia - King Arthur Remix,Daya,63,50HIbfbrQemacUUAD9UfNX,Insomnia (King Arthur Remix),2019-05-17,Cardio,pop,dance pop,0.73,0.72,4,0,0.04,0.01,0.33,0.21,122.99,176098
+248,4R7ZSlYoJOIaxHJFHszQCR,Don't Worry Bout Me - Rudimental Remix,Zara Larsson,65,7094we3M30fGknUwYLiT5f,Don't Worry Bout Me (Rudimental Remix),2019-04-24,Cardio,pop,dance pop,0.73,0.85,5,1,0.18,0.04,0.12,0.61,124.99,193137
+249,3N9YuL395rE4qNyHMsvOWC,I Miss Myself - R3HAB Remix,NOTD,56,4GLkE3fryp0Zp6C2AaOuBj,I Miss Myself (R3HAB Remix),2019-06-07,Cardio,pop,dance pop,0.5,0.78,0,1,0.24,0.33,0.72,0.61,122.69,183341
+250,6dX62wjTHi9F1srVTjV89X,8 Letters - R3HAB Remix,Why Don't We,2,1Wb0Ne9QaY136uNR6x0ObE,8 Letters (R3HAB Remix),2018-09-28,Cardio,pop,dance pop,0.64,0.71,1,0,0.04,0.24,0.31,0.58,103.16,132233
+251,0JumfyG7GUshFjxouEXwhw,You Deserve Better - Andrelli Remix,James Arthur,53,1UHf0Mm7wZ6CPspgzTo5uA,You Deserve Better (Andrelli Remix),2018-06-29,Cardio,pop,dance pop,0.68,0.71,6,0,0.09,0.33,0.05,0.48,114.99,196493
+252,3Iee2uf8UXOrOupQzfs1z5,Remember (with ZOHARA),Gryffin,11,7dethH7KZ5wo79ocoVX2AK,Remember (with ZOHARA),2018-10-26,Cardio,pop,dance pop,0.62,0.91,11,0,0.06,0.1,0.18,0.4,123.05,221773
+253,6jreFSOTUAViWjKyzOC4Kg,REMEDY,Alesso,77,0LOJHhz9ybWLVMLucHYtCe,REMEDY,2018-08-31,Cardio,pop,dance pop,0.6,0.78,0,1,0.05,0.27,0.09,0.48,119.96,190295
+254,5Qnk8vP5g9l5SDQKU3qyYQ,Leave,Borgeous,56,1Vv1feUAbvzBKe6kjhcJOp,Leave,2019-01-25,Cardio,pop,dance pop,0.76,0.66,11,0,0.05,0.17,0.1,0.96,115.95,193640
+255,3Mong1BzxMKwTZ0SbfLdcQ,Mama (feat. Ellie Goulding) - Tiësto’s Big Room Remix,Clean Bandit,65,4CdWEwelJIofGEEjSc62N9,Mama (feat. Ellie Goulding) [Tiësto’s Big Room Remix],2019-03-08,Cardio,pop,dance pop,0.68,0.95,1,0,0.08,0.02,0.1,0.44,125.97,156168
+256,4huh5oqBz9RkgpzAkyuEAs,I'm Not Sorry,Hardwell,34,4LNq2mMRI63zl6qzML1JHO,I'm Not Sorry,2019-03-08,Cardio,pop,dance pop,0.65,0.82,4,1,0.06,0.12,0.08,0.35,128.09,186094
+257,4Nu8sEejt46770gDUvFcrF,Tequila - Robin Schulz Remix,Dan + Shay,54,3VzF9guTGtfqq9SAyjnHrn,Tequila (Robin Schulz Remix),2019-03-21,Cardio,pop,dance pop,0.45,0.84,11,1,0.08,0.23,0.43,0.48,122.9,170103
+258,1IjuevPDJ8Sa97wFwQ5j4V,Happier - Frank Walker Remix,Marshmello,51,16M1uToqnw9bPO8wv8ypeE,Happier (Remixes),2018-10-19,Cardio,pop,dance pop,0.71,0.65,5,1,0.18,0.12,0.12,0.61,105.0,196571
+259,4d3cCNTG3PUgWhPButc4N7,Sing It With Me - Embody Remix,JP Cooper,50,2CSqme9HhEuoriPpNzwUiJ,Sing It With Me (Embody Remix),2019-06-21,Cardio,pop,dance pop,0.67,0.85,5,1,0.12,0.05,0.38,0.5,111.97,180571
+260,7r4nPsLToVIPdsiEeZKF6Y,Thursday - Nicky Romero Remix,Jess Glynne,52,0PMD7JbA1zLWuiC4ikRYxR,Thursday (Nicky Romero Remix),2018-12-07,Cardio,pop,dance pop,0.74,0.62,11,0,0.04,0.53,0.05,0.62,119.99,217804
+261,4Tvw0lweq9l2JPQKFbpbBQ,Better When You're Gone,David Guetta,76,4ZoXNDicq0MrsGk1pM883o,Better When You're Gone,2019-02-08,Cardio,pop,dance pop,0.65,0.8,1,0,0.04,0.06,0.19,0.41,127.99,192402
+262,1yAPglN5AGf7UoLK062ZYq,Wish You Well,Sigala,75,1yZZdubJ2rovC4QIBP8riQ,Wish You Well,2019-05-24,Cardio,pop,dance pop,0.67,0.9,5,0,0.06,0.13,0.3,0.58,124.96,205653
+263,4IAd7Vdwcc1E86P15tXjca,Only When It Rains,Frank Walker,52,1cCNxRCbzZyZPfWdNfXiHd,Only When It Rains,2019-03-29,Cardio,pop,dance pop,0.79,0.72,11,0,0.04,0.22,0.09,0.43,109.98,169000
+264,5qiQbOa6AFEO3P111y9Jry,Mad Love - Blinkie Remix,Mabel,62,0o9d312clt8gVtz1uZZkBW,Mad Love (Remixes),2019-07-05,Cardio,pop,dance pop,0.71,0.93,0,0,0.05,0.35,0.15,0.46,123.01,200893
+265,7nbVbGjifh0m2fhPYqcI1R,Sweet but Psycho - Morgan Page Dance Remix,Ava Max,65,6pZkOJtEaENfW9IURljzSh,Sweet but Psycho (Remixes),2018-08-16,Cardio,pop,dance pop,0.64,0.8,1,1,0.03,0.03,0.09,0.42,127.96,226875
+266,5NeFmsnXBy6xVbz8pesM5l,Better Day (feat. Aloe Blacc),Young Bombs,62,5f5QrP11Otp3kH67kC9tTa,Better Day (feat. Aloe Blacc),2019-11-01,Cardio,pop,dance pop,0.66,0.82,9,1,0.1,0.07,0.08,0.44,118.96,191786
+267,6fvbl9D9VjMtLRQsuWPyYt,Rescue Me (with BUNT.) - BUNT. Remix,OneRepublic,10,6TjDh702PCfRZjJreFlgkz,Rescue Me (with BUNT.) [BUNT. Remix],2019-08-02,Cardio,pop,dance pop,0.67,0.88,11,0,0.06,0.14,0.18,0.7,121.08,174545
+268,1MgpEKnO6sgMTb5zumAsgn,Discovery,Syn Cole,55,3lEnnkcv3BuCf8tUsNvqlC,Discovery,2019-05-31,Cardio,pop,dance pop,0.52,0.86,0,0,0.05,0.04,0.26,0.45,127.95,198750
+269,06Z7Hy2LUzbcSFmWzwkun1,With You - Frank Walker Remix,Tyler Shaw,49,7mgxrTvbIw7k1Vaij5EPbE,With You (Frank Walker Remix),2019-02-01,Cardio,pop,dance pop,0.69,0.61,2,1,0.07,0.04,0.25,0.45,104.99,206875
+270,0EdgK7ASb4kfRkW8pVMN02,2 Hearts (feat. Gia Koka),Sam Feldt,70,798RdmwmE3IZcZnW0jT7kc,2 Hearts (feat. Gia Koka),2020-01-10,Cardio,pop,dance pop,0.5,0.75,7,1,0.04,0.26,0.3,0.6,116.52,186750
+271,2gqzTQEn4g5ly0n5ScdMx0,Love You Forever,Nicky Romero,61,6HiujSCdsYuCXdd759w2kr,Love You Forever,2019-06-21,Cardio,pop,dance pop,0.38,0.7,6,1,0.04,0.0,0.11,0.15,127.82,234609
+272,36orMWv2PgvnzXsd5CJ0yL,Post Malone (feat. RANI),Sam Feldt,75,45nsubB5EsRVWWqx0ED1ET,Post Malone (feat. RANI) [Joe Stone Remix],2019-08-16,Dance Pop Hits,pop,dance pop,0.59,0.64,7,1,0.12,0.08,0.1,0.65,107.36,174444
+273,6DuE8kXIDJ3oiCibWXmgeN,Thorns,Faustix,60,57ATyOS7Gud3uEjzIbMp7Y,Thorns,2019-03-29,Dance Pop Hits,pop,dance pop,0.71,0.82,4,1,0.06,0.03,0.19,0.66,109.99,186000
+274,5up5uXChMJLKyuop9HwtCb,Shotgun (The Wild Remix),George Ezra,63,3pjsiMldUHVmgQCPVyVXAY,Shotgun (The Wild Remix),2018-06-15,Dance Pop Hits,pop,dance pop,0.59,0.76,5,1,0.07,0.33,0.32,0.84,122.81,191650
+275,4AMY0oGSt7vZwgxDnHCJBr,True Colors (feat. Maya Avedis),XO Cupid,73,4oWDDk4LhzvUe3FIwUqoyf,True Colors (feat. Maya Avedis),2018-09-21,Dance Pop Hits,pop,dance pop,0.64,0.63,0,1,0.03,0.08,0.13,0.45,104.84,184020
+276,0VQUyufAldw4Eitv71TPmg,Crying In The Sun,Faustix,60,23d1NJtxGxLlsE6PWuJLYi,Crying In The Sun (Remixes),2018-11-23,Dance Pop Hits,pop,dance pop,0.68,0.79,11,0,0.05,0.21,0.12,0.66,91.04,195947
+277,0EQeui6OBMzqJ3Z3wCOzZh,Need You,Faustix,62,1IqpPKPKVpu1VWZ67VnHPB,Need You,2019-07-26,Dance Pop Hits,pop,dance pop,0.64,0.7,7,0,0.05,0.04,0.42,0.6,124.96,182161
+278,1o9D0rUusi2V5idyOEOPII,Sweet Dreams (Are Made of This),Winati,67,6j3DvP1XrNbx0FtXBu5N4B,Sweet Dreams (are Made of This),2019-06-21,Dance Pop Hits,pop,dance pop,0.82,0.65,9,0,0.22,0.4,0.07,0.18,125.95,176773
+279,2neq77lIMkitQwBwy1EDng,Million Lights,Tungevaag & Raaban,61,4xIKirq98Qelfsl2l3ZnaM,Million Lights,2019-03-22,Dance Pop Hits,pop,dance pop,0.7,0.91,0,0,0.07,0.02,0.12,0.47,125.93,186667
+280,5ow0sNF1zSqp71Ix5jEXWU,Dancing in the Moonlight,Jubël,71,47hMwqG7KVLVzyMjgYUqxM,Dancing in the Moonlight,2018-06-22,Dance Pop Hits,pop,dance pop,0.66,0.62,11,0,0.06,0.27,0.19,0.19,119.86,164010
+281,0vrmHPfoBadXVr2n0m1aqZ,Heaven,Avicii,80,6Ad1E9vl75ZB3Ir87zwXIJ,TIM,2019-06-06,Dance Pop Hits,pop,dance pop,0.59,0.87,9,1,0.03,0.07,0.14,0.52,122.01,277262
+282,0o9bHFc8Lt5tZFvTjNZTNf,Forever Young,John De Sohn,68,0nLD2ahCOhs0ovmz6ZfFdE,Forever Young,2018-07-27,Dance Pop Hits,pop,dance pop,0.65,0.62,8,1,0.03,0.18,0.11,0.59,121.98,167912
+283,3oN9prOZJ8jR6rFP4YMJF9,eoh,Olympis,60,0gJOTfFxUvUkqlHcgtEN4z,eoh,2019-08-16,Dance Pop Hits,pop,dance pop,0.71,0.58,5,1,0.07,0.14,0.26,0.28,125.16,155520
+284,0Qew3aYvQPGPjfL7gbe6x1,Nobody,Martin Jensen,66,0eMIuQHirCneY8uw37o03y,Nobody,2019-03-01,Dance Pop Hits,pop,dance pop,0.67,0.69,6,0,0.06,0.27,0.18,0.52,96.96,211040
+285,5naYe7rLMZcLfO1DKg48MK,All Day And Night,Jax Jones,75,16H9XbDP9IxeyOohsXkKXb,Snacks,2019-07-12,Dance Pop Hits,pop,dance pop,0.57,0.76,1,0,0.11,0.32,0.14,0.54,121.92,169467
+286,3LaQ1GajOXoUeiTA9UAcCK,There's No Way (feat. Julia Michaels) - Alle Farben Remix,Lauv,58,2n704ob50ZCvay9I2W9Cwi,There's No Way (remixes),2018-11-01,Dance Pop Hits,pop,dance pop,0.77,0.83,11,0,0.04,0.02,0.14,0.44,126.01,187301
+287,3DGar7krWlmrXRFHBcQF6z,Whenever (feat. Conor Maynard),Kris Kross Amsterdam,74,5so9rCf7p2L6w6o4KZahE9,Whenever (feat. Conor Maynard),2018-06-22,Dance Pop Hits,pop,dance pop,0.73,0.76,7,1,0.06,0.15,0.23,0.52,109.99,163636
+288,5VGBgPVFO3e0lWz4WHYntQ,All For Love,Tungevaag & Raaban,68,7HIBYcRPuix4vb4C3d6F0C,All For Love,2018-03-23,Dance Pop Hits,pop,dance pop,0.69,0.9,7,1,0.07,0.14,0.46,0.65,125.12,180485
+289,6sYJuVcEu4gFHmeTLdHzRz,Bittersweet Symphony (feat. Emily Roberts),GAMPER & DADONI,72,4kFCmKMq1c6gl8eema7wkg,Bittersweet Symphony (feat. Emily Roberts),2019-03-29,Dance Pop Hits,pop,dance pop,0.68,0.58,9,1,0.13,0.22,0.52,0.45,124.01,194618
+290,3eS1VMcEmq2IUgpaeDysCb,One Touch,Jess Glynne,70,7GCY1J01hcEpdgeY0vtSsN,Always in Between (Deluxe),2018-10-12,Dance Pop Hits,pop,dance pop,0.69,0.69,0,0,0.13,0.33,0.14,0.7,124.21,197876
+291,4fCAOaMs0PYL58OijKp2IS,"fuck, i’m lonely (with Anne-Marie) - Ofenbach Remix",Lauv,58,1vtHFX1NTE4awfd2sR1VGP,"fuck, i’m lonely (with Anne-Marie) (Ofenbach Remix)",2019-08-30,Dance Pop Hits,pop,dance pop,0.76,0.67,9,1,0.04,0.01,0.03,0.76,105.03,178512
+292,2mSIu1ZPo22Ihx3EwS4E6h,Be Your Friend‬‬,Vigiland,67,33GfLqCFzz4RMZe1bLkFTe,Be Your Friend,2018-03-02,Dance Pop Hits,pop,dance pop,0.6,0.75,0,1,0.05,0.07,0.15,0.64,128.04,180820
+293,31OqWK8Lc6GnUbnLG3GqPX,Happier - Breathe Carolina Remix,Marshmello,62,16M1uToqnw9bPO8wv8ypeE,Happier (Remixes),2018-10-19,Dance Pop Hits,pop,dance pop,0.69,0.92,0,1,0.06,0.01,0.4,0.34,125.98,158095
+294,7rpyHKSH3dkrsKEgv1eNgv,Woke Up Late (feat. Hailee Steinfeld) - Sam Feldt Remix,Drax Project,56,5VW1WffQj2SqKUhwnNq1xJ,Woke Up Late (feat. Hailee Steinfeld) [Sam Feldt Remix],2019-05-02,Dance Pop Hits,pop,dance pop,0.63,0.73,0,1,0.1,0.07,0.11,0.5,122.06,196475
+295,5CpkVOosLFc83LbwqO6hnI,Just Got Paid,Sigala,65,5rr0xAQfk01cPi1N37jX11,Brighter Days,2018-09-28,Dance Pop Hits,pop,dance pop,0.73,0.92,6,0,0.09,0.03,0.2,0.65,120.06,218480
+296,3cJEgWbsBmGkvXz906tgut,No One - Jonas Blue Remix,Jess Glynne,51,7xEh3nCOKbIlVwu3v7IDSM,No One (Jonas Blue Remix),2019-03-15,Dance Pop Hits,pop,dance pop,0.6,0.85,11,0,0.05,0.07,0.54,0.16,124.02,214641
+297,3ZqKbMO9UasuKgQeGT7QZS,Speechless (feat. Erika Sirola) - MOTi Remix,Robin Schulz,54,1rSXRmFlK9LVJySoVIdZyV,Speechless (feat. Erika Sirola) [MOTi Remix],2019-03-22,Dance Pop Hits,pop,dance pop,0.61,0.52,1,1,0.08,0.01,0.15,0.34,127.98,181875
+298,5mYNWSc1AE7pWS3Ax4e8Dl,Close To Me (with Diplo) (feat. Swae Lee) - Felix Cartal Remix,Ellie Goulding,61,2tRRqWb7Zfodd3bO0cTDwc,Close To Me (Remixes),2019-02-01,Dance Pop Hits,pop,dance pop,0.73,0.84,1,0,0.03,0.01,0.16,0.47,126.01,223533
+299,6SRWhUJcD2YKahCwHavz3X,Darkside,Alan Walker,76,3nzuGtN3nXARvvecier4K0,Different World,2018-12-14,Dance Pop Hits,pop,dance pop,0.43,0.61,4,0,0.04,0.13,0.17,0.12,169.99,211680
+300,7Feaw9WAEREY0DUOSXJLOM,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,83,0xbuJLlb5afBcmCpdOaszR,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),2019-04-25,Dance Pop Hits,pop,dance pop,0.66,0.72,5,0,0.06,0.18,0.14,0.32,113.78,163805
+301,7K7MUBCnzgBAvMVW2RTWNs,Body (feat. brando),Loud Luxury,63,7fesgWyA3ehM0OFK14B9xR,Body (feat. brando),2017-10-27,Dance Pop Hits,pop,dance pop,0.75,0.76,1,1,0.04,0.05,0.05,0.58,121.96,163216
+302,47dABAPyBgKB3iQCrC4Vrv,Who's Got Your Love,Cheat Codes,70,6d4dRmGQEOf0EAZepURdbY,Who's Got Your Love,2019-03-15,Dance Pop Hits,pop,dance pop,0.7,0.89,11,1,0.05,0.01,0.08,0.53,125.03,157000
+303,6vRCKJDtnrJEcyyzIMa0w0,Never Go Back - Robin Schulz Remix,Dennis Lloyd,70,4GxEU2Ff0UjkBPJRguxz5Q,Never Go Back (Remixes),2019-06-07,Dance Pop Hits,pop,dance pop,0.66,0.71,9,0,0.05,0.34,0.1,0.61,94.05,184653
+304,4BM4ml3TgBFALLaCaJtVhi,Pumped Up,Klingande,56,6pCYWWK3GomeTRX2SlxhHc,Pumped Up,2017-09-08,Dance Pop Hits,pop,dance pop,0.73,0.73,0,1,0.11,0.01,0.34,0.64,123.03,177073
+305,4D3o6Hh3GydRpTTlyLP3D9,California,Hot Shade,65,6dftjHiL3zcmIivOvehjPP,California,2018-05-04,Dance Pop Hits,pop,dance pop,0.62,0.74,7,1,0.04,0.02,0.35,0.67,119.98,169157
+306,3R6dPfF2yBO8mHySW1XDAa,Solo Dance,Martin Jensen,61,7J6SYqcOQ705IYA0DUec38,Solo Dance,2016-11-04,Dance Pop Hits,pop,dance pop,0.75,0.85,9,1,0.05,0.05,0.2,0.4,114.96,174933
+307,164C9bSF4ryqWXI4XgxTE0,Replay,Davai,60,5PA89MT2uA7FYVcjcI9but,Replay,2017-08-25,Dance Pop Hits,pop,dance pop,0.78,0.81,6,0,0.07,0.42,0.18,0.58,100.07,202520
+308,4fC6tDEFmSBBCRBUOPeQ8b,Think About You - Galantis Remix,Kygo,63,2wXZfNTNqANPvIG3mXhn7I,Think About You (Galantis Remix),2019-04-12,Dance Pop Hits,pop,dance pop,0.62,0.9,10,1,0.04,0.1,0.4,0.33,124.02,181040
+309,7lPo7aUbqNz5qmcan9Oj3F,Love No More,Loud Luxury,54,577DyqNxualYzG6mnJRXOb,Love No More,2018-08-31,Dance Pop Hits,pop,dance pop,0.77,0.67,0,1,0.05,0.02,0.26,0.22,121.01,168636
+310,1HvCFAUIWQsWV9zud3UhDl,All Falls Down (feat. Juliander),Alan Walker,70,3nzuGtN3nXARvvecier4K0,Different World,2018-12-14,Dance Pop Hits,pop,dance pop,0.66,0.67,1,1,0.06,0.25,0.31,0.68,98.0,198880
+311,76WNl0hDHHxTUhfLrEIBSm,Lonely Together (feat. Rita Ora),Avicii,6,6Vn8F3hERVHYYz5RfKmsAN,Phoenix (Deluxe Edition),2018-11-23,Dance Pop Hits,pop,dance pop,0.64,0.66,5,1,0.06,0.14,0.09,0.27,103.08,181960
+312,6xTU6B6nFwKKTSZ9ySXS80,Remind Me to Forget,Kygo,70,47oyrKaeobswT4T8zyaxdM,Kids in Love,2017-11-03,Dance Pop Hits,pop,dance pop,0.69,0.5,0,1,0.09,0.16,0.14,0.31,99.02,217293
+313,0jvqmWRCyv7xnxqrtinbHJ,Next To Me,Axel Johansson,54,2vmWPG2zs3LXAMsfkMOXh6,Next To Me,2018-04-20,Dance Pop Hits,pop,dance pop,0.44,0.6,8,1,0.06,0.16,0.13,0.26,175.9,179500
+314,5itOtNx0WxtJmi1TQ3RuRd,Giant (with Rag'n'Bone Man),Calvin Harris,83,4PwXTHenZZx7ebgsnTM65K,Giant (with Rag'n'Bone Man),2019-01-11,Dance Pop Hits,pop,dance pop,0.81,0.89,1,0,0.04,0.02,0.08,0.61,122.02,229184
+315,1uuUnsWpJwqBh5GRQ8uxla,Happier - Tiësto’s AFTR:HRS Remix,Ed Sheeran,53,5GpwroXObdnETiIpVb1l23,Happier (Tiësto’s AFTR:HRS Remix),2018-06-01,Dance Pop Hits,pop,dance pop,0.68,0.82,0,1,0.03,0.01,0.2,0.38,117.99,216000
+316,4DfxFGwreu9BquiLRClwh8,Hum With Me,John De Sohn,55,2BlKfvaFNecIDsjTybbT8X,Hum With Me,2017-06-09,Dance Pop Hits,pop,dance pop,0.65,0.71,10,1,0.03,0.11,0.16,0.35,111.92,167871
+317,6Pgkp4qUoTmJIPn7ReaGxL,Without You (feat. Sandro Cavazza),Avicii,81,1m3mf7xkXIwssVriaaTjOS,AVĪCI (01),2017-08-10,Dance Pop Hits,pop,dance pop,0.66,0.86,2,1,0.04,0.0,0.05,0.3,133.99,181673
+318,3R8lr1Y1kPgXEbnXkcMMlT,Call On Me - Ryan Riback Remix,Starley,58,3PznGvjYhmK2jeTA1pdxkK,Call On Me,2016-10-07,Dance Pop Hits,pop,dance pop,0.69,0.82,0,1,0.04,0.14,0.09,0.76,104.96,222000
+319,4ESPuOrSsRcBISzcMlzmY5,Sad (feat. Afrojack),Chico Rose,75,3iyLP2ce8hthgd4ygzLRJD,Sad (feat. Afrojack),2019-08-30,Dance Pop Hits,pop,dance pop,0.72,0.72,3,0,0.04,0.04,0.07,0.21,125.06,161280
+320,0Zbbxnx4SGGHoIow4PpISP,Stargazing,Kygo,73,2sPYPyDFwgi1jrRTGhoxq2,Stargazing - EP,2017-09-21,Dance Pop Hits,pop,dance pop,0.68,0.5,5,1,0.08,0.15,0.09,0.42,99.14,236853
+321,72gv4zhNvRVdQA0eOenCal,Symphony (feat. Zara Larsson),Clean Bandit,73,1MvF4ulZKH7SaDQs9rE5nc,What Is Love? (Deluxe Edition),2018-11-30,Dance Pop Hits,pop,dance pop,0.72,0.6,0,0,0.04,0.24,0.19,0.45,122.96,212733
+322,2kLf4myxQME1Nd0voeKZri,Stay Young,Mike Perry,57,5sOd5q1iOb5gkBAX2F4LKn,Stay Young,2017-09-01,Dance Pop Hits,pop,dance pop,0.57,0.71,5,1,0.04,0.08,0.23,0.56,90.0,157005
+323,4q8PHoRsPUB52LFylX8Ulz,More Than You Know,Axwell /\ Ingrosso,25,5wtHzowB37Fre3iXWQW5v5,More Than You Know,2017-05-24,Dance Pop Hits,pop,dance pop,0.64,0.74,5,0,0.03,0.03,0.29,0.53,123.07,203000
+324,2devxXJUTEIFmgt8cXaqmO,Why Boy,Steff da Campo,55,2POadj9PRm2V5QbVuVPDUo,Why Boy,2019-06-07,Dance Pop Hits,pop,dance pop,0.5,0.92,11,0,0.04,0.15,0.27,0.28,120.02,150005
+325,0ct6r3EGTcMLPtrXHDvVjc,The Nights,Avicii,80,0h2knr6qpiAq0tV5ri5JMF,The Days / Nights,2014-01-01,Dance Pop Hits,pop,dance pop,0.53,0.84,6,1,0.04,0.02,0.25,0.65,125.98,176658
+326,7dOeiXeTSfA1ixaYmQcWu7,Rich Love (with Seeb),OneRepublic,69,0fLgNovzjpxE13hCIWa0sL,Rich Love,2017-07-14,Dance Pop Hits,pop,dance pop,0.4,0.87,1,0,0.31,0.17,0.36,0.47,104.59,201257
+327,7jEyX4bqaCSdMN4D4JNnVj,Mama,Jonas Blue,74,2xZSrcBmvMw9Y8hac6xU7L,Blue,2018-11-09,Dance Pop Hits,pop,dance pop,0.74,0.79,11,0,0.04,0.1,0.05,0.57,104.01,184134
+328,6ULQ6ZRc7JuVutRMy6gfgc,Feel Good,Felix Jaehn,65,2S56F6bIk01HboGbJJJ1IQ,I,2018-02-16,Dance Pop Hits,pop,dance pop,0.7,0.9,4,1,0.04,0.12,0.17,0.66,125.95,166947
+329,0FlnsBDwPglenLJoQjPd4K,IDGAF - Hazers Remix,Dua Lipa,50,6FbzwQExjva7Whs6v79JW9,IDGAF (Remixes),2018-02-23,Dance Pop Hits,pop,dance pop,0.81,0.7,7,1,0.09,0.1,0.07,0.6,110.0,240617
+330,4Vbz3osCh6DwHYv5gVv5H2,Breathe (feat. Ina Wroldsen),Jax Jones,66,16H9XbDP9IxeyOohsXkKXb,Snacks,2019-07-12,Dance Pop Hits,pop,dance pop,0.72,0.73,11,0,0.04,0.02,0.13,0.67,125.99,208107
+331,4OgwXdylh75fHfwUzJTUqg,Rockstar,Ilkay Sencan,71,1US66auJ538TiXGeUf24yL,Rockstar,2019-06-21,Dance Pop Hits,pop,dance pop,0.77,0.83,11,1,0.06,0.14,0.14,0.18,100.01,212280
+332,4kWO6O1BUXcZmaxitpVUwp,Jackie Chan,Tiësto,79,0vRcQquqBlFvnezWldWfmt,Jackie Chan,2018-05-18,Dance Pop Hits,pop,dance pop,0.75,0.83,3,0,0.04,0.37,0.06,0.69,128.0,215760
+333,0A5gdlrpAuQqZ2iFgnqBFW,Moonlight,Gaullin,76,4IU5ADOJ9DnVa9clXVhrEE,Moonlight,2018-09-07,Dance Pop Hits,pop,dance pop,0.81,0.76,10,0,0.08,0.05,0.34,0.29,124.96,173067
+334,0BiGd2FNDQ0eh79ZHfp6tS,All I Wanna Do,Martin Jensen,55,5iTIgNz59Z4j1wtX0I29z8,All I Wanna Do,2016-04-08,Dance Pop Hits,pop,dance pop,0.73,0.79,1,1,0.06,0.15,0.07,0.52,112.07,194360
+335,25sgk305KZfyuqVBQIahim,Sweet but Psycho,Ava Max,87,7CdLU3GgPy1PH5FVsrPlyA,Sweet but Psycho,2018-08-17,Pop Warmup 130 BPM,pop,dance pop,0.72,0.7,1,1,0.05,0.07,0.17,0.63,133.0,187436
+336,3xE7LrW7P54CYNQYqLhl6J,Melody - ANGEMI Remix,Lost Frequencies,35,3or60SQHzxbuZkNqkzeAas,"Melody (Remixes, Pt. 1)",2018-06-15,Pop Warmup 130 BPM,pop,dance pop,0.56,0.83,0,1,0.1,0.01,0.1,0.4,127.95,209341
+337,4ut5G4rgB1ClpMTMfjoIuy,High On Life (feat. Bonn),Martin Garrix,77,1GUfof1gHsqYjoHFym3aim,High On Life (feat. Bonn),2018-07-29,Pop Warmup 130 BPM,pop,dance pop,0.41,0.49,6,0,0.03,0.01,0.11,0.37,128.04,230762
+338,0uUNN1nSoUx1A4fkDCWDQ7,So Am I,Ava Max,83,2XvFk3xrG7dV6GhqcJSQHX,So Am I,2019-03-07,Pop Warmup 130 BPM,pop,dance pop,0.68,0.66,6,1,0.04,0.07,0.35,0.61,130.09,183027
+339,1byydVLDAt7An5Pk3SuL5j,I Know You - Vigiland Remix,Craig David,51,2WhixOxit7FV5fyM3XQTwo,I Know You (Remixes),2018-02-09,Pop Warmup 130 BPM,pop,dance pop,0.67,0.47,9,1,0.07,0.09,0.22,0.22,127.96,183345
+340,1RxlBxlaJpSEVnLk4Gtvym,Through To You,Lyente,2,1Zyv63VwNJhwo11H18lFjH,Through To You,2018-04-17,Pop Warmup 130 BPM,pop,dance pop,0.69,0.69,2,1,0.17,0.07,0.14,0.31,131.94,129238
+341,7IWTIkiWGWNQyYfOLdMrGD,Burn Out (feat. Dewain Whitmore),Martin Garrix,68,3feYPmyPH7tqh1ZfsU0D0i,Burn Out (feat. Dewain Whitmore),2018-09-14,Pop Warmup 130 BPM,pop,dance pop,0.59,0.72,4,0,0.04,0.02,0.07,0.41,127.88,200322
+342,67FPUOM5Q2sSvS3iqLxSFs,Penny,Dimitri Vangelis & Wyman,50,19TAr9aIXmY4TGm1V5HrIK,Penny,2019-03-29,Pop Warmup 130 BPM,pop,dance pop,0.47,0.97,2,1,0.05,0.02,0.19,0.28,130.0,199245
+343,0Qmqhtqco9ifi7ScZh1095,Wait For Me,Steve Brian,42,08ydaEEAwxumFQjkRHx3Sa,Wait For Me,2018-10-12,Pop Warmup 130 BPM,pop,dance pop,0.46,0.74,10,1,0.06,0.01,0.37,0.07,125.99,217143
+344,2Fxmhks0bxGSBdJ92vM42m,bad guy,Billie Eilish,95,0S0KGZnfBGSIssfF54WSJh,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,Pop Warmup 130 BPM,pop,dance pop,0.7,0.42,7,1,0.38,0.33,0.1,0.56,135.13,194088
+345,0FC7eAz8CW9HAWnBr8Yo42,Daylight (Airbeat One Anthem 2018),Fluex,50,2Rd9MkQmupPCqDMpHWFapL,Daylight (Airbeat One Anthem 2018),2018-06-22,Pop Warmup 130 BPM,pop,dance pop,0.63,0.94,7,0,0.04,0.07,0.32,0.35,128.05,191500
+346,7LYMT7ZaJC6KaKaXod9qNq,Imagine,Rob Tirea,21,5MtAwnYs9ZkvgymX5BVLh5,Imagine,2018-04-13,Pop Warmup 130 BPM,pop,dance pop,0.58,0.78,7,0,0.04,0.36,0.18,0.61,129.03,190698
+347,6fIgsZFtGXiIvxb2Y6oCc7,Apple Juice (feat. Carla Monroe) - MOTi Remix,SLATIN,63,3CMNZWxeWDe6lSnZq5hnoD,Apple Juice (feat. Carla Monroe) [MOTi Remix],2018-11-30,Pop Warmup 130 BPM,pop,dance pop,0.67,0.91,0,1,0.1,0.0,0.17,0.41,128.04,138750
+348,47knrBbYhqtrggWYSkU6h1,Glitch,Martin Garrix,56,1Vb1gttHEF1ehOTvga4VSM,Glitch,2018-12-14,Pop Warmup 130 BPM,pop,dance pop,0.72,0.79,2,0,0.03,0.06,0.27,0.36,128.02,185161
+349,46x4SztssOJ1KzRjPqVUPk,Brand New (Helium),Lvly,2,6l0qcKAJyMEcpjKwIOy1sT,Brand New (Helium),2018-04-13,Pop Warmup 130 BPM,pop,dance pop,0.71,0.81,7,0,0.08,0.01,0.34,0.32,128.04,173797
+350,0AKxkfd5NLlWMXCVgH6a6X,Shades Of Voices (Original Mix),PULLER,2,7aiGXCtPcD85kpHMkLamxg,Shades Of Voices (Original Mix),2017-01-23,Pop Warmup 130 BPM,pop,dance pop,0.69,0.87,4,0,0.09,0.03,0.07,0.09,127.99,283193
+351,43ZeyBuql1TboyWE3ElHXj,In Time,CAZZETTE,49,3FDjCuh7MQxohzIfMV93Mq,Stereo Mono,2018-10-12,Pop Warmup 130 BPM,pop,dance pop,0.65,0.71,3,0,0.04,0.11,0.05,0.42,125.09,191954
+352,3EKKIR8be1kfAAwaz1fzyS,Halfway There (feat. Lena Leon),Tiësto,60,1o7RMlwMagNna98i4e8VpN,Halfway There (feat. Lena Leon),2019-03-15,Pop Warmup 130 BPM,pop,dance pop,0.59,0.89,0,1,0.08,0.0,0.82,0.07,128.02,195000
+353,4u6chQOq3h6g03cnPzAxcz,Spirit Of Freedom,Dropgun,45,2NYNdxFqVUDLMTNfJAJbcc,Spirit Of Freedom,2019-01-25,Pop Warmup 130 BPM,pop,dance pop,0.44,0.91,9,0,0.06,0.02,0.12,0.22,128.18,161250
+354,5UaEBgRvUPFf5CEDhaTdp7,Mama Look at Me Now,Galantis,56,7sYMi1QPQnCL99k1VCaWTZ,Satisfied (feat. MAX) / Mama Look at Me Now,2018-07-13,Pop Warmup 130 BPM,pop,dance pop,0.59,0.68,10,1,0.04,0.03,0.07,0.4,126.06,178132
+355,6wigvUlHft5QfkbxmAG5uC,Toxic Rain - No Class Remix,Alicia Madison,41,0iY2E7FcjTHyQUCsnrm7D3,Toxic Rain (No Class Remix),2018-05-11,Pop Warmup 130 BPM,pop,dance pop,0.46,0.77,0,0,0.05,0.02,0.23,0.27,131.08,190992
+356,3b0cJPguhWOh2hjY6Lu192,The Beat,Mike Williams,70,4JNPld6nm2eS65WsyjFl5r,The Beat,2018-07-23,Pop Warmup 130 BPM,pop,dance pop,0.56,0.95,7,0,0.03,0.12,0.27,0.79,128.01,162187
+357,3QC33AxvY2sdxq22ym3aSL,Wild Wild Son,Armin van Buuren,57,3ZNgupDRFynxar0tTeyYE4,Wild Wild Son,2018-10-12,Pop Warmup 130 BPM,pop,dance pop,0.45,0.57,3,1,0.03,0.04,0.11,0.17,135.96,213707
+358,6nsLzJfvp5OLd4mgqUJkpq,Waiting For Love,Avicii,16,5ttIIMPWCp2bvwsdAPcEXC,Stories,2015-10-02,Pop Warmup 130 BPM,pop,dance pop,0.58,0.74,6,0,0.05,0.3,0.14,0.58,128.08,230613
+359,1fN2cemf6ByT2WKqtumwR5,Shelter (Mix Cut) - Yoel Lewis Remix,Dash Berlin,48,6Reti1cBTL0xRbD7ISFbRb,Trance Top 1000 (Mini Mix 006) - Armada Music,2018-04-20,Pop Warmup 130 BPM,pop,dance pop,0.49,0.86,3,0,0.05,0.0,0.25,0.15,129.9,105219
+360,6RnkFd8Fqqgk1Uni8RgqCQ,Like I Do,David Guetta,72,5oU1ROIHS6IOWnb87GWhqU,Like I Do,2018-02-22,Pop Warmup 130 BPM,pop,dance pop,0.64,0.9,0,0,0.04,0.01,0.37,0.15,127.98,202500
+361,5fEpuvcNvERP7EHtLe28Zy,Skyline,Catiso,2,1bxLxGgBm9Cy1yhm6n7y67,Mercury,2018-02-23,Pop Warmup 130 BPM,pop,dance pop,0.73,0.79,0,1,0.04,0.24,0.26,0.48,128.01,176260
+362,45NYp6HaMbhHNtn8sTnztn,Callin' - Extended Mix,Lush & Simon,2,2qYpzBWHF5ueyOzPGejsas,Callin',2018-06-01,Pop Warmup 130 BPM,pop,dance pop,0.63,0.96,8,0,0.07,0.03,0.12,0.39,127.98,217500
+363,7HdHOGbA7uyepn1jbPKqOx,Roads,Vargas & Lagola,66,3ltAYQxLWZzfUmMPKMZeMr,Roads,2018-02-09,Pop Warmup 130 BPM,pop,dance pop,0.53,0.81,2,0,0.03,0.0,0.36,0.53,131.88,234680
+364,49ziHtycEUnbFQtE8e8slt,Jackie Chan,Tiësto,60,7aE9lb09OAGPZHkdC4bM8R,Jackie Chan,2018-05-18,Pop Warmup 130 BPM,pop,dance pop,0.74,0.84,3,0,0.05,0.34,0.06,0.69,128.02,215676
+365,3kGfazcbVvVkuZunzlLgTD,Came Here for Love,Sigala,68,22x1g0NEicPMxuEOXlGUw5,Came Here for Love,2017-06-09,Pop Warmup 130 BPM,pop,dance pop,0.71,0.87,6,1,0.04,0.03,0.12,0.72,124.99,202999
+366,2ZEqEHPOhJdkI9pCCW9pBD,Kids in Love - Don Diablo Remix,Kygo,50,6qLA2cyWhZXDOCBkTpf1zc,Kids in Love (Don Diablo Remix),2018-05-11,Pop Warmup 130 BPM,pop,dance pop,0.65,0.91,9,0,0.06,0.06,0.3,0.34,125.96,195714
+367,35ARq65zezGBwA7EHBXm2w,Let You Down - Chris Royal Remix,Bombs Away,39,2bmyS94EwnrcODUWQvfsG4,Let You Down (Remixes),2018-04-16,Pop Warmup 130 BPM,pop,dance pop,0.36,0.94,0,0,0.11,0.0,0.1,0.14,127.98,172500
+368,1N4n7soiQQ8TRsntrkItyA,Mercury,Catiso,1,1bxLxGgBm9Cy1yhm6n7y67,Mercury,2018-02-23,Pop Warmup 130 BPM,pop,dance pop,0.73,0.83,6,0,0.05,0.0,0.27,0.23,128.0,189625
+369,0XOFJ634crTl8z9N5Gxh2S,Different Place,STVCKS,4,007354CLF8nvIbRN7Gwns9,Different Place,2018-03-02,Pop Warmup 130 BPM,pop,dance pop,0.67,0.94,10,0,0.05,0.04,0.1,0.04,128.0,171712
+370,2OlWBmSjf1aUPGLNf0UI5A,One Last Time,Ariana Grande,16,5AMOKSM1ftb3opIbGT2d4q,My Everything (Deluxe),2014-08-22,Pop Warmup 130 BPM,pop,dance pop,0.63,0.59,8,1,0.03,0.09,0.1,0.1,125.03,197267
+371,6UiDiFJUGEDzkGpZBL8IYq,I Feel The Love,Tritonal,58,11t999cj3x48JaRSde6s8p,Painting With Dreams,2016-09-09,Pop Warmup 130 BPM,pop,dance pop,0.56,0.81,0,1,0.03,0.02,0.16,0.44,125.03,213120
+372,5WvAo7DNuPRmk4APhdPzi8,No Brainer,DJ Khaled,77,02drHFQa59AoJWU6DXSSjd,No Brainer,2018-07-27,Pop Warmup 130 BPM,pop,dance pop,0.55,0.76,0,1,0.34,0.07,0.09,0.64,135.7,260000
+373,4b2tcjrG1qUkSdsqEFP2dB,Sun Is Shining,Axwell /\ Ingrosso,71,6Ei5WWek37m1x9AjpSXTcJ,More Than You Know,2017-07-28,Pop Warmup 130 BPM,pop,dance pop,0.47,0.76,2,1,0.05,0.09,0.07,0.38,131.99,254653
+374,0KsB4TwgATg88aXCMBoO3Y,Breathe,Jax Jones,65,3NTHQYWOxCJ05u8fc80RNt,Breathe,2017-12-01,Pop Warmup 130 BPM,pop,dance pop,0.72,0.74,11,0,0.04,0.02,0.14,0.69,125.98,207630
+375,23L5CiUhw2jV1OIMwthR3S,In the Name of Love,Martin Garrix,80,1FOJ5IXGXe8dl0cXvCU6wK,In the Name of Love,2016-07-29,Pop Warmup 130 BPM,pop,dance pop,0.5,0.52,4,0,0.04,0.11,0.45,0.17,133.99,195707
+376,3OEF72iu0qSN75kiw0qP1o,Pure Gold,oomiee,1,03kKV2X9NVW2rT1PhPWSML,KEEN: Workout Vol. 1,2017-09-01,Pop Warmup 130 BPM,pop,dance pop,0.64,0.86,4,1,0.27,0.0,0.34,0.64,128.06,147187
+377,4zdQmfTLWgGd5mAX4MUIaX,Turning Up,ARASHI,67,7gjEsXMd3aQgwWCqDjvNsB,Turning Up,2019-11-03,Dance Pop: Japan,pop,dance pop,0.77,0.82,1,1,0.1,0.02,0.24,0.9,118.02,182633
+378,5KVxCdOVauTncDKgK426XN,Winter Hitori feat. ASOBOiSM,Shinn Yamada,28,5BtqMqzU2kBP4f3oBg0aky,Winter Hitori feat. ASOBOiSM,2019-12-11,Dance Pop: Japan,pop,dance pop,0.79,0.72,7,1,0.04,0.05,0.1,0.52,127.95,218357
+379,4suDPyEfKYtqDR2OGblbTi,9と4分の3番線で君を待つ (Run Away) - Japanese Ver.,TOMORROW X TOGETHER,48,0q7bDr9lPLduHdECJOYZ8B,MAGIC HOUR,2020-01-14,Dance Pop: Japan,pop,dance pop,0.63,0.79,1,1,0.1,0.0,0.13,0.47,129.0,211867
+380,7tegFBOVAZADytMG3YIR9o,Nobody Knows,Hiroomi Tosaka,39,7llwdzqjvqs5bc1VNuLTH3,Who Are You?,2020-01-08,Dance Pop: Japan,pop,dance pop,0.62,0.88,8,0,0.04,0.02,0.33,0.77,139.95,221233
+381,1eIl9qFUGihchPAfSF258T,One in a Million -奇跡の夜に-,GENERATIONS from EXILE TRIBE,60,0uLI5GymNBfcYoWRqMSdef,SHONEN CHRONICLE,2019-11-21,Dance Pop: Japan,pop,dance pop,0.75,0.8,10,1,0.07,0.07,0.05,0.84,144.98,222932
+382,71jxHnEfeDyolLb6Kr2DdS,別世界,E-girls,29,3L0Bqb0cKawJ8ymATqB0KY,別世界,2020-01-29,Dance Pop: Japan,pop,dance pop,0.7,0.88,5,1,0.16,0.19,0.09,0.79,127.08,224882
+383,4eycOo0qKubeGx3g29dcHZ,Gimme GImme,iamSHUM,21,7nh1r0aHtiyb0mMPJ2GovI,Gimme GImme,2019-12-11,Dance Pop: Japan,pop,dance pop,0.7,0.86,7,1,0.06,0.11,0.3,0.54,106.02,230943
+384,0xTWI6HrzKHJ6LK11f8jGO,御伽の街,DAOKO,40,0LK0JPBmj0ngJKuYpT064p,御伽の街,2020-01-15,Dance Pop: Japan,pop,dance pop,0.8,0.86,1,1,0.09,0.01,0.08,0.47,112.99,203147
+385,07uivRw9i8NFjQbxZQu6g7,ボイスメモ No. 5,CHANMINA,37,1GjMGhXUrUEbxXoKhTh33V,ボイスメモ No. 5,2020-01-17,Dance Pop: Japan,pop,dance pop,0.74,0.67,8,1,0.04,0.08,0.33,0.22,109.96,163040
+386,1QNoGbedAra3cbGcQAwBRQ,Now & Forever (feat. SONPUB & 向井太一),香取慎吾,38,4mO9wZ0nT0IU6IZqY1b0dg,20200101,2020-01-01,Dance Pop: Japan,pop,dance pop,0.83,0.57,5,1,0.05,0.29,0.04,0.56,105.01,215140
+387,3gMJMSrU2QETbsILNuybIh,Make A Move - Pt. 2,EMMA WAHLIN,17,5Z1moi6b6T4njtHjepFZ9q,Make A Move (Pt. 2),2020-01-17,Dance Pop: Japan,pop,dance pop,0.84,0.52,9,0,0.14,0.62,0.18,0.46,123.97,181200
+388,6EfsZW2pPBBDkiBMTGglEi,光線,Ghost like girlfriend,30,1vjROou4ersp3eu120Qk1Y,光線,2020-01-15,Dance Pop: Japan,pop,dance pop,0.64,0.74,0,1,0.03,0.1,0.09,0.49,133.99,208333
+389,1gdrNesoUadTXNdVaKS2t3,ZONE OF GOLD,Ryuji Imaichi,31,0mryXIUqGiL2N4xj3CJnZd,ZONE OF GOLD,2020-01-15,Dance Pop: Japan,pop,dance pop,0.49,0.71,7,1,0.12,0.06,0.33,0.5,127.41,195433
+390,0j6HZwmFLvxSoYUrg29IgP,LOVE + PARTY,CREAM,37,20y3NUwao6fWGdNNylbOhu,LOVE + PARTY,2019-12-25,Dance Pop: Japan,pop,dance pop,0.79,0.77,5,0,0.06,0.04,0.1,0.79,102.0,193553
+391,2MbrVxNKpsg0bu9LMlPiri,WAKE ME UP,THE RAMPAGE from EXILE TRIBE,35,2NVdnRipucQ7968VRc58ib,FULLMETAL TRIGGER,2020-01-15,Dance Pop: Japan,pop,dance pop,0.61,0.96,2,1,0.12,0.02,0.29,0.37,137.9,240100
+392,2gApWgkuisXedOcS9Tligs,New Page,INTERSECTION,49,3IqJDQ3RL9oV6a91m9FCZE,New Page,2020-01-08,Dance Pop: Japan,pop,dance pop,0.6,0.73,2,1,0.03,0.1,0.25,0.4,124.88,270904
+393,5Zjge6yCThuBMdnJdOBp9A,Easy Breezy,chelmico,42,2vkXnSLOX1bp1Ue7ZWJ6T4,Easy Breezy,2020-01-17,Dance Pop: Japan,pop,dance pop,0.66,0.99,2,1,0.09,0.51,0.39,0.62,93.02,208376
+394,34S5Vg3Jxqtjb3dosDWHpH,TOTSUKA feat. サイプレス上野,ASOBOiSM,23,0WBa29XvFEj9npEw2gLQwE,TOTSUKA feat. サイプレス上野,2020-01-17,Dance Pop: Japan,pop,dance pop,0.84,0.59,7,1,0.16,0.24,0.06,0.64,92.98,225412
+395,2qpuYv59RVgLKcA0DPl9Tt,taste,FlowBack,34,2iKcHPjowr0aocynTxXPfV,taste,2019-12-11,Dance Pop: Japan,pop,dance pop,0.7,0.67,6,1,0.06,0.58,0.08,0.7,127.97,223920
+396,1SV5ys0BGnN6aEsbS7prwt,I don’t wanna do,SARM,27,6XVrMILrX3enEl9HW9D99w,I don’t wanna do,2020-01-12,Dance Pop: Japan,pop,dance pop,0.57,0.86,6,1,0.14,0.01,0.05,0.84,187.98,244061
+397,3t5I7uoAOyRtzkAVaHgmfL,A-RA-SHI:Reborn,ARASHI,60,58OuXkuT2jvW2PHXRsDsKr,A-RA-SHI : Reborn,2019-12-20,Dance Pop: Japan,pop,dance pop,0.72,0.8,9,1,0.06,0.01,0.34,0.27,117.98,205928
+398,1g89JASxN75856KEYGmZTt,Light,SIRUP,53,7A88moqjDaleKpPDAb02b2,Light,2019-11-22,Dance Pop: Japan,pop,dance pop,0.78,0.67,9,1,0.08,0.06,0.11,0.5,112.06,228371
+399,56FtGMGdOoONvc0XpP4Bm6,Night Ship,Yo-Sea,30,7i1rpVKpqYqBJ2OJtv8pHT,Night Ship,2020-01-15,Dance Pop: Japan,pop,dance pop,0.85,0.51,10,1,0.05,0.15,0.07,0.76,111.99,162827
+400,0HGSn0eFH5LF1MWdE9FOUC,Fly me 2,eill,41,0BswQmCfVFxm9fJslwiVnp,SPOTLIGHT,2019-11-06,Dance Pop: Japan,pop,dance pop,0.74,0.72,4,0,0.04,0.09,0.13,0.32,125.01,217000
+401,2WSYYbEdxtGGo0VVP4jNjb,Not Enough,Rei Yasuda,29,75UhEgDZsJoB9yUiemiOY5,Asymmetry,2019-11-27,Dance Pop: Japan,pop,dance pop,0.55,0.85,5,1,0.05,0.06,0.1,0.15,124.01,292587
+402,3fzCO5mdnxKvxOT03Ao0RI,COLORLESS,Daichi Miura,54,5ERwX5kZbk3EUqgYqkTaNw,COLORLESS,2019-12-04,Dance Pop: Japan,pop,dance pop,0.42,0.56,0,0,0.31,0.08,0.35,0.35,168.07,196367
+403,7Bh4dzYrbYtXbbuvK8M8yE,New Shoes - feat.Shun Murakami,phai,21,7Mrelyrb3nTLEmxw3exXX9,New Shoes (feat.Shun Murakami),2020-01-15,Dance Pop: Japan,pop,dance pop,0.72,0.46,9,1,0.03,0.69,0.12,0.34,92.02,232832
+404,6nfiboYmeoHMxPU05yEQvg,MarudeSaturday Night,BABY-T,21,73Etgttf15RugtBh9X5Ja1,MarudeSaturday Night,2019-12-02,Dance Pop: Japan,pop,dance pop,0.7,0.77,0,1,0.03,0.0,0.04,0.75,102.0,214118
+405,4ccp9ytoMerEU0967Okhu6,FUTARI x PARTY,CREAM,40,1D3mTz3srVTGuyCP9RDuyy,FUTARI x PARTY,2019-11-27,Dance Pop: Japan,pop,dance pop,0.87,0.75,8,0,0.07,0.45,0.13,0.59,100.02,184935
+406,6cAaLUV2fc1b3Qpgc0z3k2,SUPERSTAR,真之介,26,6NMji1rqI3PPxonQcA4cHm,SUPERSTAR,2020-01-08,Dance Pop: Japan,pop,dance pop,0.55,0.78,0,1,0.04,0.2,0.08,0.63,155.91,193417
+407,6dKOpmTOzAVnaHqq7hqkJa,Be on the Stage,KEITA,26,5EzHlBlGg0zJx8uGr6hj5I,Be on the Stage,2019-12-18,Dance Pop: Japan,pop,dance pop,0.68,0.85,4,0,0.08,0.06,0.15,0.59,101.03,232973
+408,1HDrG1CAVROV1BclXs400N,space shuttle,空音,36,6p4yL3eOsPilQNytFoKIIA,space shuttle,2019-11-20,Dance Pop: Japan,pop,dance pop,0.71,0.93,11,1,0.06,0.04,0.05,0.87,124.99,224333
+409,74P2i9IIx0nkki1GVQqx3R,Amazing!,Sakurako Ohara,32,3d6xkK0efdhbbQ5Welmpdr,Amazing!,2020-01-15,Dance Pop: Japan,pop,dance pop,0.65,0.86,8,1,0.18,0.13,0.07,0.89,171.88,199440
+410,3CLKvDKiVgbgfWj3fyyibl,TO-KE-TE,HAN-KUN,34,7u2Jz8zspBBfDjzkMabkRk,TO-KE-TE,2019-12-16,Dance Pop: Japan,pop,dance pop,0.39,0.89,11,0,0.06,0.02,0.28,0.45,89.95,214627
+411,00bc7A2CLjp40XNd6ZPZNa,JAM fo'freedom (SASUKE Remix),RUN THE FLOOR,21,7fJ5bWDXYnd7slOCnbTgqJ,THE 4CE,2020-01-15,Dance Pop: Japan,pop,dance pop,0.76,0.76,10,0,0.06,0.03,0.65,0.95,143.99,211547
+412,7Gb3OZFw2IiNk08fSN7MrR,You're the Reason - English ver.,INTERSECTION,36,5uDGBSyiC2ZDcqk5hzHCP3,You're the Reason (English ver.),2019-12-25,Dance Pop: Japan,pop,dance pop,0.62,0.73,2,1,0.03,0.01,0.1,0.1,96.01,198368
+413,5SubtShpNoLYiVG4oLSpOG,Made In JPN,DEAN FUJIOKA,36,1ZOtAZVCso82bDUjQmvUwH,Shelly,2019-12-11,Dance Pop: Japan,pop,dance pop,0.62,0.61,6,1,0.05,0.05,0.05,0.73,200.01,210134
+414,5VBMFkU9emR1HDLPoXuOUQ,See You Later,Chocoholic,42,5Si8dJ0DoBGpbZDkaCiboA,See You Later,2019-11-20,Dance Pop: Japan,pop,dance pop,0.73,0.65,9,0,0.05,0.07,0.05,0.54,82.49,200712
+415,0S1lconF5qUvqUrovZDmSA,Possible,片寄涼太,49,6VtGVN3uNAOZc1WbhC4j7H,Possible,2020-01-07,Dance Pop: Japan,pop,dance pop,0.71,0.71,4,1,0.07,0.04,0.1,0.71,109.97,283400
+416,5QOg6uut1ybakHajEfBL8K,All Over You,Boys Get Hurt,12,30jTmRcGjXt2XI7C7wZ1jS,All Over You,2019-12-23,Dance Pop: Japan,pop,dance pop,0.7,0.55,2,1,0.04,0.09,0.09,0.35,94.97,212211
+417,7auKfEOsSVCeYHn2pOu6uY,Where Would You Go?,SkyLogic,16,6qBNkpelkx3832rO9uKxV5,Where Would You Go?,2019-12-14,Dance Pop: Japan,pop,dance pop,0.62,0.78,7,1,0.03,0.06,0.07,0.43,107.99,208333
+418,64XUlDULbJtK6xDL4mEB0Q,Call My Name - Remix,YUTO,27,6hcjsNf35tn3TvlAwNPPDv,Call My Name (Remix),2019-10-26,Dance Pop: Japan,pop,dance pop,0.83,0.82,8,1,0.07,0.09,0.06,0.87,128.01,166523
+419,0FVUs7Kb4KKl3vsssgZCud,DAYZ,AAAMYYY,44,6rysSkOPyvMpDYLiYz26pv,DAYZ,2019-11-13,Dance Pop: Japan,pop,dance pop,0.74,0.55,5,0,0.05,0.01,0.08,0.6,110.02,311976
+420,0lHYQoSwhIKqUjUsbQygyl,Simple Things,HarukiD,21,5RCmomigCb0VuGdltjtU1i,Simple Things,2020-01-12,Dance Pop: Japan,pop,dance pop,0.7,0.65,9,0,0.03,0.03,0.1,0.23,95.01,157288
+421,0azhsizFhBepOGgcQ3EKaL,SUN DAY - Shinichi Osawa Remix,HIRAIDAI,41,7FE6Mj1GPYoEa6NgIBzlqk,SUN DAY (Shinichi Osawa Remix),2019-11-17,Dance Pop: Japan,pop,dance pop,0.74,0.56,4,0,0.04,0.17,0.07,0.21,111.08,264935
+422,3b1TJu58AWEiGvnUwDdhag,SPOTLIGHT,eill,44,0BswQmCfVFxm9fJslwiVnp,SPOTLIGHT,2019-11-06,Dance Pop: Japan,pop,dance pop,0.64,0.74,8,1,0.09,0.03,0.06,0.63,99.96,221387
+423,2TFJVb9LL54V5W53qGWDSv,let me know,blanchehor,39,1jJcjFNob1gMtgji8KMnP7,let me know,2019-11-09,Dance Pop: Japan,pop,dance pop,0.7,0.58,6,0,0.03,0.32,0.1,0.75,102.99,220631
+424,7EdnZLYzleCTG6eVJnZbR8,Y.E.S,KEITA,21,6wi6w72EhFXg2UwZtcmjou,Y.E.S,2019-11-20,Dance Pop: Japan,pop,dance pop,0.6,0.8,7,0,0.15,0.22,0.12,0.48,150.04,146500
+425,1JSkwWA4e3OXlnOEcn0MXf,Rich&Famous - feat. Sean Paul,Kumi Koda,35,2lUaOBI7XsWz8MBGfpVjMt,re(CORD),2019-11-13,Dance Pop: Japan,pop,dance pop,0.54,0.74,0,0,0.2,0.03,0.3,0.39,173.08,249187
+426,1RJPz4eFFP7N6VVKMYUS7O,ミズノナカヘ - Car TAX remix,yu-re:meu,16,03sSeRZnThaQK7SSsHhTSy,Unstable Unstoppable,2020-01-11,Dance Pop: Japan,pop,dance pop,0.74,0.85,2,1,0.08,0.16,0.03,0.88,125.98,237071
+427,6GvK5IObiZJs4PyTFJTELk,EASY LOVE,Gear 2nd,27,61dkquTQitHZ110cEOzdHq,EASY LOVE,2019-10-30,Dance Pop: Japan,pop,dance pop,0.8,0.78,8,0,0.11,0.16,0.1,0.69,110.0,225273
+428,0qnp1W6FnL9qoadgaQdsT8,PARADE,Miliyah,37,566EAKqr8SyzdbZaOpIzdY,PARADE,2019-10-26,Dance Pop: Japan,pop,dance pop,0.68,0.64,8,1,0.04,0.08,0.16,0.23,105.03,244187
+429,3pzrOuq7Zn1WlL1qes8I57,Obsession,広瀬大地,30,4XCgsXSHk7qB4KDuswRVqV,Obsession,2019-10-23,Dance Pop: Japan,pop,dance pop,0.83,0.85,11,0,0.1,0.12,0.07,0.93,127.99,214132
+430,4vid1h1wAzoZoEKJVXoUgB,Shine,DJ PIGER,35,31KdOeRhAbAPMizIrujMdy,Shine,2019-10-16,Dance Pop: Japan,pop,dance pop,0.78,0.72,8,0,0.05,0.01,0.24,0.84,121.95,207213
+431,34Yb5ldkgXMieDcFIRQPdh,Upside Down,RYPPHYPE,26,7cu8fQWplGxQOcncMNOpA4,Upside Down,2019-11-20,Dance Pop: Japan,pop,dance pop,0.7,0.93,5,0,0.06,0.31,0.05,0.83,119.99,208530
+432,7MsgiyWoerebFF0zaahmCr,B.S.G.S.,sooogood!,30,0k7LlIHVWjsVCMZwi7Wqm2,B.S.G.S.,2019-11-20,Dance Pop: Japan,pop,dance pop,0.62,0.9,6,0,0.14,0.55,0.25,0.6,140.03,141473
+433,4EyjvMJ6llJ5stWDlwo8v6,Bitten By You,Monkey Majik,40,15fTuTLuGBLEjZCb35WZNQ,Bitten By You,2019-10-23,Dance Pop: Japan,pop,dance pop,0.68,0.75,9,1,0.03,0.14,0.04,0.97,114.96,242627
+434,5L3FE4WEDdQ0xZYVdN7uvE,For Me,WAPLAN,31,12ecSuUDUR3oeALAZfwQC1,For Me,2019-10-30,Dance Pop: Japan,pop,dance pop,0.71,0.73,0,1,0.03,0.02,0.11,0.4,100.0,221100
+435,63f9E8ZTvtcEdqZKHj5Vzv,Sway,AATA,27,0uEjveH3fRkIckHh4cdEJC,BLUE MOMENT,2019-12-11,Dance Pop: Japan,pop,dance pop,0.79,0.67,5,0,0.16,0.07,0.14,0.78,105.0,241164
+436,2KJPYFHskvDeuAZ1sbbBys,Nobody,Beverly,31,03VjZd6b2MZHJVCdBNmasF,INFINITY,2019-12-04,Dance Pop: Japan,pop,dance pop,0.56,0.93,11,1,0.03,0.18,0.24,0.9,190.05,213147
+437,5uHl2eYaITSX6xEX8bmaXy,Adios,EVERGLOW,74,7tMpbKXDLlHPSCoPdF2OBv,HUSH,2019-08-19,K-Party Dance Mix,pop,dance pop,0.63,0.71,10,0,0.06,0.0,0.24,0.4,128.19,189147
+438,1PNb8pRsZGa8XN1m5nJe70,Dumb,BVNDIT,59,6DX33GTGhfTLpQWzmHHgHA,BE!,2019-11-05,K-Party Dance Mix,pop,dance pop,0.65,0.84,1,0,0.07,0.1,0.08,0.56,108.04,190903
+439,3v5BOhyPrVQN7PYE6JnY7j,THURSDAY,GOT7,63,76B3bEVEuCnZTkwhOXdjmg,Call My Name,2019-11-04,K-Party Dance Mix,pop,dance pop,0.68,0.79,1,0,0.05,0.15,0.08,0.47,158.01,206578
+440,7JCi89HGiURxFpr6NITY7q,Snapping,CHUNG HA,73,1lNM7RF1SVUs66OtLj4MQh,Flourishing,2019-06-24,K-Party Dance Mix,pop,dance pop,0.75,0.73,8,0,0.04,0.07,0.28,0.58,104.91,213164
+441,6k67RdkVjTZj79c1cRz7IQ,WONDERLAND,ATEEZ,72,4HGhzqQEY1X6WWZw6MhjlO,TREASURE EP.FIN: All To Action,2019-10-08,K-Party Dance Mix,pop,dance pop,0.57,0.96,4,0,0.12,0.05,0.37,0.52,129.98,199013
+442,7b8YOVV5quZcSKEijDgyWB,DDU-DU DDU-DU,BLACKPINK,68,1HwIUaaEuRsxsIyssqtGLH,SQUARE UP,2018-06-15,K-Party Dance Mix,pop,dance pop,0.67,0.86,4,0,0.08,0.03,0.27,0.39,139.93,209355
+443,1Jr8RbuOnvMHsMHcWgZ9Do,Like always,X1,58,09sGMSeeP4bZQOCTpgKGX8,QUANTUM LEAP,2019-08-27,K-Party Dance Mix,pop,dance pop,0.78,0.88,5,1,0.05,0.03,0.05,0.84,120.0,204893
+444,3IdPtyJHB1WVPM4eCiCAKM,Answer,ATEEZ,72,3TTkDOcSzRQCvGMT7VmmPE,TREASURE EPILOGUE : Action To Answer,2020-01-06,K-Party Dance Mix,pop,dance pop,0.56,0.9,7,1,0.05,0.07,0.36,0.54,97.97,219760
+445,42tFTth2jcF7iSo0RBjfJF,피카부 Peek-A-Boo,Red Velvet,70,0rvrbZvaDX5S9ZBhwOwFfH,Perfect Velvet - The 2nd Album,2017-11-17,K-Party Dance Mix,pop,dance pop,0.84,0.9,1,0,0.05,0.09,0.27,0.64,114.95,189050
+446,1UThkKR8w3WnA6lWCRhOJn,DRIP,HINAPIA,59,79I7ijWthvkwe4xOW0zzQh,New Start,2019-11-03,K-Party Dance Mix,pop,dance pop,0.66,0.87,2,1,0.06,0.18,0.36,0.42,89.99,200465
+447,5WrEilrRI5cIW0DxMvQYPZ,Jopping,SuperM,75,1C1qYeSC9RdgbrKXpZCTSJ,SuperM - The 1st Mini Album,2019-10-04,K-Party Dance Mix,pop,dance pop,0.74,0.84,10,0,0.08,0.01,0.86,0.54,123.02,251293
+448,24nK8tW7Pt3Inh2utttuoG,HIP,Mamamoo,81,7CucpzwxAZ6kHmctI9eo4X,reality in BLACK,2019-11-14,K-Party Dance Mix,pop,dance pop,0.78,0.73,3,0,0.14,0.04,0.1,0.82,138.03,195307
+449,3BPoSr2pO34Aan6alFfVto,BBoom BBoom,MOMOLAND,70,5vt2sEP5J0VNbYXoA7h2k4,GREAT!,2018-01-03,K-Party Dance Mix,pop,dance pop,0.78,0.74,3,0,0.04,0.01,0.07,0.83,126.02,208863
+450,00emjlCv9azBN0fzuuyLqy,Dumb Litty,KARD,65,7h5X3xhh3peIK9Y0qI5hbK,KARD 2nd Digital Single ‘Dumb Litty’,2019-09-22,K-Party Dance Mix,pop,dance pop,0.76,0.89,9,1,0.04,0.04,0.14,0.24,130.02,193160
+451,5sbooPcNgIE22DwO0VNGUJ,POP/STARS,K/DA,75,0UnBZ8laFgLUq5Ty5vbikQ,POP/STARS,2018-11-03,K-Party Dance Mix,pop,dance pop,0.57,0.77,7,1,0.09,0.02,0.11,0.38,170.04,191100
+452,06mzeP9GQNSHWd1Nh2C5FM,MIDDLE OF THE NIGHT,Monsta X,69,2EUxUCoJz0ZUdzsjj94WxR,MIDDLE OF THE NIGHT,2019-12-06,K-Party Dance Mix,pop,dance pop,0.74,0.76,0,1,0.09,0.11,0.04,0.92,92.04,166213
+453,5KawlOMHjWeUjQtnuRs22c,Boy With Luv (feat. Halsey),BTS,85,1AvXa8xFEXtR3hb4bgihIK,MAP OF THE SOUL : PERSONA,2019-04-12,K-Party Dance Mix,pop,dance pop,0.64,0.86,11,0,0.1,0.09,0.19,0.8,119.99,229773
+454,06Pvy98db25O7wlfFFFIRM,Bon Bon Chocolat,EVERGLOW,72,34jrFDbWiepwHN4L1pZmCr,ARRIVAL OF EVERGLOW,2019-03-18,K-Party Dance Mix,pop,dance pop,0.72,0.83,6,1,0.06,0.03,0.07,0.63,139.93,228682
+455,6E7jAJN2e3znSHyPCdQqx8,gogobebe,Mamamoo,72,60m09rutmwj5ewOJoFIAVY,White Wind,2019-03-14,K-Party Dance Mix,pop,dance pop,0.7,0.79,0,1,0.08,0.11,0.23,0.71,96.93,195856
+456,2AIWoHr9DF6y4KALCBKWQS,IDOL,BTS,75,2lATw9ZAVp7ILQcOKPCPqp,Love Yourself 結 'Answer',2018-08-24,K-Party Dance Mix,pop,dance pop,0.73,0.86,9,1,0.12,0.0,0.12,0.42,126.04,222732
+457,7Ed6BkggCS2KaKY5YlINaF,MIC Drop (feat. Desiigner) [Steve Aoki Remix],BTS,65,2TpvJhw6RYTTn4eDrAb3eJ,MIC Drop (feat. Desiigner) [Steve Aoki Remix],2017-11-24,K-Party Dance Mix,pop,dance pop,0.61,0.84,10,0,0.22,0.02,0.23,0.64,169.92,238726
+458,27kB4qLUCV8nZd2eOgj1Tk,KILLING ME,iKON,63,2yUTAuGu8Xu7xoTdASjClx,NEW KIDS : CONTINUE,2018-08-02,K-Party Dance Mix,pop,dance pop,0.76,0.67,9,0,0.07,0.46,0.2,0.5,127.99,193734
+459,7LJjWqhqK594nN7qJzLVXE,As If It's Your Last,BLACKPINK,2,3nvfNC0tnGcFXGHrJpqQ6m,As If It's Your Last,2017-06-22,K-Party Dance Mix,pop,dance pop,0.79,0.85,8,1,0.08,0.07,0.08,0.45,125.03,213264
+460,4WuKHgxdCJsaOBIh7yndty,MIROH,Stray Kids,71,79Bjt5oUy1183RJw1bJyF5,Clé 1 : MIROH,2019-03-25,K-Party Dance Mix,pop,dance pop,0.56,0.98,9,1,0.1,0.01,0.25,0.5,126.06,207617
+461,3rOEipqoZpjyn8PtOMeV8k,Forever Love,YOUNGJAE,48,5Neadmcb4axpmEmMKFJA1n,"O,on",2019-10-22,K-Party Dance Mix,pop,dance pop,0.65,0.78,6,1,0.04,0.07,0.12,0.66,127.02,216640
+462,0ErzcmZ2gIwX7X0xSMQPix,BOSS,NCT,68,3KAJvo62RNQEtXwIyB5rzX,NCT 2018 EMPATHY,2018-03-14,K-Party Dance Mix,pop,dance pop,0.79,0.54,10,0,0.04,0.02,0.09,0.33,99.03,210641
+463,2naEVOadudtXHwtZNfjMDM,Forever Young,BLACKPINK,65,1HwIUaaEuRsxsIyssqtGLH,SQUARE UP,2018-06-15,K-Party Dance Mix,pop,dance pop,0.6,0.96,4,1,0.1,0.04,0.09,0.5,109.86,237077
+464,5Z4aqpT39KpY8gbHoJWdou,Egotistic,Mamamoo,70,6GhELYbXRo1LOqRPOCsQrF,RED MOON,2018-07-16,K-Party Dance Mix,pop,dance pop,0.62,0.83,3,0,0.07,0.32,0.18,0.6,97.9,196018
+465,2U6RSyXFnDVNYoD9iUgi09,Bomb Bomb,KARD,66,61X9zu44fHnOjjqIYu05Rc,KARD 1st Digital Single ‘Bomb Bomb’,2019-03-27,K-Party Dance Mix,pop,dance pop,0.76,0.84,6,1,0.13,0.07,0.31,0.88,102.99,163509
+466,5SE57ljOIUJ1ybL9U6CuBH,DNA,BTS,71,2FTS6a6DLXMNp8flyA0HGO,Love Yourself 承 'Her',2017-09-18,K-Party Dance Mix,pop,dance pop,0.6,0.78,1,0,0.05,0.02,0.07,0.69,129.82,223123
+467,6DIW7GJbuGZdHolRcPWprP,Roller Coaster,CHUNG HA,2,04TsF8IFb70DdBYDT8egvw,Offset,2018-01-18,K-Party Dance Mix,pop,dance pop,0.63,0.91,6,0,0.05,0.32,0.22,0.76,130.0,212136
+468,1S6zXoXhfalX2ETKo337Md,YES or YES,TWICE,7,38QQgShZFuEAJJw1A6hz3x,YES or YES,2018-11-05,K-Party Dance Mix,pop,dance pop,0.7,0.91,11,1,0.04,0.05,0.17,0.74,137.98,237685
+469,1q3C6brbmRrULTyo2mseKF,FLASH,X1,69,09sGMSeeP4bZQOCTpgKGX8,QUANTUM LEAP,2019-08-27,K-Party Dance Mix,pop,dance pop,0.67,0.91,7,0,0.06,0.03,0.34,0.6,132.04,211320
+470,7gr57cYekMWriyJYbT7oZ4,HANN (Alone),(G)I-DLE,66,4VLR1cDqRIeS86GYSJvlmZ,HANN (Alone),2018-08-14,K-Party Dance Mix,pop,dance pop,0.71,0.72,6,0,0.03,0.06,0.17,0.24,104.97,205820
+471,7Cd4glTUgV0vr0DBncEg8S,하드캐리 Hard Carry,GOT7,1,5ek64tPWwHgN6zWuAWTkS2,FLIGHT LOG : TURBULENCE,2016-09-27,K-Party Dance Mix,pop,dance pop,0.7,0.87,1,1,0.09,0.01,0.34,0.61,99.97,193579
+472,7w3mCZJZbfXzNebD5vktMI,ME,CLC,64,3STCVlFXF9KGz3ATBo56a3,ME,2019-05-30,K-Party Dance Mix,pop,dance pop,0.75,0.8,11,0,0.07,0.02,0.09,0.8,146.94,193253
+473,4Is1b37KJY9XVCgzp81FBW,BAAM,MOMOLAND,66,75dkh8s39e7txjNe9cODH3,Fun to The World,2018-06-26,K-Party Dance Mix,pop,dance pop,0.72,0.94,5,0,0.04,0.12,0.09,0.9,127.05,208475
+474,3nXUfNbkv8ikaSdHwEp0oY,DDD,EXID,60,2ejJVhXC1pgVgROMsetsUL,Full Moon,2017-11-08,K-Party Dance Mix,pop,dance pop,0.72,0.79,11,0,0.07,0.08,0.07,0.75,114.28,205821
+475,5MaDeMdqsPsZTxNWdEZPVH,Starry Night,Mamamoo,67,4G9qMxS9c4W5PPNdPrTaLn,Yellow Flower,2018-03-07,K-Party Dance Mix,pop,dance pop,0.58,0.77,9,0,0.05,0.66,0.11,0.51,124.15,211237
+476,1gsb4CFzUMERAkfzAKwrZu,Siren,SUNMI,0,75eIP5pPvtQCB0bAz2TEsU,WARNING,2018-09-26,K-Party Dance Mix,pop,dance pop,0.6,0.89,9,0,0.04,0.01,0.09,0.55,122.05,197252
+477,0xHgclG2TeqIzB8N3Wb5rP,HIT,SEVENTEEN,66,36HsGgJsOHL4cHqR4J2GEU,HIT,2019-08-05,K-Party Dance Mix,pop,dance pop,0.62,0.9,9,0,0.22,0.09,0.12,0.69,130.05,203493
+478,5gA9Xn8oPts2aewPgxVkPD,Heroine,SUNMI,62,4lWDPUQmrZPyO9T9pWfZc2,Heroine,2018-01-18,K-Party Dance Mix,pop,dance pop,0.67,0.78,7,1,0.04,0.06,0.39,0.61,121.99,195000
+479,3NxuezMdSLgt4OwHzBoUhL,Way Back Home,SHAUN,66,1NgwpxtZFd1x4DbC74V9bO,Take,2018-06-27,K-Party Dance Mix,pop,dance pop,0.74,0.74,10,1,0.03,0.4,0.13,0.56,99.91,214137
+480,5unCIQfJLMtcsiU6MP5zmB,I’m So Hot,MOMOLAND,61,2olU5yGGjXxgOt9GrFEtLo,Show Me,2019-03-20,K-Party Dance Mix,pop,dance pop,0.75,0.88,6,0,0.04,0.23,0.04,0.85,127.07,200243
+481,0dSE54vYYvRNWzVTxE2xTL,Me & You,EXID,61,6Epnn9sgvvUrHdEf7JKjQb,WE,2019-05-15,K-Party Dance Mix,pop,dance pop,0.71,0.91,7,1,0.06,0.06,0.07,0.78,106.97,203507
+482,3sygLAUhHsJsQ0cBk6fxRd,No,CLC,61,6xSUUpa9LBZYwJFMJOr8M6,No.1,2019-01-30,K-Party Dance Mix,pop,dance pop,0.76,0.72,6,0,0.09,0.01,0.12,0.69,120.06,181976
+483,1LShDXXs40R8bQFNBBupI3,PICK ME,PRODUCE 48,58,2bl024XQdz3Pd4jQLNyaZg,PRODUCE 48 - NEKKOYA (PICK ME),2018-05-10,K-Party Dance Mix,pop,dance pop,0.65,0.86,6,1,0.05,0.02,0.07,0.59,128.05,279423
+484,0aLG42zaidNkblhiQgJknP,WANT,TAEMIN,63,7E01VOJ7gyYPz9HXUVeQeq,WANT - The 2nd Mini Album,2019-02-11,K-Party Dance Mix,pop,dance pop,0.64,0.76,7,1,0.07,0.03,0.13,0.41,104.94,208968
+485,7qDbAc6xMW07T7yyMnQqS8,Fever,GFRIEND,67,653wpLLPgri15mVNwJOTVR,GFRIEND The 7th Mini Album `FEVER SEASON`,2019-07-01,K-Party Dance Mix,pop,dance pop,0.76,0.84,1,1,0.04,0.21,0.23,0.51,111.93,214293
+486,4lt4QTuoYOEEOhrNDZJ1o8,Room Shaker,Ailee,57,7klpmNtYwM5Q0fCRIdC21I,butterFLY,2019-07-02,K-Party Dance Mix,pop,dance pop,0.7,0.9,11,0,0.14,0.03,0.14,0.74,140.03,195027
+487,381g0b6QZxC13SzA2HRMIc,Power Up,Red Velvet,65,5zWa1ZEUBctbKqvwXbFawo,Summer Magic - Summer Mini Album,2018-08-06,K-Party Dance Mix,pop,dance pop,0.73,0.93,8,1,0.14,0.08,0.31,0.9,160.0,202040
+488,6sWd8ZAH5bWWyjwb7ZV2Zb,LALALAY 날라리,SUNMI,70,1hgIt7Jq6m1zVfT1TzUQzs,LALALAY 날라리,2019-08-27,K-Party Dance Mix,pop,dance pop,0.7,0.81,11,0,0.05,0.0,0.06,0.62,110.02,174880
+489,1IzuuPDzqh3dfKxilHbGYU,8282(Party),twlv,40,0CWYqBGKChAJge2xUYICpY,8282(Party),2019-08-04,K-Party Dance Mix,pop,dance pop,0.83,0.64,1,0,0.06,0.03,0.07,0.72,103.04,188893
+490,4knqZHNHlEBBEmfETcpTyr,D.D.D,THE BOYZ,55,4T7BOMEuEfIMsDfomppwtW,DREAMLIKE,2019-08-19,K-Party Dance Mix,pop,dance pop,0.7,0.92,3,1,0.08,0.07,0.08,0.64,119.97,212363
+491,0dHWWPN5XGWotUnM57QQZK,Not That Type,gugudan,54,1eztr3rLc24EvhtvIdRjkl,Act.5 New Action,2018-11-06,K-Party Dance Mix,pop,dance pop,0.73,0.93,7,1,0.11,0.08,0.15,0.74,110.05,191994
+492,0m3W71Oliiv3gQWXi2YAmJ,Humph!,PENTAGON,63,4hlhRlDPvdfc7hQoD8gxZ1,SUM(ME:R),2019-07-17,K-Party Dance Mix,pop,dance pop,0.79,0.67,2,1,0.05,0.17,0.08,0.96,132.99,192613
+493,0gxkqxGiLg1ylKzgToCcHY,Play It Cool,Monsta X,56,2zLSiu6FFxav0kHP2mUUzM,Take.2 We Are Here.,2019-02-18,K-Party Dance Mix,pop,dance pop,0.82,0.82,0,1,0.19,0.01,0.08,0.42,120.01,186799
+494,2WDhYlm5gBepkMZHBk0LN7,AH YEAH,WINNER,60,52epM8aF5xCLAtDwbGPeP2,WE,2019-05-15,K-Party Dance Mix,pop,dance pop,0.8,0.72,7,1,0.04,0.36,0.18,0.88,128.01,176906
+495,3eOrrreH5zbp4xpfiFqy2D,SHA LA LA,PENTAGON,56,6kK0jSVRfNCJ1Ya0mwT6bl,Genie:us,2019-03-27,K-Party Dance Mix,pop,dance pop,0.68,0.94,7,1,0.06,0.0,0.34,0.45,126.08,194904
+496,4tYLk5axtAxynbehhU4uJn,SUNDAY,FANATICS,42,3MtR8BHU3OYHYBCPTnCXXh,THE SIX,2019-08-06,K-Party Dance Mix,pop,dance pop,0.74,0.79,7,1,0.04,0.38,0.32,0.56,120.04,210018
+497,7yT71nE6bb9vzdYz78iITu,BEEP BEEP,RUANN,45,73KuBzi9iBoXm2PQPJpTr0,BEEP BEEP,2019-07-31,K-Party Dance Mix,pop,dance pop,0.67,0.75,1,0,0.06,0.03,0.1,0.64,130.02,210827
+498,63BGyvr6NuhA0q5NimghaG,The Only (feat. IRENE of Red Velvet),Raiden,54,4uXskh6wXrlNDZ4UrSF8Lh,The Only (feat. IRENE of Red Velvet),2019-08-02,K-Party Dance Mix,pop,dance pop,0.67,0.92,11,1,0.09,0.1,0.13,0.4,116.03,186918
+499,1ZtG48NtqQdyN1AnXiiYL0,Break the Distance,ELYAZ,30,316BuofZWIbWwMGqSBODx0,Break the Distance,2018-07-06,Dance Pop,pop,dance pop,0.6,0.7,9,1,0.03,0.05,0.13,0.4,127.99,230039
+500,6u8epWzzk3CsJ05sqExF6T,I Could Get Used To This,Becky Hill,64,7zprQiHCzlyXnqKbkfCUTs,I Could Get Used To This,2019-03-29,Dance Pop,pop,dance pop,0.62,0.65,7,1,0.05,0.02,0.43,0.34,117.13,193856
+501,7K0trO4bMEWjSiFGPG5LTQ,Therapy,Armin van Buuren,52,1S1CmT0hfOWXyL96OTl28c,Therapy,2018-04-20,Dance Pop,pop,dance pop,0.66,0.87,2,0,0.05,0.02,0.13,0.7,114.86,186187
+502,0PCRR19Pf4iiuvSrPxtQ0x,Sunshine,David Guetta,54,4bTjdxhRRUiWfwj200f9Kl,Nothing but the Beat (Ultimate Edition),2012-12-07,Dance Pop,pop,dance pop,0.59,0.8,1,0,0.04,0.0,0.05,0.22,127.99,360960
+503,6TgLQJ87xq6adrAU6HzaTW,Giant - Robin Schulz Remix,Calvin Harris,16,6iWzYN6YR6Myd2XHSaHzaW,Giant (Robin Schulz Remix),2019-02-15,Dance Pop,pop,dance pop,0.54,0.88,1,0,0.24,0.06,0.45,0.49,126.06,193297
+504,3pWcj8hxj3fsb9TDAcMpEl,Somebody,The Chainsmokers,13,4Mli74klkx5jMSZlqYa3Lh,Sick Boy,2018-04-20,Dance Pop,pop,dance pop,0.53,0.62,10,0,0.03,0.19,0.09,0.29,101.88,223147
+505,4sh506lJZac1T4o4NqtIuS,Like I Love You,Lost Frequencies,58,56mP4ipdgYC7y4CJnHC0Vl,Like I Love You,2018-09-14,Dance Pop,pop,dance pop,0.86,0.59,1,1,0.08,0.14,0.46,0.75,117.91,190174
+506,7a4aFs6bW7TUySQviVERSI,Walk Away,Alle Farben,61,5R8Mu4RDqJ32ZvlaThOx05,Walk Away,2019-03-29,Dance Pop,pop,dance pop,0.74,0.79,6,0,0.06,0.04,0.14,0.47,124.0,196640
+507,4aJdmCHGL6KrrvuSXgr8Jp,I Need You,Armin van Buuren,24,5Q4INkkU4kbuemSARAGVH8,I Need You,2017-01-27,Dance Pop,pop,dance pop,0.6,0.86,8,0,0.03,0.0,0.09,0.22,107.0,206750
+508,6WbADFqMvR8N5u0BvtsWQE,Without You (feat. Sandro Cavazza),Avicii,27,6LaLU27ZPXimJIbpbiOahr,AVĪCI (01),2017-08-10,Dance Pop,pop,dance pop,0.65,0.86,2,1,0.04,0.0,0.04,0.28,134.01,181673
+509,50RJdoxw8iajGNtHQe6QeS,Something Just Like This - Alesso Remix,The Chainsmokers,56,4uRfYhBBaSX8N3amojmMBE,Something Just Like This (Remix Pack),2017-04-28,Dance Pop,pop,dance pop,0.67,0.73,2,1,0.05,0.24,0.12,0.57,120.01,252933
+510,2V65y3PX4DkRhy1djlxd9p,Don't You Worry Child - Radio Edit,Swedish House Mafia,77,3RKhRsifs4RWrqvWV1YpPY,Don't You Worry Child,2012-09-14,Dance Pop,pop,dance pop,0.61,0.84,11,0,0.05,0.11,0.12,0.44,129.04,212862
+511,5gjhnWVBIBgoWzv3SIQdwW,Fine Day,Keanu Silva,2,74ackj8DJk6yaBk0hZ9Hj7,Fine Day,2018-07-27,Dance Pop,pop,dance pop,0.74,0.86,1,0,0.05,0.03,0.13,0.46,124.98,194967
+512,6iC7vapdKp0XlKhxOkp8QJ,BOOM,Tiësto,70,47wyCwrChF50ZTFNOuWx99,BOOM,2018-01-26,Dance Pop,pop,dance pop,0.89,0.84,2,1,0.05,0.02,0.33,0.2,123.04,179512
+513,5kOWncnXJOC1LRH0rk8SGy,Whispers,ELYAZ,9,0Lra1fh2ys84qnWL8mY7d9,Whispers,2016-12-02,Dance Pop,pop,dance pop,0.72,0.71,5,0,0.04,0.0,0.08,0.19,128.02,174015
+514,69zxj1EFDfAouZu9JDmQld,Secrets - Radio Edit,Tiësto,65,4p3CULd5VeCSikL0PYkoP3,Secrets (Radio Edit),2015-04-03,Dance Pop,pop,dance pop,0.68,0.81,11,0,0.04,0.0,0.09,0.18,128.0,216967
+515,5EwwwdsQfKI8ZnFG93j5Zu,Forever,Martin Garrix,62,7zFHC5p1ylePX7dNxln5iJ,Forever,2017-10-20,Dance Pop,pop,dance pop,0.45,0.9,8,0,0.04,0.03,0.17,0.22,127.98,218437
+516,2M1mqcNUBIAfRoD2Puhejf,Carry Me Home (feat. Jake Reese),KSHMR,64,102DnoxN7Wrs46tdgNI080,Carry Me Home (feat. Jake Reese),2018-06-15,Dance Pop,pop,dance pop,0.66,0.88,9,0,0.06,0.01,0.09,0.48,128.03,191250
+517,0FDzzruyVECATHXKHFs9eJ,A Sky Full of Stars,Coldplay,78,2G4AUqfwxcV1UdQjm2ouYr,Ghost Stories,2014-05-19,Dance Pop,pop,dance pop,0.55,0.64,6,1,0.03,0.01,0.22,0.15,125.0,268467
+518,15BlympuVSfZFROojEMY2M,Don't Let Me Down - Illenium Remix,The Chainsmokers,64,5yhNY3zM1Vx1oaL3GYTWIZ,Don't Let Me Down (Remixes),2016-05-27,Dance Pop,pop,dance pop,0.43,0.66,11,1,0.08,0.08,0.15,0.36,79.65,218933
+519,6xUy203RnyyOfbqf96Nven,Selfish,Dimitri Vegas & Like Mike,69,23RN2ZUUWMissFUhN7qgv8,Selfish,2019-02-15,Dance Pop,pop,dance pop,0.41,0.79,7,0,0.28,0.17,0.13,0.69,92.93,167857
+520,5Iy2Jj87Ha0C0IBlNE1I4y,The Days,Avicii,67,0h2knr6qpiAq0tV5ri5JMF,The Days / Nights,2014-01-01,Dance Pop,pop,dance pop,0.59,0.72,0,1,0.04,0.04,0.14,0.53,127.06,278480
+521,1vvNmPOiUuyCbgWmtc6yfm,My Way,Calvin Harris,77,0dzeoQhVNzKkwM5ieOJC54,My Way,2016-09-16,Dance Pop,pop,dance pop,0.82,0.91,4,0,0.04,0.09,0.16,0.54,119.99,219160
+522,11Fo4dAH31K7UZHGqCkCmE,I Love You,Axwell /\ Ingrosso,7,7dD0CWyYodWcV0fjglqDgG,I Love You,2017-02-10,Dance Pop,pop,dance pop,0.65,0.86,0,1,0.17,0.34,0.09,0.7,114.87,191000
+523,4keoy2fqgwGnbWlm3ZVZFa,Happy Now,Zedd,80,0JcW7yCW3Qj8uMfzO2lUDb,Happy Now,2018-07-18,Dance Pop,pop,dance pop,0.5,0.74,4,1,0.05,0.58,0.07,0.46,88.34,207030
+524,0kHyKhJMukHEPfeh8s7rdM,Born To Be Yours,Kygo,75,31J0UqxAkl9utyC0L59Mae,Born To Be Yours,2018-06-15,Dance Pop,pop,dance pop,0.69,0.69,3,1,0.04,0.3,0.1,0.45,114.01,193321
+525,2tpWsVSb9UEmDRxAl1zhX1,Counting Stars,OneRepublic,80,20lOt6G8MHv8ZO7ViOmiP7,Native,2013-01-01,Dance Pop,pop,dance pop,0.66,0.7,1,0,0.04,0.07,0.12,0.48,122.02,257267
+526,36Z5wae28KlrJ4wL3KuGOe,Recognise,Lost Frequencies,36,01IaGgpoFhPrIKPE3fAbps,Recognise,2019-03-08,Dance Pop,pop,dance pop,0.72,0.74,10,0,0.05,0.16,0.13,0.19,106.0,186062
+527,2AVredtzre1KADDXWoGd4I,Like I Love You,Lost Frequencies,48,7htfr0EH8B4ZPSbkIErTVH,Like I Love You,2018-09-14,Dance Pop,pop,dance pop,0.86,0.58,1,1,0.08,0.13,0.48,0.78,117.93,190673
+528,5hw9RzFpyZqkW7ADN2NKeO,Don't Give Up On Me,Armin van Buuren,49,17zVhrzfIc7Fb5FspAahe0,Don't Give Up On Me,2019-03-29,Dance Pop,pop,dance pop,0.72,0.7,0,0,0.14,0.05,0.27,0.63,117.96,185212
+529,5ypiGNhYY1GUoVB1kVZmc8,Bromance - Avicii Remix,Tim Berg,7,0Aw2fh7MQbvnTiTJjnvHcE,10 Years Armada,2013-11-22,Dance Pop,pop,dance pop,0.62,0.9,1,0,0.04,0.03,0.09,0.31,126.05,150160
+530,5GjnIpUlLGEIYk052ISOw9,This Is What It Feels Like,Armin van Buuren,65,5ZsK5SUsZilbAJ4B0vRVxF,Intense,2013-05-03,Dance Pop,pop,dance pop,0.55,0.83,8,1,0.03,0.04,0.06,0.14,129.89,204360
+531,1YDJ2f1JuKzYWZpRYiBYHu,If I Lose Myself - Alesso vs OneRepublic,OneRepublic,44,4fWOVzenXaEAEpEb8mMR2U,If I Lose Myself (Alesso vs OneRepublic),2013-01-01,Dance Pop,pop,dance pop,0.52,0.78,2,1,0.04,0.22,0.14,0.15,125.98,214067
+532,6F1kPSgdnlSzZRfskE9vaV,Lions in the Wild,Martin Garrix,2,39GUANQpkDHusLAAJPPS7z,Lions in the Wild,2016-05-27,Dance Pop,pop,dance pop,0.5,0.85,7,0,0.04,0.0,0.82,0.28,127.85,211890
+533,07nH4ifBxUB4lZcsf44Brn,Blame,Calvin Harris,75,48zisMeiXniWLzOQghbPqS,Motion,2014-10-31,Dance Pop,pop,dance pop,0.41,0.86,0,0,0.08,0.03,0.34,0.35,128.02,212960
+534,2i2zYdN4KCkTCDscdMYr87,Lovers on the Sun (feat. Sam Martin),David Guetta,47,3UEEPh5wsdhP7SKC31yvhu,Listen (Deluxe),2014-11-24,Dance Pop,pop,dance pop,0.64,0.89,6,0,0.04,0.09,0.38,0.57,124.92,203520
+535,2BVVmJQZv4fOPWavI9mkIj,Broken Arrows,Avicii,10,5ttIIMPWCp2bvwsdAPcEXC,Stories,2015-10-02,Dance Pop,pop,dance pop,0.63,0.67,7,1,0.05,0.05,0.1,0.3,116.0,232760
+536,5L2l7mI8J1USMzhsmdjat9,Red Lights,Tiësto,69,4SHlBT6B3kL8bdj6X2xHRp,A Town Called Paradise,2014-06-13,Dance Pop,pop,dance pop,0.65,0.83,10,1,0.04,0.0,0.12,0.55,124.99,262200
+537,24tVqMiAtv8jmpNPhBEsDY,Now That I've Found You,Martin Garrix,57,38DkYeBW88ThKrbi21eRLB,Now That I've Found You,2016-03-11,Dance Pop,pop,dance pop,0.5,0.83,5,0,0.03,0.02,0.5,0.41,128.06,192632
+538,1sh6lL6cmlcwhqZKGiKBua,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,Avicii,66,0sOrbRnJcNod63r49kmGVb,I Could Be The One [Avicii vs Nicky Romero],2012-01-01,Dance Pop,pop,dance pop,0.51,0.79,6,0,0.04,0.33,0.32,0.64,127.95,208316
+539,3P7qStX3ECFOLfjrXuLzbc,Something New,Axwell /\ Ingrosso,4,3lhqigNRLd5xdnFDF6gJg3,Something New,2015-01-20,Dance Pop,pop,dance pop,0.57,0.86,11,1,0.03,0.02,0.12,0.39,129.92,247160
+540,0bMbDctzMmTyK2j74j3nF3,"Alone, Pt. II",Alan Walker,85,700MviIgFKNTldTXmOAFOr,"Alone, Pt. II",2019-12-27,Dance Pop Tunes,pop,dance pop,0.67,0.67,3,0,0.04,0.54,0.13,0.61,88.03,179053
+541,3TKpJrY9q49Mj1JOsM9zGL,Family,The Chainsmokers,85,01GR4NL5O5CZM51k0aejKD,World War Joy,2019-12-06,Dance Pop Tunes,pop,dance pop,0.58,0.61,11,1,0.04,0.43,0.1,0.37,117.82,194827
+542,6Fvhy9aaBvsLBzC7vDEhIr,All That She Wants,Campsite Dream,50,0qq08x58qBEUp5IinYYJm3,All That She Wants,2020-01-10,Dance Pop Tunes,pop,dance pop,0.39,0.65,1,0,0.16,0.42,0.09,0.55,201.95,139405
+543,2a3dopgTF1q4rMVDJ1rwBU,Push My Luck,The Chainsmokers,66,3Gm1gQdIyBEPJVQUs7rYfr,World War Joy...Push My Luck,2019-11-08,Dance Pop Tunes,pop,dance pop,0.58,0.64,2,1,0.04,0.29,0.19,0.53,90.04,181844
+544,7C1trmcQQ5n5RNy4l6ziCv,Some Say - Felix Jaehn Remix,Nea,63,3HE3e3QqmuhAsxcJGtxyEr,Some Say (Felix Jaehn Remix),2020-01-10,Dance Pop Tunes,pop,dance pop,0.68,0.7,6,1,0.04,0.41,0.17,0.64,120.03,186878
+545,2sxjVSDvymkn264oDZCrl2,Here Comes The Sun,Campsite Dream,43,1TuaxIqNc3FWvAZMOMlCxr,Here Comes The Sun,2019-12-06,Dance Pop Tunes,pop,dance pop,0.68,0.63,9,1,0.05,0.3,0.14,0.59,120.92,149795
+546,24Yi9hE78yPEbZ4kxyoXAI,Roses - Imanbek Remix,SAINt JHN,88,3GqSdhWjmMypMwPLtzoFYs,Roses (Imanbek Remix),2019-10-09,Dance Pop Tunes,pop,dance pop,0.77,0.72,8,1,0.05,0.02,0.35,0.9,121.97,176840
+547,6j3MJ0jtsReAgwRwqsHC7T,Sad,Aivarask,56,69o5UxAU7fhu1suuhxOPJZ,Sad,2019-08-23,Dance Pop Tunes,pop,dance pop,0.82,0.76,11,0,0.19,0.2,0.07,0.36,125.06,175200
+548,1mzARUs2kMMxcKh1ome5aX,Safety (feat. DJ Snake),GASHI,63,1uezDIjS9R7NxGNy2wGlUS,Safety (feat. DJ Snake),2019-08-28,Dance Pop Tunes,pop,dance pop,0.76,0.83,1,1,0.04,0.03,0.08,0.73,109.01,177781
+549,0JIcWmxwEpv740agHLbVB5,Summer Lover (feat. Devin & Nile Rodgers),Oliver Heldens,61,4pQNg7e4O3XJ8tuVpuslGM,Summer Lover (feat. Devin & Nile Rodgers),2019-04-12,Dance Pop Tunes,pop,dance pop,0.69,0.86,10,0,0.03,0.11,0.14,0.67,119.99,194481
+550,35mMXfym6C9VOTUVrcKKZp,We Got Love,Sigala,76,4GtslEn7rHERVWRlqrYehy,We Got Love,2019-11-01,Dance Pop Tunes,pop,dance pop,0.72,0.81,9,0,0.09,0.02,0.13,0.66,124.91,213041
+551,06mg22JLouk02orwxz0UfD,Mr Todd Terry,Riton,50,3BltvvE3Kp6AX3Otr6SQgU,Mr Todd Terry,2019-12-13,Dance Pop Tunes,pop,dance pop,0.81,0.85,10,1,0.06,0.02,0.06,0.63,120.0,167306
+552,2kJIiIqbzYVtv2iTpbQts9,As Far as Feelings Go,Alle Farben,66,7wN2FvcizhjkzuT3MvAGZI,As Far as Feelings Go,2019-10-11,Dance Pop Tunes,pop,dance pop,0.68,0.8,0,0,0.08,0.11,0.19,0.6,105.95,210827
+553,3UIGE2FXaUUcYWA31Og0XO,Summer Fade (feat. Anna of the North),Snakehips,64,5bB44dDIsNlLs2vRUMsrWd,Summer Fade (feat. Anna of the North),2019-08-28,Dance Pop Tunes,pop,dance pop,0.62,0.66,10,1,0.06,0.0,0.22,0.46,179.91,204711
+554,3KKrA8p6gzpYC44JmThaEq,Loving Myself (feat. Raphaella),Henri PFR,59,4vNe0IDoB5T3r1aFqZfhl5,Loving Myself (feat. Raphaella),2019-11-29,Dance Pop Tunes,pop,dance pop,0.69,0.69,7,0,0.05,0.09,0.27,0.47,114.05,174051
+555,7vLR7NDAadIXfWjl2nw5Nr,Haloes,Ina Wroldsen,64,4OkA09FvGYrV1cwJghn0BW,Haloes,2019-09-20,Dance Pop Tunes,pop,dance pop,0.7,0.72,3,1,0.03,0.42,0.18,0.33,103.02,171344
+556,4dSS4hwl81hvbfMsIogJGZ,Gotta Let Go,Hypanda,56,2PoKnh9999RydFOKgKbFt6,Gotta Let Go,2019-08-30,Dance Pop Tunes,pop,dance pop,0.67,0.92,9,0,0.07,0.01,0.15,0.66,103.0,190093
+557,7M9w4C8WenlvWfNRAulZOX,Narcotic,Younotus,77,5J3cTpJJ1EgXK8ZCEylSZO,Narcotic,2019-04-26,Dance Pop Tunes,pop,dance pop,0.75,0.67,10,0,0.06,0.04,0.04,0.37,108.0,192387
+558,5MvLsT03RBp67RLoeISCdl,Do You Mean (feat. Ty Dolla $ign & bülow),The Chainsmokers,17,17knWaxhmQjegn5eJgGVyL,World War Joy...Do You Mean,2019-04-26,Dance Pop Tunes,pop,dance pop,0.6,0.67,11,1,0.04,0.1,0.12,0.57,99.99,193176
+559,7CthsM57gIgD2S8xyL8coq,"My One (feat. Tory Lanez, Kranium & Dappy) (Todd Edwards Remix)",Wiley,38,2oSfjj0NbhzK660glLOdbA,My One (Todd Edwards Remix),2019-08-02,Dance Pop Tunes,pop,dance pop,0.8,0.77,4,0,0.14,0.05,0.15,0.96,124.04,191283
+560,4esEsg9IxiTAGMBQLe9XOu,Be Someone,CamelPhat,66,7x3X4EQy3RgIS4AGopCyEH,Be Someone,2019-06-04,Dance Pop Tunes,pop,dance pop,0.67,0.79,10,0,0.04,0.12,0.08,0.36,121.99,204568
+561,3wWRbRa3OFIFRs4gNywkdd,Do You Miss Me Much - Wookie Remix,Craig David,30,4B0rji5C6OuSdublYV0jiN,Do You Miss Me Much (Wookie Remix),2019-09-13,Dance Pop Tunes,pop,dance pop,0.79,0.9,11,0,0.08,0.0,0.11,0.95,131.0,262507
+562,5TgS4dcUAU8EEb506d8wAT,Ghost,Au/Ra,72,0ol5Chz853Na284gRXNVvJ,Ghost,2019-10-17,Dance Pop Tunes,pop,dance pop,0.67,0.5,0,0,0.05,0.55,0.17,0.58,144.01,177630
+563,05P4BYqVauVxy0w9g6w2D9,Stand By (feat. Rudimental) [#CWC19],LORYN,58,2RhRVX61dIP4z7T5cgAXzi,Stand By (feat. Rudimental) [#CWC19],2019-05-17,Dance Pop Tunes,pop,dance pop,0.66,0.78,1,1,0.08,0.06,0.23,0.62,116.02,189274
+564,3XEdqQtGHAM5huMrs3RaKN,Acid Dreams,MAX,65,5k1l2dCZ6WnBrIUMYC5jZk,Acid Dreams,2019-07-19,Dance Pop Tunes,pop,dance pop,0.82,0.51,0,1,0.08,0.15,0.11,0.77,99.99,183930
+565,1Pz3QmQFBFuI60rxCQBeW6,Kills You Slowly,The Chainsmokers,12,26sv3HCM3uiEK4vzaK2gsQ,World War Joy...Kills You Slowly,2019-03-29,Dance Pop Tunes,pop,dance pop,0.7,0.43,1,0,0.06,0.05,0.13,0.24,149.97,213333
+566,0SDgPPSjRPdGD3hyrCTG2S,Don't Worry Bout Me - Alle Farben Remix,Zara Larsson,48,3oEW0zWluwima7PXrGi8aF,Don't Worry Bout Me (Remixes),2019-05-03,Dance Pop Tunes,pop,dance pop,0.63,0.73,5,1,0.26,0.04,0.18,0.36,124.94,171914
+567,035IYcHuQxZHBknOMWGAnI,Let Me Love You,Campsite Dream,41,709gPgqXWasWIsxGYw3ePA,Let Me Love You,2019-06-21,Dance Pop Tunes,pop,dance pop,0.71,0.45,9,0,0.24,0.59,0.11,0.7,98.06,191200
+568,7hzjWGFi2HKUGOXp1LiQ3V,Spicy - with Diplo & Charli XCX,Herve Pagez,59,0PiWf1iYUUTHDEPnPTFxqs,Spicy (with Diplo & Charli XCX),2019-05-30,Dance Pop Tunes,pop,dance pop,0.82,0.82,8,0,0.05,0.06,0.1,0.51,109.99,157867
+569,1LZbNPkZE39WeytrhcoVD2,Summer Lover (feat. Devin & Nile Rodgers) - Moguai Remix,Oliver Heldens,38,7w82NzY2ZaBHdRTEhq9jZu,Summer Lover (Moguai Remix) (feat. Devin & Nile Rodgers),2019-06-28,Dance Pop Tunes,pop,dance pop,0.81,0.93,1,1,0.14,0.27,0.05,0.64,125.95,189875
+570,18KjYhghq6K3ZmfcewWDp6,Mistaken (feat. Alex Aris),Martin Garrix,68,36EtVEn1SVViW6Pi8rD9n8,Mistaken (feat. Alex Aris),2019-03-31,Dance Pop Tunes,pop,dance pop,0.42,0.69,6,0,0.04,0.06,0.13,0.08,128.03,282481
+571,2qv6LU59qyGRzm4X2TFYMl,Instagram - Dimitri Vegas & Like Mike VS Trobi Remix,Dimitri Vegas & Like Mike,41,154K5houWcuFT0xqGKEMC1,Instagram (The Remixes),2019-11-08,Dance Pop Tunes,pop,dance pop,0.76,0.92,1,0,0.09,0.0,0.3,0.65,123.99,144762
+572,5yzzy7Hevww3RDntQM5mG1,Do It Again,Steve Aoki,5,6acTY4Yc5cTTrhN6IHD6vf,Do It Again,2019-04-19,Dance Pop Tunes,pop,dance pop,0.7,0.95,9,1,0.07,0.12,0.22,0.48,124.0,176129
+573,3O0e0LHTpza0rYVDbZfQ4r,Can We Pretend (feat. Cash Cash),P!nk,75,1CXDHsSaA7UgUPvRm2AVRH,Can We Pretend (feat. Cash Cash),2019-04-11,Dance Pop Tunes,pop,dance pop,0.52,0.81,1,0,0.41,0.2,0.1,0.45,115.17,224360
+574,4n7jnSxVLd8QioibtTDBDq,On My Way,Alan Walker,83,1bcvtuHyO79DNAOOhHEkEm,On My Way,2019-03-21,Dance Pop Tunes,pop,dance pop,0.51,0.69,1,0,0.1,0.02,0.3,0.3,170.09,193798
+575,4466tjT4xLDhIdmsMymUHk,Body 2 Body,MK,61,7kNBaJubrbgmTJR8LUjB0N,Body 2 Body,2019-05-10,Dance Pop Tunes,pop,dance pop,0.68,0.77,0,1,0.04,0.02,0.39,0.67,122.02,145574
+576,7hrnaeVvXFAkvQOmjHJglY,Late Night Feelings - Jax Jones Midnight Snack Remix,Mark Ronson,58,0OYFUfqJASICH465pB7zXu,Late Night Feelings (Jax Jones Midnight Snack Remix),2019-05-20,Dance Pop Tunes,pop,dance pop,0.7,0.93,5,0,0.11,0.02,0.5,0.65,124.02,228387
+577,5OJJF2HA089n5T0ugmXCrk,Shy Guy,Campsite Dream,48,6e3ftExfn4zDOwLm5x6Yph,Shy Guy,2019-04-12,Dance Pop Tunes,pop,dance pop,0.6,0.56,8,0,0.05,0.8,0.09,0.64,96.18,186953
+578,7aQeWViSfRWSEwtJD86Eq0,Late Night Feelings (feat. Lykke Li),Mark Ronson,69,0kTSclkPCKfANMfQmUSFW5,Late Night Feelings (feat. Lykke Li),2019-04-12,Dance Pop Tunes,pop,dance pop,0.69,0.73,4,0,0.06,0.44,0.09,0.47,110.06,251029
+579,1TVEPho7uQub2pMJyzO8JD,No New Friends - Dombresky Remix,Sia,55,32xFYr17qgtcvVsDqVZHf7,No New Friends (Remixes),2019-05-16,Dance Pop Tunes,pop,dance pop,0.85,0.83,9,1,0.07,0.03,0.1,0.55,125.01,246720
+580,1WSGTYKLEpKfNQYYW5Oymt,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",benny blanco,79,2IUVG5x1G7l0TW1LA61Eyy,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",2019-02-28,Dance Pop Tunes,pop,dance pop,0.54,0.47,10,0,0.36,0.4,0.36,0.69,95.27,158027
+581,2VDTgXwf3F6kcpX4HI0BKy,"Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",Sia,62,0ujHQ5WCLuKJQXOqXpGtpf,"LABRINTH, SIA & DIPLO PRESENT... LSD",2019-04-12,Dance Pop Tunes,pop,dance pop,0.58,0.52,7,0,0.08,0.03,0.14,0.53,167.81,195747
+582,6TaqooOXAEcijL6G1AWS2K,All My Friends (feat. Tinashe & Chance the Rapper),Snakehips,74,5cOhR878H8hC3UsxYq5Xyv,All My Friends (feat. Tinashe & Chance the Rapper),2015-10-21,Dance Pop Tunes,pop,dance pop,0.69,0.52,0,1,0.13,0.12,0.11,0.18,95.06,229747
+583,6Qs4SXO9dwPj5GKvVOv8Ki,Dancing With A Stranger (with Normani),Sam Smith,87,1V9oE8bVilClrk5naqyyvL,Dancing With A Stranger (with Normani),2019-01-11,Dance Pop Tunes,pop,dance pop,0.74,0.52,8,1,0.07,0.45,0.22,0.35,103.0,171030
+584,4jp4Z02kzzg8gK0NmDGgml,Play,K-391,78,4uIhRJj1Au4TiyHhCOZys5,Play,2019-08-30,Dance Pop Tunes,pop,dance pop,0.52,0.8,6,0,0.04,0.1,0.09,0.17,101.94,167977
+585,2Fap2zMMINCLylSCSGQLEa,Say You'll Be There,Campsite Dream,40,6C9yPDGpWDwXvoyeAQXUhG,Say You'll Be There,2019-01-18,Dance Pop Tunes,pop,dance pop,0.68,0.6,2,1,0.03,0.21,0.12,0.47,110.0,169500
+586,0nrWZWkJM62ftQJSI8fDc0,Diamond Heart,Alan Walker,69,3nzuGtN3nXARvvecier4K0,Different World,2018-12-14,Dance Pop Tunes,pop,dance pop,0.48,0.63,0,1,0.03,0.12,0.41,0.29,89.91,240333
+587,15vzANxN8G9wWfwAJLLMCg,Paris,The Chainsmokers,75,64vx3cUb97lQGlgt8zozWL,Paris,2017-01-13,Dance Pop Tunes,pop,dance pop,0.65,0.64,2,1,0.03,0.02,0.09,0.25,100.0,221520
+588,5masKPHeAOVNgxdLebIcK7,Stole the Show,Kygo,75,0uMIzWh1uEpHEBell4rlF8,Cloud Nine,2016-05-13,Dance Pop Tunes,pop,dance pop,0.64,0.64,8,0,0.23,0.27,0.32,0.48,100.03,223187
+589,5CMjjywI0eZMixPeqNd75R,Lose Yourself to Dance,Daft Punk,71,4m2880jivSbbyEGAKfITCa,Random Access Memories,2013-05-17,Dance Pop Tunes,pop,dance pop,0.83,0.66,10,0,0.06,0.08,0.08,0.67,100.16,353893
+590,0YammaEkYSeo9vQYZ1OwS6,Say My Name,David Guetta,78,5rbJtzuXtpIP0Ykk7ewIit,7,2018-09-14,Dance Pop Tunes,pop,dance pop,0.7,0.66,10,0,0.12,0.14,0.19,0.79,95.03,198947
+591,4jin3VK3FfPc7l3LFLxt0e,Hold My Girl - Martin Jensen Remix,George Ezra,54,3anZxW27ZZHQZwT1QTUor2,Hold My Girl (Remixes),2018-11-23,Dance Pop Tunes,pop,dance pop,0.64,0.67,10,1,0.05,0.33,0.27,0.34,123.96,185345
+592,4qqArAiTPueDxIp7cf87h7,Final Song,MØ,71,2gcqSlK5xTxcpuLZ1iik3Z,Final Song,2016-05-13,Dance Pop Tunes,pop,dance pop,0.7,0.67,1,0,0.03,0.01,0.08,0.24,104.99,235827
+593,43tgC5pTYJpc5D3C9HRwEg,Slow Down (with Calvin Harris),Normani,55,3OKTeMekMHZCvwlp7uttPE,Normani x Calvin Harris,2018-10-22,Dance Pop Tunes,pop,dance pop,0.85,0.69,0,1,0.05,0.09,0.11,0.55,124.05,205986
+594,7vFoFDWqTX0mHzLfrF1Cfy,Cheerleader - Felix Jaehn Remix Radio Edit,OMI,76,7cVXH4slEYzGjDh498OFyL,Me 4 U,2015-10-16,Dance Pop Tunes,pop,dance pop,0.78,0.68,4,1,0.03,0.17,0.16,0.6,118.02,180566
+595,0WVAQaxrT0wsGEG4BCVSn2,Born To Be Yours,Kygo,64,3Nlbg1BHLXDKqQVQ9ErCmg,Born To Be Yours,2018-06-15,Dance Pop Tunes,pop,dance pop,0.69,0.69,3,1,0.04,0.3,0.1,0.45,114.01,193321
+596,13qqdlSeF8FcxsRyapDMZ0,Changes,Faul & Wad Ad,39,2TQZYFed2I2ajTSzwZV7ag,Changes,2013-11-15,Dance Pop Tunes,pop,dance pop,0.82,0.7,3,0,0.04,0.01,0.06,0.26,126.0,345173
+597,79T9m6YkRCgP0955CE4UCd,No Diggity,Campsite Dream,55,42vpQq9br7zBjdcX1cGiIA,No Diggity,2016-09-23,Dance Pop Tunes,pop,dance pop,0.71,0.71,7,0,0.04,0.18,0.12,0.39,104.91,188849
+598,6hmhG1b4LEyNuashVvuIAo,Never Forget You,Zara Larsson,76,5YLRVHDVRw3QqWbeTGpC5B,So Good,2017-03-17,Dance Pop Tunes,pop,dance pop,0.58,0.73,11,0,0.05,0.0,0.27,0.28,145.99,213428
+599,7b4vbqgzMhbFa0wdjfftQJ,One Kiss (with Dua Lipa) - Oliver Heldens Remix,Calvin Harris,66,5vH3ugictBcayQWRWgfvpN,One Kiss (with Dua Lipa) [Remixes],2018-07-13,Dance Pop Tunes,pop,dance pop,0.72,0.75,0,1,0.06,0.25,0.08,0.14,123.97,281267
+600,5bcTCxgc7xVfSaMV3RuVke,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Calvin Harris,76,2HaqChIDc5go3qxVunBDK0,Funk Wav Bounces Vol.1,2017-06-30,Dance Pop Tunes,pop,dance pop,0.89,0.74,11,0,0.06,0.06,0.09,0.87,101.02,223413
+601,6LCrqs85q61pfZCXYvW63B,Praise You - Purple Disco Machine Remix,Fatboy Slim,62,0Zw6ZJaKDTfbDG8jVj8IC3,Praise You (Purple Disco Machine Remix),2018-11-02,Dance Pop Tunes,pop,dance pop,0.81,0.78,1,1,0.03,0.05,0.06,0.81,120.99,230163
+602,4M8x1TR36VMQMFMbGCdoyA,Back & Forth,MK,72,2WqGsuxmIREkcArxbp5IK0,Back & Forth,2018-09-07,Dance Pop Tunes,pop,dance pop,0.68,0.82,10,0,0.03,0.02,0.02,0.7,121.99,196215
+603,6gpcs5eMhJwax4mIfKDYQk,Slide (feat. Frank Ocean & Migos),Calvin Harris,74,1UIlzhqJLiA3f6OVw7QKn6,Slide (feat. Frank Ocean & Migos),2017-02-24,Dance Pop Tunes,pop,dance pop,0.74,0.8,1,0,0.05,0.5,0.25,0.51,104.07,230813
+604,2Foc5Q5nqNiosCNqttzHof,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,76,2ePFIvZKMe8zefATp9ofFA,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],2013-04-19,Dance Pop Tunes,pop,dance pop,0.79,0.81,6,0,0.04,0.04,0.1,0.86,116.05,248413
+605,7ew2yVscivQRemp0MPPWtS,Giving Up (feat. Jaden Michaels),QUIX,38,4v5hfgvkPmnZK9Q1oCxWfH,Illusions EP,2018-11-09,Dance Pop Tunes,pop,dance pop,0.48,0.81,10,0,0.13,0.04,0.33,0.42,145.13,249987
+606,15DwFznkBJir7AK9PyMyRR,17,MK,69,0K1826JxL1dViQBsEKApN5,17,2017-09-01,Dance Pop Tunes,pop,dance pop,0.7,0.83,0,0,0.07,0.0,0.07,0.67,122.03,196489
+607,5xzCzOAOfRi4DOttSzvznR,Lullaby,Sigala,66,1SR7c6j94aiuYEhUrfTbZ7,Lullaby,2018-02-23,Dance Pop Tunes,pop,dance pop,0.72,0.83,5,0,0.04,0.08,0.08,0.86,120.03,204022
+608,11cDEev79fPKi6uJCjUhu8,Who Do You Love,The Chainsmokers,23,7D7hZbj2cLXwozxYePDF6d,Who Do You Love,2019-02-07,Dance Pop Tunes,pop,dance pop,0.51,0.84,3,1,0.04,0.01,0.22,0.44,140.02,226747
+609,0M0FvSNRZmDz0Z769rewlI,Fire In My Soul,Oliver Heldens,70,06TsYXlEgyZa8Z8DkguJy5,Fire In My Soul,2018-10-26,Dance Pop Tunes,pop,dance pop,0.59,0.98,6,1,0.31,0.21,0.07,0.5,126.18,175254
+610,16q3ZjCy9TFLKReke8ul1I,We Don't Talk,Wiktoria,42,5mWxRqWzQoUIqUwYFbs7k3,We Don't Talk,2020-01-17,Pop / Dance,pop,dance pop,0.81,0.62,6,1,0.04,0.03,0.07,0.49,104.01,178768
+611,4UuGBDjt8gLXsANZqZxMBz,Love You Better,John De Sohn,67,6eYxEOCIiUy763yQwd9Glm,Love You Better,2019-11-15,Pop / Dance,pop,dance pop,0.73,0.79,11,1,0.04,0.09,0.1,0.79,103.0,170893
+612,3fNuYHHay5uUISA3fePcTH,Top of the World - Erlandsson Remix,Vide,46,5gtWCP8NSYjUQm3hu7sROF,Top of the World (The Remixes),2020-01-03,Pop / Dance,pop,dance pop,0.38,0.56,1,1,0.04,0.59,0.1,0.38,86.01,172500
+613,5FhYGAbUG4fgK0Q8eQZocT,The Rest Will Follow,Ludvigsson,51,6trPoySmxwy3WWIZB0yS8q,The Rest Will Follow,2019-11-22,Pop / Dance,pop,dance pop,0.75,0.83,9,0,0.03,0.15,0.12,0.4,119.96,162000
+614,2wuDt464E6oTVNHq48fEVP,So It Goes,Caj Morgan,41,1SI5H6ma3o0YmKj2zFykMK,So It Goes,2019-12-27,Pop / Dance,pop,dance pop,0.63,0.74,2,1,0.03,0.15,0.12,0.76,128.03,165938
+615,492edpLhOflovry0RJRQ4J,Unbelievable,Andrew Roman,47,5DRtnXvDNb7eYZgyb7dTJy,Unbelievable,2019-12-06,Pop / Dance,pop,dance pop,0.74,0.56,5,0,0.04,0.5,0.07,0.57,105.12,233143
+616,7dkhaBy2KuMGR9SDtUyXZ1,Photograph,Ljung,45,3heObVYitQ7SxazBsAIUuF,Photograph,2019-12-06,Pop / Dance,pop,dance pop,0.74,0.57,4,1,0.04,0.28,0.14,0.49,107.98,212440
+617,3JmyDWiGoQ37jZlU7tU9Pu,Faded,John De Sohn,54,7hbJvHvSUMfXoALTNkNd7z,Made For You,2019-11-29,Pop / Dance,pop,dance pop,0.56,0.86,4,1,0.05,0.01,0.06,0.55,150.03,158453
+618,7dLOOzJGQnsgqFcflWiEcZ,Only You,Hogland,54,2IgoG92BBQMm6mB6ZjiQX9,Only You,2019-11-15,Pop / Dance,pop,dance pop,0.56,0.73,8,1,0.07,0.19,0.09,0.26,114.9,182609
+619,1O7LD3kX8b75oLmHdCvGRb,I Don't Know,Ericé,47,1rfUwzULy9A6KPJPAMRW8G,I Don't Know,2019-11-29,Pop / Dance,pop,dance pop,0.7,0.87,6,1,0.06,0.04,0.33,0.45,105.05,195429
+620,4Gy6pnhY9GGE3nqD3d0CmU,Too Close,Ria Mae,66,1qndvyChhfvNmTWNi7eLiE,Too Close,2019-10-16,Pop / Dance,pop,dance pop,0.48,0.67,8,1,0.09,0.07,0.07,0.64,96.03,147741
+621,36pYPsbeDZTNLFhDJbVv9b,Hole in the Roof,AronChupa,61,0rt7VD0KtLP64aPNVJA8Bq,Hole in the Roof,2019-11-22,Pop / Dance,pop,dance pop,0.77,0.48,7,0,0.05,0.04,0.16,0.56,123.02,170000
+622,4h2ohOfzR74qDhUmeYE2za,Nobody Else,Wahlstedt,53,2ZqMhkbspVAsie11ovkCb0,Nobody Else,2019-11-22,Pop / Dance,pop,dance pop,0.83,0.66,0,1,0.06,0.08,0.24,0.46,122.98,179756
+623,3g1MMelMBxLjtKwcIVFe0N,Dance Monkey,Skylike,63,2iU9q30hhHCSN6Anlj3E5K,Dance Monkey,2019-09-06,Pop / Dance,pop,dance pop,0.78,0.86,8,0,0.23,0.33,0.25,0.31,118.11,192203
+624,5QWsDMeukgzBiUYAVlZvhA,Free,JRL,44,2sETcAhdWof9bdjhW2ZGS1,Free,2019-11-29,Pop / Dance,pop,dance pop,0.63,0.78,6,1,0.08,0.03,0.17,0.78,103.02,164613
+625,2bR6LkOC10pZ3udHdZiENF,My Own Dance,Kesha,62,03nFqJg2FeAuZ1bIE91ZJ4,My Own Dance,2019-11-21,Pop / Dance,pop,dance pop,0.84,0.72,2,1,0.11,0.09,0.03,0.43,101.99,161178
+626,5X73AYzzEE5Di0JwcQKt9N,Bigger Than,Justin Jesso,70,0ryzyI2FzzvGCjoysiWMW0,Bigger Than,2019-11-15,Pop / Dance,pop,dance pop,0.42,0.67,4,1,0.13,0.15,0.64,0.33,175.79,208013
+627,66SfFlsxFNT1NI6PZDN9oy,I Got Eyes,John De Sohn,49,6mW6XTtzKav1QL9vBfAquf,I Got Eyes,2019-09-20,Pop / Dance,pop,dance pop,0.73,0.82,7,1,0.04,0.07,0.13,0.79,105.05,159693
+628,4eMKEM3m4sO62SUVCxqnVI,Bleed,Haze & Mellow,44,4RiSDXCqBFG8KFuGemAPCO,Bleed,2019-11-22,Pop / Dance,pop,dance pop,0.65,0.85,11,0,0.08,0.04,0.13,0.26,104.92,172933
+629,2s1tFUAu7atdMKuThwOJu7,Hold on Tight,Sterkøl,50,4axHgjENevcklzGEabyFWG,Hold on Tight,2019-11-01,Pop / Dance,pop,dance pop,0.61,0.75,0,1,0.12,0.06,0.13,0.61,128.07,168751
+630,721s1WVdSDXkTIo1WYR8jW,Once and for All,Moe Aly,44,09j7iQmH2uS76yWMZsn4Jo,Once and for All,2019-11-22,Pop / Dance,pop,dance pop,0.68,0.56,10,1,0.05,0.49,0.1,0.5,96.01,195000
+631,5IxHVYf5BRnwcAUtgI4Hvy,Fantasy,Laureano,34,59Lnh9eXaE9yy1k0s1PIPM,Fantasy,2019-11-08,Pop / Dance,pop,dance pop,0.77,0.71,11,0,0.08,0.03,0.08,0.59,119.97,203000
+632,1cGmFQQ2YtFFeRDZdDPvR8,We Are the Young,Addal,57,3P2QflQcFMFPfNmgXBGXmf,We Are the Young,2019-11-08,Pop / Dance,pop,dance pop,0.66,0.82,6,1,0.04,0.08,0.14,0.58,110.06,176864
+633,2TZ9kaTiLewawHZK7yylSC,No Fear No More,Madeon,60,6Lq1lrCfkpxKa4jCo5gKWr,Good Faith,2019-11-15,Pop / Dance,pop,dance pop,0.63,0.78,6,1,0.09,0.0,0.37,0.68,96.01,195107
+634,430efk5Jc5wGay4EWP4snS,Baianá,Bakermat,76,0ddPcZRUIUj8HvgY3nhaVu,Baianá,2019-11-08,Pop / Dance,pop,dance pop,0.5,0.76,2,0,0.05,0.0,0.33,0.49,121.87,182187
+635,6stXqwqZiO3JUYe6Sb1oPp,Coming Home,TooManyLeftHands,49,3GDjjNPjXZG00cAcQ3C0S4,Coming Home,2019-11-22,Pop / Dance,pop,dance pop,0.69,0.71,5,0,0.14,0.16,0.08,0.52,116.02,186336
+636,33PZBbcUCJkXIEzalNdnG2,Boots,Greyson Chance,55,6v7Xuhl2sLFs0dfeZUL3T4,Boots,2019-11-08,Pop / Dance,pop,dance pop,0.44,0.67,8,0,0.08,0.05,0.1,0.69,76.54,175628
+637,2Lh9Vp6Bi83hNe5RFYh8SA,Heading Home,Ludvigsson,49,5axYeuvwIhNRxajMkwr3cY,Heading Home,2019-09-27,Pop / Dance,pop,dance pop,0.6,0.78,4,1,0.04,0.03,0.12,0.44,122.04,189836
+638,6XeMrBUyR2aNGI93l9Z27u,Somebody Out There,Lost Kings,54,5UBzIfCY1kn7YW83C4AyWa,Somebody Out There,2019-10-18,Pop / Dance,pop,dance pop,0.72,0.66,1,1,0.04,0.02,0.21,0.36,102.0,218978
+639,4dIrGLTW8OJ0pJNLMJG2vJ,Better Half of Me - R3HAB Remix,Tom Walker,45,2p0BJp2pH0YVkYmGHzGY1C,Better Half of Me (R3HAB Remix),2019-10-03,Pop / Dance,pop,dance pop,0.5,0.81,3,1,0.06,0.01,0.13,0.47,108.04,166013
+640,0iBOGfVW1T08dRqtqnMYK0,Say It Again,AJ Mitchell,62,66W7W38MosX0x2VSq3N7g1,Say It Again,2019-11-08,Pop / Dance,pop,dance pop,0.51,0.71,1,1,0.09,0.44,0.08,0.51,119.95,206930
+641,0mRDCsoHDP9vbEK9MOuY7n,You & I,TRXD,50,5lAYF6xbupcd0O1amp1OzB,You & I,2019-10-25,Pop / Dance,pop,dance pop,0.68,0.87,1,1,0.07,0.12,0.06,0.67,117.01,163077
+642,1i3zEm2BKa6N2aCtPx8br3,Alive,henrikz,37,4C2Oqixo5sEegGiPMxe6Lc,Alive,2019-10-18,Pop / Dance,pop,dance pop,0.64,0.77,0,1,0.03,0.01,0.47,0.37,115.01,163842
+643,6U6gLFgQVsZKybsknbxtdZ,Amsterdam,Frans,44,5EmSx1hh3GY5A559CM5kz3,Amsterdam,2019-09-20,Pop / Dance,pop,dance pop,0.84,0.67,4,0,0.06,0.08,0.09,0.91,109.99,177761
+644,2pkYhGilLJDAX4jGGOsE8f,Cross My Heart,Hogland,53,15u852nzMfezttLtFvXzJG,Cross My Heart,2019-09-13,Pop / Dance,pop,dance pop,0.64,0.79,3,1,0.11,0.14,0.36,0.68,126.11,173810
+645,5VlYmXVnGycwv2eaDpyS5Q,what happened,jayover,34,106XQVyuqKuW1mFE2ER7bZ,what happened,2019-10-25,Pop / Dance,pop,dance pop,0.71,0.65,4,1,0.06,0.18,0.1,0.39,125.99,176310
+646,2tnVG71enUj33Ic2nFN6kZ,Ride It,Regard,94,4zOhjJfe0dwqsNdDYk622E,Ride It,2019-07-26,Pop / Dance,pop,dance pop,0.88,0.75,7,0,0.09,0.18,0.11,0.88,117.95,157606
+647,7K4qs6xArR9izybon4i4gW,Somebody,Erlandsson,48,0qICWLER97fV8ZQM3lGWaG,Somebody,2019-10-11,Pop / Dance,pop,dance pop,0.68,0.87,0,1,0.04,0.2,0.28,0.31,124.98,159423
+648,2OEr2lzItRFTQvtzXT0wOm,Thinkin Bout You,Jonasu,51,2NSafcBSIFQVzG16GR13Ni,Thinkin Bout You,2019-10-18,Pop / Dance,pop,dance pop,0.73,0.78,1,0,0.05,0.23,0.19,0.82,112.08,151627
+649,12gG0QAqYFNZNVi5YAruLB,Summertime Love,Captain Cuts,55,78mJr1P0Iaf3A5vXt7saFt,Summertime Love,2019-08-23,Pop / Dance,pop,dance pop,0.71,0.85,6,1,0.06,0.14,0.17,0.67,121.98,143670
+650,292wwhfpjg2mA7PIyh2RjM,I Could Get Used To This,Martin Jensen,58,738Nei2jjcWsz9lT6ylASe,I Could Get Used To This,2019-10-04,Pop / Dance,pop,dance pop,0.76,0.74,1,1,0.04,0.08,0.04,0.65,120.96,151126
+651,4BX9utrulgT68sAqwWjrkZ,LA & The Parties,Lost Kings,60,4w93xIU3AFd4X2ZkNfniz9,LA & The Parties,2019-10-11,Pop / Dance,pop,dance pop,0.54,0.88,10,1,0.06,0.07,0.16,0.52,157.82,165685
+652,5YYNdXrzjuhHe9PDPKyPq2,Lovers + Strangers,Starley,37,1nywDFyG8CKy5jSjtOuqLk,Lovers + Strangers,2019-10-11,Pop / Dance,pop,dance pop,0.65,0.69,1,1,0.08,0.11,0.14,0.65,110.21,178501
+653,1x1tGzVEM8m3cPVcn5lXHw,Too Close,Sterkøl,45,2Ir2giLTqUMxjfakNlbSkF,Too Close,2019-09-06,Pop / Dance,pop,dance pop,0.7,0.65,10,1,0.1,0.1,0.14,0.63,100.0,168019
+654,263vZeewsC57W2EYZfzejA,Fallin',Sick Individuals,52,5zeaSbMMoIi594N5UoYXC8,Fallin',2019-10-11,Pop / Dance,pop,dance pop,0.74,0.86,5,0,0.04,0.05,0.1,0.46,114.04,209079
+655,71UYuIZf0TeXAjyy72COVr,Tear Me Down (feat. Philip Rustad),Davai,57,0RUNbRdWfIcWw8cawHYi1K,Tear Me Down (feat. Philip Rustad),2019-09-20,Pop / Dance,pop,dance pop,0.72,0.82,11,1,0.11,0.26,0.1,0.7,100.02,184500
+656,48X9IcdoKdIlNIzHLtZ8D5,Perspective,AMAANDA,32,6WDwj78J1txGtqJ7rWepJv,Perspective,2019-09-20,Pop / Dance,pop,dance pop,0.78,0.6,7,1,0.22,0.59,0.24,0.38,114.93,148147
+657,4xEgZDzeVtQqZhamdBpXDN,Cali Girl,Papa Ya,40,78ZFM4avv5VxAJlqcrWGRN,Cali Girl,2019-09-27,Pop / Dance,pop,dance pop,0.74,0.71,8,0,0.05,0.0,0.14,0.43,97.96,148163
+658,4qYpRB4HChh1T9GPIrgYJw,Choir - Remix,Guy Sebastian,54,4epSU0uCEGr8GAtQZq3v7O,Choir (Remix),2019-09-27,Pop / Dance,pop,dance pop,0.71,0.57,5,1,0.13,0.1,0.3,0.36,89.97,208520
+659,72MNORxPoYqbnaEKJArZod,Cut to the Chase,Roman Müller,41,4FfXfTCFF0zbkAfs5rZ5Ox,Cut to the Chase,2019-08-30,Pop / Dance,pop,dance pop,0.77,0.63,11,1,0.04,0.28,0.3,0.63,98.09,153673
+660,1wsT0yP7uhXJ26ZqtgpEhW,You Keep Calling,BAARD,42,6j0VPDkceEpxQ0ws63JuCM,You Keep Calling,2019-09-13,Pop / Dance,pop,dance pop,0.51,0.68,5,0,0.09,0.05,0.07,0.6,111.97,199293
+661,0rIAC4PXANcKmitJfoqmVm,Motivation,Normani,83,2r6BEK0wzXbL8JHyCkeJkG,Motivation,2019-08-16,Pop / Dance,pop,dance pop,0.6,0.89,4,1,0.1,0.02,0.3,0.88,170.92,193837
+662,1MI3mljRwv2P9Nt3devOTF,Like I Love You - Small Talk Remix,Theresa Rex,40,0DLHtBxna4crZeklOgksi6,Like I Love You (Remixes),2019-09-27,Pop / Dance,pop,dance pop,0.75,0.51,8,0,0.14,0.14,0.08,0.67,111.98,165111
+663,3zysdGd91RB2oMEkSQVYno,Punching in the Dark,Hellberg,52,4aZuPw1y1PUIcvEuAlW8ON,Punching in the Dark,2019-08-23,Pop / Dance,pop,dance pop,0.68,0.62,0,1,0.15,0.15,0.08,0.37,110.0,191760
+664,4hPpVbbakQNv8YTHYaOJP4,One Thing Right,Marshmello,85,4QAC6FquY8D0RXom13iE5J,One Thing Right,2019-06-21,Pop / Dance,pop,dance pop,0.66,0.62,4,1,0.05,0.07,0.58,0.44,88.04,181824
+665,1S7hEPenrIVKVTuEjtXKz9,Letting Go,Hogland,66,6veielpwGAJ4FKG7w3q69H,Letting Go,2019-06-07,Pop / Dance,pop,dance pop,0.67,0.64,6,1,0.04,0.05,0.1,0.22,119.95,192089
+666,1lrxKnhETdtGBk5BecESRD,Don't Leave Me Lonely - Purple Disco Machine Remix,Mark Ronson,58,0PL6WfKSYj0qQN06K3BvXn,Don't Leave Me Lonely (Purple Disco Machine Remix),2019-09-27,Pop / Dance,pop,dance pop,0.81,0.76,8,1,0.07,0.25,0.05,0.85,118.01,215593
+667,7o9SNYNMZTLtWo5W0IH6PI,Hold On,Foxa,45,5IlCD8sInMKVGdpHRfFk3T,Hold On,2019-08-09,Pop / Dance,pop,dance pop,0.75,0.87,7,1,0.04,0.21,0.07,0.33,123.0,143415
+668,35FIDQv0u26DSknDahmcdz,With You,Lewka,41,5JidIN4s1iPbc7zuIHhUIw,With You,2019-08-16,Pop / Dance,pop,dance pop,0.69,0.86,7,0,0.06,0.38,0.22,0.56,115.03,137348
+669,2Q3uUxPpTKY4MjY5SRFSHK,Try,Lost Kings,55,6GPLPBLhIg3iluCRV84Pyj,Try,2019-08-23,Pop / Dance,pop,dance pop,0.48,0.8,7,0,0.05,0.07,0.14,0.36,200.0,185119
+670,1Pu0gOLF3enqyti4alKaad,A Dream Is A Wish Your Heart Makes,Vinil,22,596jGnAqfjbChxMfVa6Wby,A Dream Is A Wish Your Heart Makes,2019-08-23,Pop / Dance,pop,dance pop,0.69,0.69,4,1,0.1,0.32,0.14,0.62,124.92,199375
+671,58tYBkyFprVpfe0HtJqH27,Lucky One (feat. ILY),Tom Ferry,47,1uKVN6em3v0d90GJFG7II9,Lucky One (feat. ILY),2019-08-09,Pop / Dance,pop,dance pop,0.7,0.77,7,0,0.06,0.03,0.15,0.34,124.06,188000
+672,33WaAIUnrgkyeosXb0iXNu,Closer,Haze & Mellow,38,2v7iFhygXOzHiPFXpF5Oat,Closer,2019-08-02,Pop / Dance,pop,dance pop,0.74,0.77,1,1,0.03,0.13,0.09,0.21,100.0,162117
+673,43JztBwps5nHk69OqYOv9D,Wannabe,Jonasu,51,3f2VKL7FYE0C7qApp6veOH,Wannabe,2019-07-05,Pop / Dance,pop,dance pop,0.77,0.76,10,1,0.09,0.25,0.21,0.5,110.05,187636
+674,7ka24WdTm5OWlE9FmzgfTw,Sending Me You,henrikz,28,7icp3CtLwFXTHOYUkZKaaq,Sending Me You,2019-08-16,Pop / Dance,pop,dance pop,0.5,0.57,4,0,0.17,0.05,0.18,0.37,188.02,191509
+675,2Wb7cfgUCj3C95H5vCrsGg,Room for Two,Moe Aly,38,6ZIuGnWaIbnA7kcxiZP9aH,Room for Two,2019-08-09,Pop / Dance,pop,dance pop,0.39,0.69,10,0,0.06,0.18,0.17,0.29,149.19,201612
+676,7Lw5FXm8nhQPvezIpA6jK5,Lost,End of the World,65,2Qf8hCpYFhiHI3sQcgse78,Lost,2019-07-26,Pop / Dance,pop,dance pop,0.71,0.73,7,1,0.03,0.01,0.08,0.73,121.98,217493
+677,6D4pMSbaW3eBTdONRoYPQr,Somebody,Closed Doors,31,41oOM1Gh86JoMhrDrSlPig,Somebody,2019-07-26,Pop / Dance,pop,dance pop,0.71,0.54,11,1,0.11,0.5,0.08,0.46,93.97,181609
+678,56JyMaElW79S7TDWh1Zw1m,On A Roll,Ashley O,70,6eV8O8De1mibErM1XM1tEc,On A Roll,2019-06-14,Pop / Dance,pop,dance pop,0.74,0.81,5,1,0.09,0.08,0.05,0.39,125.0,154448
+679,0EPqqVrZZw00uLDTB0pxs6,I'm Not Alright,Loud Luxury,46,2JS9pBbQBN5xtH1uyMwwlB,I'm Not Alright,2019-07-12,Pop / Dance,pop,dance pop,0.88,0.86,4,1,0.05,0.08,0.46,0.68,121.99,185062
+680,1aSarrHE1TK9vSmyozuo4K,Calma - Alan Walker Remix,Pedro Capó,63,7dcAhwEKq6RGTDbMYYsMW6,Calma (Alan Walker Remix),2019-06-21,Pop / Dance,pop,dance pop,0.81,0.6,2,1,0.12,0.1,0.06,0.58,127.08,193973
+681,35v112YYfNoXGOggxVlp40,Bad Look,Charming Horses,39,65PwHujyN5NqhdlAEijNt7,Bad Look,2019-08-02,Pop / Dance,pop,dance pop,0.69,0.78,0,0,0.11,0.16,0.16,0.89,102.04,157647
+682,7979U8R0HwkgpuRjcDpch2,Here I Am (feat. Michael Shynes),Le P,35,3i8Fx7JfZqDceAzze9S5CB,Here I Am (feat. Michael Shynes),2019-07-26,Pop / Dance,pop,dance pop,0.69,0.62,0,1,0.03,0.42,0.23,0.33,103.02,212655
+683,5CQ6McE86ztNSOhQwRwgSf,Can't Say No (feat. PJZ),Alex Mattson,44,1sddQ5bzBhPAISVWJoxa9t,Can't Say No (feat. PJZ),2019-06-28,Pop / Dance,pop,dance pop,0.64,0.86,0,1,0.06,0.03,0.25,0.58,147.06,159039
+684,5lAMOiZhF8pq4wO3uHREaY,Somebody I'm Not,Davai,47,0IcjW1HatBdzIdkFfKnSqH,Somebody I'm Not,2019-06-28,Pop / Dance,pop,dance pop,0.75,0.42,1,0,0.19,0.04,0.13,0.32,101.96,214627
+685,2adBJEXBiScnmdgqZe5OMM,Nobody To Love,Out Of Sound,45,0QPwsgwfES0hA7y07JEqnO,Nobody To Love,2018-09-28,Pop / Dance,pop,dance pop,0.65,0.78,0,0,0.06,0.13,0.11,0.32,102.02,155968
+686,0XO1KK7qiUGVK8t3FZdM4w,PAY ME BACK!,ILIRA,48,0FdEEw1vJvO8hCUJUoYjRd,PAY ME BACK!,2019-07-26,Pop / Dance,pop,dance pop,0.79,0.81,9,1,0.06,0.01,0.08,0.61,120.09,188200
+687,7k4t7uLgtOxPwTpFmtJNTY,Tusa,KAROL G,98,7mKevNHhVnZER3BLgI8O4F,Tusa,2019-11-07,Todo Éxitos,pop,dance pop,0.8,0.72,2,1,0.3,0.3,0.06,0.57,101.08,200960
+688,5Cbo7oz78gqkzV3EAM63VA,+,Aitana,81,6zardvJflEyoRedCUCBUw9,+,2019-12-17,Todo Éxitos,pop,dance pop,0.56,0.67,8,1,0.03,0.11,0.12,0.68,160.02,219367
+689,3ZCTVFBt2Brf31RLEnCkWJ,everything i wanted,Billie Eilish,97,4i3rAwPw7Ln2YrKDusaWyT,everything i wanted,2019-11-13,Todo Éxitos,pop,dance pop,0.7,0.22,6,0,0.1,0.9,0.11,0.24,120.01,245426
+690,5fmXWEFh8vMXzKTHN9ezKV,En Tus Planes,David Bisbal,66,63cRlzjRihSdheA6lKonRy,En Tus Planes,2020-01-02,Todo Éxitos,pop,dance pop,0.81,0.78,11,0,0.16,0.28,0.04,0.79,92.01,172147
+691,6RyuoOJXNzlVWpfC5xQyeI,Alocao (With Bad Gyal),Omar Montes,82,6pEhppkTzrKKGkQw4fNqOD,Alocao (With Bad Gyal),2019-10-24,Todo Éxitos,pop,dance pop,0.67,0.75,11,0,0.06,0.21,0.11,0.7,178.0,209320
+692,671sG3ETDxC3L6qcGIrHRM,A Dónde Vamos,Morat,77,1rZx9sSqtP2gy4jmIZwVYc,A Dónde Vamos,2019-10-31,Todo Éxitos,pop,dance pop,0.63,0.61,0,1,0.04,0.01,0.23,0.96,149.03,203102
+693,3mQ6SLdxxaL52Yte7KF2Ks,Morado,J Balvin,82,7ynTaSXD9esXkgY0GG8UFd,Morado,2020-01-09,Todo Éxitos,pop,dance pop,0.88,0.7,11,0,0.08,0.14,0.09,0.78,97.0,200667
+694,41L3O37CECZt3N7ziG2z7l,Yummy,Justin Bieber,95,1SN6N3fNkZk5oXQ9X46QZ3,Yummy,2020-01-03,Todo Éxitos,pop,dance pop,0.66,0.52,9,0,0.11,0.4,0.12,0.5,145.84,210427
+695,6RyaV7owmVU6fzEPE17sF1,Que Tire Pa Lante,Daddy Yankee,90,155yGQqPxsYkhV7zQyL95t,Que Tire Pa Lante,2019-10-18,Todo Éxitos,pop,dance pop,0.66,0.9,7,1,0.04,0.05,0.12,0.71,93.98,210520
+696,2usxQITOSDqvkYiI0oIwao,You should be sad,Halsey,86,1gBDGPFz9v93dxE3fUU9eO,You should be sad,2020-01-10,Todo Éxitos,pop,dance pop,0.59,0.58,2,1,0.03,0.14,0.11,0.32,110.94,205473
+697,4punHldq7Jfx0Plu7SdjQ0,Pegamos Tela,Lérica,49,3frb0kzyPtfEblL13PrmHQ,Pegamos Tela,2020-01-16,Todo Éxitos,pop,dance pop,0.68,0.86,2,1,0.08,0.09,0.24,0.86,170.0,187940
+698,59s0s39NFWScuHDbHytI14,Indeciso,Reik,88,4qecT0ZJrf35thz2WaEm6P,Indeciso,2019-08-23,Todo Éxitos,pop,dance pop,0.74,0.75,0,1,0.05,0.18,0.11,0.9,94.95,217253
+699,0OP1RzrglC008kj79Httv3,Zorra,Bad Gyal,77,6Syxhy1xpKZXWO8KPm34G3,Zorra,2019-12-12,Todo Éxitos,pop,dance pop,0.64,0.65,11,1,0.19,0.68,0.08,0.74,176.08,186120
+700,5QXQy0f2q8wJNpPwJtjifx,"Loco Contigo (with J. Balvin & Ozuna feat. Nicky Jam, Natti Natasha, Darell & Sech) - REMIX",DJ Snake,80,3CrpfLi8E2VWFf7ZLjgpNt,"Loco Contigo (with J. Balvin & Ozuna feat. Nicky Jam, Natti Natasha, Darell & Sech) [REMIX]",2019-12-27,Todo Éxitos,pop,dance pop,0.79,0.69,6,0,0.07,0.1,0.1,0.55,96.04,341875
+701,4wNIkl5XGiAACjFBlDWuSd,What A Man Gotta Do,Jonas Brothers,73,3SgvmlSsTrMuqICaOTlo0p,What A Man Gotta Do,2020-01-17,Todo Éxitos,pop,dance pop,0.86,0.71,9,1,0.06,0.01,0.09,0.33,113.02,180645
+702,2ksOAxtIxY8yElEWw8RhgK,China,Anuel AA,93,1PTTAq0OxggVgqP5WTYWDh,China,2019-07-19,Todo Éxitos,pop,dance pop,0.79,0.81,7,1,0.09,0.08,0.08,0.61,105.03,301714
+703,60TClTKDePeUjKyfotkLEg,Celébrate,Miki Núñez,57,28J7X3YF7SyRGoCvPJv1O9,Amuza,2019-09-12,Todo Éxitos,pop,dance pop,0.63,0.76,7,1,0.05,0.1,0.08,0.78,172.16,219533
+704,0rsRJOlDJxfNPNTEALa2t3,Rare,Selena Gomez,73,0CQPSBCo1cLsEEJPfmsPmy,Rare,2020-01-10,Todo Éxitos,pop,dance pop,0.84,0.55,5,1,0.07,0.21,0.1,0.63,115.0,220590
+705,0Cn8NxJZz7zUlsaA3rXoIU,Easy - Remix,Jhay Cortez,81,3Y00aLNDKDq9rXR3cIcbDo,Easy (Remix),2019-11-19,Todo Éxitos,pop,dance pop,0.89,0.75,1,0,0.09,0.19,0.15,0.44,94.07,220147
+706,7FIWs0pqAYbP91WWM0vlTQ,Godzilla (feat. Juice WRLD),Eminem,79,4otkd9As6YaxxEkIjXPiZ6,Music To Be Murdered By,2020-01-17,Todo Éxitos,pop,dance pop,0.81,0.74,10,0,0.34,0.14,0.29,0.83,166.0,210800
+707,3jbT1Y5MoPwEIpZndDDwVq,Adicto (with Anuel AA & Ozuna),Tainy,90,7nqA49hzXJWPH4cnM8nk6x,Adicto (with Anuel AA & Ozuna),2019-08-22,Todo Éxitos,pop,dance pop,0.73,0.84,10,0,0.07,0.02,0.18,0.62,80.0,270741
+708,2rc7BkzO8qepMFAxHtOrXc,Blanco,J Balvin,88,5mcUbpuVL0i5q4cECQ6cV4,Blanco,2019-11-15,Todo Éxitos,pop,dance pop,0.87,0.71,9,0,0.13,0.03,0.09,0.59,100.01,145800
+709,0TK2YIli7K1leLovkQiNik,Señorita,Shawn Mendes,93,2ZaX1FdZCwchXl1QZiD4O4,Señorita,2019-06-21,Todo Éxitos,pop,dance pop,0.76,0.54,9,0,0.03,0.04,0.09,0.75,116.95,190960
+710,1sviDBcAqVOxMXq4xITVEs,Que Calor (feat. J Balvin & El Alfa),Major Lazer,84,2epUYHJteejHG4trbc8drd,Que Calor (feat. J Balvin & El Alfa),2019-09-11,Todo Éxitos,pop,dance pop,0.8,0.88,8,1,0.07,0.04,0.29,0.46,126.04,169998
+711,2b8fOow8UzyDFAE27YhOZM,Memories,Maroon 5,98,3nR9B40hYLKLcR0Eph3Goc,Memories,2019-09-20,Todo Éxitos,pop,dance pop,0.76,0.32,11,1,0.05,0.84,0.08,0.57,91.02,189486
+712,2g2N78BH9x4iAzeSvjG7dU,All I Want For Christmas Is You,Mariah Carey,18,63OsyEW79JFEVI8k4Abuo6,Merry Christmas II You,2010-01-01,Todo Éxitos,pop,dance pop,0.55,0.89,9,0,0.06,0.08,0.13,0.45,150.03,242347
+713,6uzGmmQ4CuG9HvZktEy0LF,Qué Bonito Es Querer,Manuel Carrasco,72,1FwsOQLBtsdLjy2OGsCZZa,La Cruz Del Mapa,2018-12-07,Todo Éxitos,pop,dance pop,0.61,0.72,11,1,0.04,0.6,0.08,0.43,93.94,270188
+714,0uW9gZMn6SVBSVp39umUy7,Revival,Gregory Porter,51,045wnruBIjG8IPdPbJHSVh,Revival,2020-01-16,Todo Éxitos,pop,dance pop,0.67,0.8,7,0,0.04,0.01,0.09,0.75,130.01,186989
+715,7nHUD2xhqkehsYk3PT6QDs,Presiento,Morat,71,4AoZ74lY9YRMaPaEPSCxnF,Presiento,2019-04-12,Todo Éxitos,pop,dance pop,0.71,0.73,2,1,0.16,0.17,0.3,0.46,180.04,174380
+716,0sf12qNH5qcw8qpgymFOqD,Blinding Lights,The Weeknd,98,2ZfHkwHuoAZrlz7RMj0PDz,Blinding Lights,2019-11-29,Todo Éxitos,pop,dance pop,0.51,0.8,1,1,0.06,0.0,0.09,0.34,171.02,201573
+717,7bsqRe39lKOYX45FZpzP9o,Fuera De Mi Mente,Lérica,74,21BjFhK6keinj4hTWQ9xnn,Fuera De Mi Mente,2019-11-05,Todo Éxitos,pop,dance pop,0.74,0.94,1,1,0.1,0.17,0.05,0.7,93.99,181433
+718,7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Lewis Capaldi,94,5658aM19fA3JVwTK6eQX70,Divinely Uninspired To A Hellish Extent,2019-05-17,Todo Éxitos,pop,dance pop,0.5,0.4,1,1,0.03,0.75,0.1,0.45,109.89,182161
+719,4piZ5m1vZGDkfyHga5U97m,Hookah,Bad Gyal,70,0xLKGRXpMLJ9wNpAJZwbVJ,Hookah,2019-07-19,Todo Éxitos,pop,dance pop,0.87,0.58,0,1,0.11,0.07,0.12,0.48,103.97,179893
+720,6Gg1gjgKi2AK4e0qzsR7sd,Bandit (with YoungBoy Never Broke Again),Juice WRLD,92,3t6Z2qoBVCS4NHNI25XECH,Bandit (with YoungBoy Never Broke Again),2019-10-04,Todo Éxitos,pop,dance pop,0.47,0.63,5,0,0.34,0.07,0.13,0.42,180.05,189323
+721,4500Dr4dVfnQiMjaTC4oIq,Me Equivocaré,Antonio José,69,3kJtYTn44STQqsO6A1vF2b,Me Equivocaré,2019-09-26,Todo Éxitos,pop,dance pop,0.56,0.73,2,1,0.16,0.06,0.04,0.73,80.51,152722
+722,7IzbHY75UhGztauT7U5eKb,Lola Bunny,Lola Indigo,69,6ZzTJncT5EwHp5Pa4xwFpS,Lola Bunny,2019-07-30,Todo Éxitos,pop,dance pop,0.77,0.9,9,0,0.05,0.19,0.23,0.87,94.99,187263
+723,4VginDwYTP2eaHJzO0QMjG,Circles,Post Malone,49,75n7rjlC1fxezRtoMQmtL5,Circles,2019-08-30,Todo Éxitos,pop,dance pop,0.7,0.76,0,1,0.04,0.23,0.09,0.53,120.0,214907
+724,6Nqi1fWKYXrVXmF3RtQbSf,Me Quedo,Aitana,70,0UMkp3B0Dqf3t0HkLmoX0j,Spoiler,2019-06-07,Todo Éxitos,pop,dance pop,0.82,0.71,11,1,0.05,0.43,0.44,0.77,97.04,174433
+725,0fea68AdmYNygeTGI4RC18,LA CANCIÓN,J Balvin,91,6ylFfzx32ICw4L1A7YWNLN,OASIS,2019-06-28,Todo Éxitos,pop,dance pop,0.75,0.65,7,1,0.32,0.15,0.11,0.43,176.09,242573
+726,3mN2DtljBhnrIpc3Nu2pJ8,Déjate Querer,Lalo Ebratt,77,1BqgA0LjVFVKEbiCyqIjah,Déjate Querer,2019-02-28,Todo Éxitos,pop,dance pop,0.76,0.79,6,1,0.05,0.03,0.08,0.84,106.01,202824
+727,2qON8SpeBDBSoWCvDKuwbU,Bésame,David Bisbal,70,4RvfXzwyyTmAGfjW4WFAsE,Bésame,2019-07-04,Todo Éxitos,pop,dance pop,0.74,0.84,6,1,0.05,0.05,0.11,0.88,97.94,200962
+728,3cphb8kdsjElYR7r5icK3H,Nice To Meet Ya,Niall Horan,87,3KrYBAbfxlssMirZLs6HzZ,Nice To Meet Ya,2019-10-04,Todo Éxitos,pop,dance pop,0.59,0.84,4,0,0.03,0.01,0.4,0.39,109.03,158805
+729,7tQ24skemknA6PPh6gwFi1,Mejores Amigos,Yera,75,4JFLZE2lAjETtE7uvms4Fo,Mejores Amigos,2019-09-26,Todo Éxitos,pop,dance pop,0.62,0.74,4,1,0.04,0.16,0.1,0.9,89.98,205369
+730,57vxBYXtHMk6H1aD29V7PU,Heartless,The Weeknd,93,7vRcickwa6GCfY1qKKe4lK,Heartless,2019-11-27,Todo Éxitos,pop,dance pop,0.53,0.75,10,0,0.11,0.01,0.12,0.2,169.95,200080
+731,4AyvLHET4Zl794yQiQvxmp,Push It On Me,Damien,56,7eMw66z2V2W4LelK493lXS,Push It On Me,2019-11-21,Todo Éxitos,pop,dance pop,0.63,0.57,5,0,0.22,0.63,0.11,0.58,179.82,164333
+732,5w9c2J52mkdntKOmRLeM2m,Con Calma,Daddy Yankee,87,1otwHKoQ5KPaiekpYk4tWh,Con Calma,2019-01-24,Todo Éxitos,pop,dance pop,0.74,0.86,8,0,0.06,0.11,0.06,0.66,93.99,193227
+733,0gcOnIUKIG6JF56iFUfE0p,Bonita,Juanes,78,6lPRVKGP5WnFGI46c4LVik,Bonita,2019-09-06,Todo Éxitos,pop,dance pop,0.74,0.88,0,1,0.05,0.26,0.25,0.96,157.99,147493
+734,1CPAiHBpTTtHPAlOcVWIwT,LUNA,Lola Indigo,62,1gmighJ1w3l8qJL8hd7LsA,LUNA,2019-12-05,Todo Éxitos,pop,dance pop,0.74,0.74,0,1,0.14,0.02,0.09,0.62,94.08,209362
+735,3i9UVldZOE0aD0JnyfAZZ0,Lover (Remix) [feat. Shawn Mendes],Taylor Swift,85,2UfvnX1YYeC2cExMQTMbXC,Lover (Remix) [feat. Shawn Mendes],2019-11-13,Todo Éxitos,pop,dance pop,0.45,0.6,7,1,0.06,0.43,0.09,0.42,205.27,221307
+736,4R0sTxCaskwCPbzkfXHfWg,Santa María (Feat. Busy Signal),Bad Gyal,65,44I3wnIjshc9lxW23HXMW6,Santa Maria,2019-07-05,Todo Éxitos,pop,dance pop,0.76,0.6,0,1,0.33,0.05,0.1,0.43,142.46,154933
+737,7BuSE9uTIw931wtZYzvZcQ,Runaway,Sebastian Yatra,80,0PijZTpKNGUvL12y7w4tZF,Runaway,2019-06-21,Todo Éxitos,pop,dance pop,0.76,0.85,2,1,0.07,0.03,0.13,0.93,75.01,200693
+738,5o3pP3SWueoHRCytmwaL52,caronte,Alba Reche,50,5m9csUiQbZ0OSSnVgbeCrQ,caronte,2019-10-17,Todo Éxitos,pop,dance pop,0.55,0.21,7,0,0.03,0.81,0.11,0.25,119.59,189758
+739,1HfMVBKM75vxSfsQ5VefZ5,Lose You To Love Me,Selena Gomez,93,3tBkjgxDqAwss76O1YHsSY,Lose You To Love Me,2019-10-23,Todo Éxitos,pop,dance pop,0.5,0.34,4,1,0.04,0.58,0.21,0.09,101.99,206459
+740,3dWpRjCmaHbroNahuSeX11,Rebota - Remix,Guaynaa,78,4HoYhLOpFgJECemzKIEhvM,Rebota (Remix),2019-07-12,Todo Éxitos,pop,dance pop,0.88,0.86,0,0,0.2,0.2,0.67,0.82,90.02,262000
+741,1WMfmBKlRTUGafwEjtJIhN,"Mucho más allá - De ""Frozen 2""",David Bisbal,57,2HpjCcz1zgMiFJBLesaqc9,"Mucho más allá (De ""Frozen 2"")",2019-11-08,Todo Éxitos,pop,dance pop,0.39,0.76,8,1,0.1,0.46,0.1,0.44,117.68,190467
+742,7ce20yLkzuXXLUhzIDoZih,Before You Go,Lewis Capaldi,90,0488X5veBK6t3vSmIiTDJY,Before You Go,2019-11-19,Todo Éxitos,pop,dance pop,0.46,0.57,3,1,0.06,0.6,0.09,0.18,111.88,215107
+743,5O3uMYHZpppwOrAglPoydO,Mama No,Pablo López,59,55vt962wziM1oVJ1H4lTNc,Mama No,2019-11-07,Todo Éxitos,pop,dance pop,0.34,0.52,4,1,0.05,0.61,0.11,0.14,80.06,170738
+744,1c0hsvHLELX6y8qymnpLKL,Soltera - Remix,Lunay,85,2m9Vuc9Q19qhSm6RQmBgsR,Soltera (Remix),2019-05-10,Todo Éxitos,pop,dance pop,0.8,0.78,5,1,0.04,0.36,0.44,0.8,92.02,266087
+745,7zH4rnKKGm5vACoSEXBEDe,nana triste,Natalia Lacunza,59,6piXewR2Si4LT96r9mUXl2,nana triste,2019-06-13,Todo Éxitos,pop,dance pop,0.47,0.31,10,0,0.06,0.76,0.11,0.42,93.34,187016
+746,6uW0PIRcyZLvkoonm763xD,Contando Lunares (feat. Cruz Cafuné),Don Patricio,79,507EX6i0GGn2b4l2DGcl2y,La Dura Vida del Joven Rapero,2019-01-27,Todo Éxitos,pop,dance pop,0.86,0.52,4,0,0.13,0.44,0.05,0.71,105.94,219667
+747,3a94DkjR4idw3bp8yzai59,Mambo No. 5 (A Little Bit of...),Lou Bega,10,0F2v1g7RUEmK077TfZGeoS,Ultimate Holiday Hits,2008-07-25,90s Dance Hits,pop,dance pop,0.61,0.8,5,0,0.38,0.1,0.31,0.9,174.11,219333
+748,24CXuh2WNpgeSYUOvz14jk,Sandstorm - Radio Edit,Darude,61,3EWyQlR8LFyu6FImQT49bv,Before The Storm,2007-04-18,90s Dance Hits,pop,dance pop,0.54,0.98,11,0,0.05,0.17,0.08,0.52,136.09,225373
+749,77j9HOrxUpWcjwra9jgvio,We like to Party! (Six Flags),Vengaboys,51,0R44mmTKUE1XCuGVVrPfTZ,We like to Party! (The Vengabus),1998,90s Dance Hits,pop,dance pop,0.78,0.9,8,1,0.04,0.01,0.05,0.97,136.02,224227
+750,6rQ9qJPvInEqSzlh89LsPJ,Coco Jamboo - Radio Version,Mr. President,18,2t8Bc4qBseswbwOoHGHK8d,We See The Same Sun,1996,90s Dance Hits,pop,dance pop,0.83,0.84,1,0,0.04,0.08,0.15,0.96,100.02,218733
+751,5FgtdSf7I5lClThz2ptWvl,Blue (Da Ba Dee),Eiffel 65,16,65DySolRDG1LNSvRXcWQWN,Europop,1999,90s Dance Hits,pop,dance pop,0.82,0.97,7,0,0.06,0.26,0.39,0.76,128.01,283748
+752,2ZCTP54O2dMSbVrdsg60to,Barbie Girl,Aqua,5,2vb252Haz9iX4iOd7vP8kX,Greatest Hits,2009-01-01,90s Dance Hits,pop,dance pop,0.76,0.95,1,0,0.04,0.01,0.42,0.91,129.97,195040
+753,2ahnofp2LbBWDXcJbMaSTu,What Is Love,Haddaway,70,0qTVjeVP70YvQG4GctetOf,What is Love - Remix,1993,90s Dance Hits,pop,dance pop,0.68,0.77,7,0,0.03,0.02,0.2,0.74,123.87,270373
+754,0wP3e5PzSxafy2TRtlayq9,Scatman (ski-ba-bop-ba-dop-bop),Scatman John,10,0lZJ8KTq6WzIrOM1KWWCxe,Scatman's World,1995-06-01,90s Dance Hits,pop,dance pop,0.65,0.82,5,0,0.04,0.07,0.22,0.76,135.98,215973
+755,7cG3wfohoNDSp2M8FWrgTg,Bailando - Video Edit,Paradisio,59,3iJwt0Sq44ZBzR7kNCxf0y,Bailando,1996,90s Dance Hits,pop,dance pop,0.65,0.96,8,0,0.04,0.09,0.11,0.83,132.99,229627
+756,1bttWPpJQmn9zdi951BcAZ,Be My Lover,La Bouche,13,4iRt5STyQudfgvq3Gt2ki6,50 Summer Hits,2009-06-11,90s Dance Hits,pop,dance pop,0.66,0.91,1,0,0.03,0.0,0.86,0.83,134.77,239747
+757,7znm8mn8oac6FKfmLuvPZa,The Riddle (Original Mix),Gigi D'Agostino,48,5MJTJqEYDDTXhA0qriUnB8,The Riddle,2014-05-30,90s Dance Hits,pop,dance pop,0.74,0.87,6,0,0.04,0.02,0.08,0.85,126.99,287307
+758,3MjUtNVVq3C8Fn0MP3zhXa,...Baby One More Time,Britney Spears,75,3WNxdumkSMGMJRhEgK80qx,...Baby One More Time (Digital Deluxe Version),1999-01-12,90s Dance Hits,pop,dance pop,0.76,0.7,0,0,0.03,0.2,0.44,0.91,92.96,211067
+759,5dle7lDSqNS2AcFtbvgkud,Rhythm Is A Dancer - 12'' Version,SNAP!,12,5NZ0wQA1HzBSDSyOWEU96k,Rhythm Is A Dancer Volume 08,1991,90s Dance Hits,pop,dance pop,0.77,0.87,9,0,0.03,0.12,0.08,0.84,124.25,316133
+760,0MhkdVUCf8ZttUXzZ3J9J6,Another Night,Real McCoy,2,3lH40SlojmDYl4muKywyoa,Ultimate Club Dance 90s - Vol. 2,2000-01-01,90s Dance Hits,pop,dance pop,0.81,0.89,7,1,0.04,0.11,0.06,0.87,125.94,236871
+761,5rDsAMjmB4Qa5WNciJPsfK,Tubthumping,Chumbawamba,53,6DUy5QdkKXI15NFbk3pYAZ,Playlist: 90s Pop,2008-04-28,90s Dance Hits,pop,dance pop,0.39,0.94,2,1,0.18,0.09,0.47,0.62,207.69,234133
+762,12BbMJsJi65mxneq6c9Lm7,All That She Wants - Remastered,Ace of Base,16,6cpOIdpPfGaazHsh5eYz0k,Happy Nation (Remastered),1994-01-01,90s Dance Hits,pop,dance pop,0.71,0.63,11,1,0.09,0.01,0.1,0.87,187.55,211213
+763,3L9RIFcNF9IDGPRE96EO7N,The Rhythm Of The Night,Corona,56,385wsbH2dVjZDB9rdVOHUH,Disco 90's,2009-03-16,90s Dance Hits,pop,dance pop,0.69,0.8,5,0,0.03,0.0,0.1,0.8,127.81,264280
+764,270MuyUHPJJUXWApRk2Py8,Macarena - Bayside Boys Remix,Los Del Rio,38,0F2v1g7RUEmK077TfZGeoS,Ultimate Holiday Hits,2008-07-25,90s Dance Hits,pop,dance pop,0.75,0.91,11,1,0.06,0.21,0.07,0.96,103.19,222027
+765,2goLsvvODILDzeeiT4dAoR,Believe,Cher,76,0jZfbz0dNfDjPSg0hYJNth,Believe,1998,90s Dance Hits,pop,dance pop,0.65,0.92,6,1,0.05,0.01,0.05,0.46,132.98,239027
+766,36sAHywEsh50kaM6CpENHp,(You Drive Me) Crazy,Britney Spears,2,7e2tD25UffSO1019rrrRPe,Baby One More Time,1999-01-12,90s Dance Hits,pop,dance pop,0.76,0.94,8,1,0.03,0.06,0.33,0.96,104.01,198093
+767,3DYVWvPh3kGwPasp7yjahc,The Sign,Ace of Base,55,0nQFgMfnmWrcWDOQqIgJL7,Greatest Hits,2008-11-14,90s Dance Hits,pop,dance pop,0.8,0.83,4,0,0.04,0.01,0.03,0.95,97.01,189787
+768,6YZpyZ4gmK4VQWvN6230A2,Will I Ever,Alice DJ,49,5oPKlo7IBFXlh12tqDVoAU,Who Needs Guitars Anyway?,2000,90s Dance Hits,pop,dance pop,0.65,0.84,2,1,0.03,0.0,0.05,0.63,137.05,210147
+769,4RybvT8lyLLjkWXqmAuZnX,Happy People (feat. Marky Mark),Prince Ital Joe,50,3Vvt7b5z4GVIaK14CfKF88,Life In The Streets,1994-04-29,90s Dance Hits,pop,dance pop,0.79,0.59,9,0,0.04,0.28,0.32,0.38,130.04,238200
+770,4q7HqgwzTAK332xEbzuBVm,Sex On The Beach - Original Mix,T-Spoon,3,0AqYdbMMsucUfiXV9mCp8O,Sex on the beach,2008-11-15,90s Dance Hits,pop,dance pop,0.73,0.74,5,1,0.03,0.15,0.17,0.97,99.99,237293
+771,6JFyoWiWW69dTjPrJ0RxQ1,When You Wish Upon A Star,The Mamas,55,0RwaotyCpvAytYj5WaH96L,When You Wish Upon A Star,2019-11-08,90s Dance Hits,pop,dance pop,0.27,0.21,9,1,0.03,0.82,0.1,0.29,194.35,183667
+772,4yEXem27DzCg8xytvvO3E9,Lollipop (Candyman),Aqua,0,2vb252Haz9iX4iOd7vP8kX,Greatest Hits,2009-01-01,90s Dance Hits,pop,dance pop,0.72,0.98,0,0,0.03,0.03,0.17,0.86,139.05,215053
+773,5a6WvCvpzP3flz3ZG0aAMp,Rock My Heart - Radio Mix,Haddaway,44,1LAx7yCVbGwskdnGDof8SC,The Album,1993-09-13,90s Dance Hits,pop,dance pop,0.59,0.93,5,0,0.04,0.01,0.2,0.61,130.03,250933
+774,5p0rUHicpwMZil8RlNGGth,This Is Your Night,Amber,52,5NNCWaLHgcwPrWSPsp86ph,This Is Your Night,1996-11-26,90s Dance Hits,pop,dance pop,0.67,0.91,9,0,0.03,0.07,0.12,0.86,127.99,238160
+775,6xjmujeAeuBznFjdKhZQNY,The Other Side,Grace Gracie,35,7yoBhbkKWO2Z1D8ejHTSng,The Other Side,2019-11-29,90s Dance Hits,pop,dance pop,0.42,0.62,8,0,0.05,0.69,0.14,0.12,128.08,183750
+776,0kwENjv9F98MZLPEN3gCQT,Gonna Make You Sweat (Everybody Dance Now),C & C Music Factory,2,3DFnN7SaYffZ6BrSmIhtkR,100 Hits of the '90s,2010-02-26,90s Dance Hits,pop,dance pop,0.56,0.79,6,1,0.1,0.0,0.19,0.8,112.82,243800
+777,0XVikcHfkoBvJ5ZU8xQBWn,Come and Get Your Love - Radio Edit,Real McCoy,41,0m4EUHpp4mVnV8AWHT7T7x,Another Night,1995-03-28,90s Dance Hits,pop,dance pop,0.74,0.86,8,1,0.04,0.02,0.34,0.76,108.83,194560
+778,4wtR6HB3XekEengMX17cpc,Children,Robert Miles,67,5vwm8dEf7xGTqUAas8zGdC,Dance Vault Mixes - Children,1996-07-11,90s Dance Hits,pop,dance pop,0.6,0.76,0,1,0.03,0.0,0.06,0.39,137.06,243267
+779,4lDKORchTM8Rd0PFQFXTLX,Baby Baby,Corona,55,6rrPmmb2lQd5pNRL6HKBZx,The Rhythm of the Night,1994,90s Dance Hits,pop,dance pop,0.64,0.87,7,1,0.03,0.0,0.06,0.56,133.03,228013
+780,12DVGoYMPBebItALnmaNdT,Pump Up the Jam,Technotronic,38,1k1nZFZj8nOI5Yugc6hQs6,Winners Greatest Hits Vol.2,2010-11-16,90s Dance Hits,pop,dance pop,0.85,0.88,10,0,0.08,0.02,0.05,0.67,124.82,214576
+781,5jOvmh1DYmaiBPETL6HCRY,Waiting for Tonight,Jennifer Lopez,55,7LN1DM2rLG5GFezakJF4vk,Dance Again...The Hits,2012-07-20,90s Dance Hits,pop,dance pop,0.69,0.94,10,0,0.04,0.0,0.11,0.85,125.01,246507
+782,4Fqm5rqB0WMx0hPOwgRjFr,Dreams (Will Come Alive),2 Brothers On The 4th Floor,61,3us11hQQJX1JXSIOz98bGG,Dreams,1994,90s Dance Hits,pop,dance pop,0.7,0.98,7,0,0.05,0.0,0.42,0.61,134.01,263163
+783,1vuz46T61qINYeGeN93AKZ,Life - Radio Edit,Des'ree,27,1suw2wSUQSR9ZJxL2xkh3e,Essential - The 90s,2010-09-10,90s Dance Hits,pop,dance pop,0.72,0.71,1,1,0.04,0.19,0.11,0.66,104.81,189987
+784,1Je1IMUlBXcx1Fz0WE7oPT,Wannabe,Spice Girls,79,3x2jF7blR6bFHtk4MccsyJ,Spice,1996-01-01,90s Dance Hits,pop,dance pop,0.77,0.86,11,1,0.03,0.1,0.16,0.89,110.01,173027
+785,6X5nB9TR6EK9ABabYAzcQ8,Ride Wit Me - Album Version (Edited),Nelly,2,6pHCHKNM0hRDgKRR52tW7X,Lost & Found: Noughties Pop Volume 1,2007,90s Dance Hits,pop,dance pop,0.84,0.68,7,1,0.06,0.06,0.03,0.77,101.86,290373
+786,0b8PKDeFc2T5u9cRbLLv2r,We’re Going to Ibiza!,Vengaboys,60,5t02mTYT9ks9sOC1ihea4a,Greatest Hits!,2000,90s Dance Hits,pop,dance pop,0.8,0.67,1,1,0.04,0.02,0.09,0.91,103.99,216360
+787,2wz5weI4PREzpexKfrKgwv,Sweet Dreams,La Bouche,62,7hP1XPeFjOYTM2xgruJZyo,Greatest Hits,2007,90s Dance Hits,pop,dance pop,0.66,0.96,11,0,0.05,0.08,0.09,0.83,133.71,204587
+788,2es5efbIHrLOLcdmBmpoiR,Back in My Life,Alice DJ,45,6dPOi4Pi89IJ4zk7Xh911S,Back in My Life,1999,90s Dance Hits,pop,dance pop,0.58,0.83,0,1,0.03,0.0,0.35,0.48,137.97,212493
+789,2Ld2LehpgQNREMxl9LlIzm,"Boom, Boom, Boom, Boom!!",Vengaboys,62,44BtGGBJohrvoKVzmi1wij,"Boom, Boom, Boom, Boom!!",1998,90s Dance Hits,pop,dance pop,0.8,0.89,6,0,0.04,0.01,0.03,0.97,138.48,201840
+790,0JXXm3RqxU8EKzX4P8M0n3,More And More - Single Version,Captain Hollywood Project,60,01ChjoiBlN7bBmsvrzuzlo,Love Is Not Sex,1993-03-05,90s Dance Hits,pop,dance pop,0.66,0.85,7,1,0.03,0.22,0.09,0.71,125.86,253573
+791,40WzXFabdkT1KCgRYwoz8X,Generation Of Love,Masterboy,1,0y01fluOw7z4BxN06InlRr,Generation Of Love,1995-01-01,90s Dance Hits,pop,dance pop,0.66,0.88,6,0,0.06,0.01,0.26,0.77,140.01,219240
+792,0ibYVniVLMJWvc3eNfYk8T,Run Away,Real McCoy,49,0m4EUHpp4mVnV8AWHT7T7x,Another Night,1995-03-28,90s Dance Hits,pop,dance pop,0.72,0.92,1,1,0.04,0.0,0.08,0.69,130.95,244133
+793,0DURckDH8F3pzTz7KKFLz7,Call Me,Deee-Lite,33,1sozEjvFpn72ZGQtPrLTa1,Dewdrops In The Garden,1994,90s Dance Hits,pop,dance pop,0.67,0.83,11,0,0.06,0.03,0.24,0.44,127.99,230600
+794,5LskeIhrR7YqlbrPWZJRLe,(You Drive Me) Crazy [The Stop Remix!] - Remastered,Britney Spears,40,2ti2e8J05nwg9ikcMjW8aS,The Essential Britney Spears,2014-07-29,90s Dance Hits,pop,dance pop,0.73,0.95,8,1,0.04,0.21,0.05,0.77,101.08,197653
+795,1GwdUrz7DujSedNxnzVfqI,Beautiful Life,Ace of Base,4,3BSPr0MAvO0iTCkxPs1vIA,Singles of the 90s,1999-01-03,90s Dance Hits,pop,dance pop,0.74,0.95,0,0,0.03,0.2,0.1,0.74,135.0,219307
+796,4mSRaJAwIZOhdxFQF4ryZa,Celebration,Kylie Minogue,27,3qblPGf60yPkkYaBwDg6ig,Celebration,1992-11-29,90s Dance Hits,pop,dance pop,0.7,0.87,0,1,0.04,0.05,0.08,0.58,121.22,238747
+797,7kWmT6l911OFlkhhSV6KlM,Got to Get It,Culture Beat,48,4WiN45TcjcmOnnk8ZPzIIO,Serenity,1993-01-01,90s Dance Hits,pop,dance pop,0.67,0.91,9,0,0.04,0.0,0.24,0.54,132.86,321427
+798,6JXghpembwocSY1Ky0TxTt,No More (I Can't Stand It),Maxx,48,0DtX7zwNKLUtDWpDFHRVsG,To The Maxximum,1994,90s Dance Hits,pop,dance pop,0.76,0.79,10,1,0.04,0.01,0.27,0.6,137.95,281933
+799,69jRUfC6ZjhiY88OySXqoj,Let the Dream Come True,DJ Bobo,40,42iXHnNCzEOJ3Ik0J5OEJz,Best Of,2014-05-02,90s Dance Hits,pop,dance pop,0.7,0.87,11,0,0.03,0.03,0.29,0.72,141.98,241067
+800,32PCjJw8mk1FrJT2FcqRtT,Let's Talk About Sex,Salt-N-Pepa,2,4eKi4PJuybybkSbE6nNQnD,RnB Fridays,2015-10-30,90s Dance Hits,pop,dance pop,0.87,0.71,6,1,0.11,0.04,0.24,0.72,106.91,212747
+801,7vHkU1H73z5NVbGTIyI1DG,Around The World,Aqua,0,2vb252Haz9iX4iOd7vP8kX,Greatest Hits,2009-01-01,90s Dance Hits,pop,dance pop,0.7,0.98,6,1,0.03,0.0,0.54,0.97,129.93,209120
+802,0weAUscowxeqDtpCgtbpgp,Gettin' Jiggy Wit It,Will Smith,70,2esWeP8Ln1sXA0jbDmi3Zq,Big Willie Style,1997-10-03,90s Dance Hits,pop,dance pop,0.88,0.87,6,1,0.14,0.02,0.15,0.86,107.89,227933
+803,5Jcv891JICGnMkkP7Lr3Ju,Cotton Eye Joe,Rednex,5,3DFnN7SaYffZ6BrSmIhtkR,100 Hits of the '90s,2010-02-26,90s Dance Hits,pop,dance pop,0.74,0.94,9,0,0.07,0.01,0.03,0.61,131.99,193827
+804,71Cid4UeolaHRzdbmMDAVb,Get A Way,Maxx,60,0DtX7zwNKLUtDWpDFHRVsG,To The Maxximum,1994,90s Dance Hits,pop,dance pop,0.85,0.86,2,1,0.04,0.03,0.05,0.6,133.0,226773
+805,3f2pJ9Mb9EcaCLJjm1aevz,I Give You My Heart,Mr. President,4,2t8Bc4qBseswbwOoHGHK8d,We See The Same Sun,1996,90s Dance Hits,pop,dance pop,0.74,0.93,4,1,0.03,0.0,0.11,0.91,145.98,215067
+806,3XVozq1aeqsJwpXrEZrDJ9,Ice Ice Baby,Vanilla Ice,70,20O6lfaDAoMhUj5TAvVbb6,Vanilla Ice Is Back! - Hip Hop Classics,2008-11-04,90s Dance Hits,pop,dance pop,0.98,0.79,2,1,0.04,0.0,0.1,0.58,116.01,254467
+807,1B95cw0Rjg96AKLfxxUSnb,Lost in Someone Else,Casey Derhak,39,02tI1RemCJ8dW5aab1zqHj,"Southern Pop, Vol. 1",2019-04-23,90s Dance Hits,pop,dance pop,0.73,0.55,0,1,0.03,0.57,0.12,0.5,99.98,237534
+808,0yx5eBLk3AGOH5EruCqLDx,Hardcore Vibes,Dune,57,5hAcH6CTDKGj43pMhp4iwR,Dune,1995-07-31,90s Dance Hits,pop,dance pop,0.58,0.63,4,0,0.04,0.02,0.06,0.48,163.88,213240
+809,72lAIcldZMBgaeF6XwjAnC,Better Off Alone - Hitradio Mix,Alice Deejay,3,4nfa816hAo6qoIHzrVsELJ,Better Off Alone,1999,90s Dance Hits,pop,dance pop,0.67,0.77,8,0,0.07,0.0,0.26,0.76,136.97,218493
+810,3DdCb7EyPUcUD0LKWkJ0L7,Roses Are Red - Original Version,Aqua,2,58F319Pyj5Pb2jCB5oBLoT,Greatest Hits,2009-01-01,90s Dance Hits,pop,dance pop,0.61,0.97,0,0,0.04,0.01,0.62,0.82,139.93,222747
+811,2foOeJLKSvepjHEkb4NR8N,Think About The Way,Ice Mc,59,3fSQDORWIQuhjPWZOptkML,Ice 'n' Green,1994-01-01,90s Dance Hits,pop,dance pop,0.76,0.71,2,0,0.03,0.13,0.14,0.67,132.99,260973
+812,2QbuqnxPaHCsYnlbAZDxvV,Try Me Out,Corona,48,6rrPmmb2lQd5pNRL6HKBZx,The Rhythm of the Night,1994,90s Dance Hits,pop,dance pop,0.75,0.77,7,0,0.04,0.05,0.25,0.56,130.98,206880
+813,4KjXkB31IrgmVimunoVrts,Max Don´t Have Sex With Your Ex,E-Rotic,46,46uw8uMUqyfb4tRAGd2L89,Sex Affairs,2001-07-01,90s Dance Hits,pop,dance pop,0.55,0.99,9,0,0.06,0.01,0.36,0.66,139.89,211040
+814,5YTMRAT4yKgFrepF8Hi3mY,I Want You Back - Radio Edit,*NSYNC,54,0CADmCXbIx4F9m6TBwLtFd,'N Sync,1997-05-26,90s Dance Hits,pop,dance pop,0.76,0.93,8,0,0.04,0.05,0.32,0.85,112.04,202107
+815,5hDPWrf12qJQ2pFGTbputX,Ecuador - Original Radio Edit,Sash!,45,0hMDjyMROTrvRaCygtpWU3,The Best Of,2016-09-30,90s Dance Hits,pop,dance pop,0.59,0.89,4,1,0.04,0.0,0.4,0.59,132.88,212133
+816,1gyaphIqlNbfhlQTUJ8iNr,Saturday Night - Radio Edit,Whigfield,6,0PpDjwX93DRxVmakubuAtN,Best of [X-Mas Edition],2013-12-17,90s Dance Hits,pop,dance pop,0.74,0.87,11,1,0.04,0.03,0.23,0.96,129.96,223910
+817,4kFmRFE9YzjKnUCbXQKnag,Nessaja,Scooter,47,3y02W7Qv7zFB85ApapWbVt,20 Years of Hardcore (Remastered),2013-10-11,90s Dance Hits,pop,dance pop,0.49,0.9,2,1,0.04,0.0,0.19,0.12,143.05,208450
+818,34zbPJOhBLVd4sYbHSV7nr,Dub-I-Dub,Me & My,49,4WmrKyFBuGY2ygFrRqMUVH,Me & My,1995,90s Dance Hits,pop,dance pop,0.66,0.96,7,1,0.05,0.07,0.15,0.96,136.0,205000
+819,6PUzxtIHkv346yP89NzP9X,Kernkraft 400,Zombie Nation,47,2qmrRoUZQemrKFr9PBMDHd,Kernkraft 400 Single Mixes,2006-03-07,90s Dance Hits,pop,dance pop,0.8,0.43,8,0,0.09,0.01,0.15,0.49,140.06,285173
+820,4cjHy6TwppuNZ05yrP8Fic,Think of You - Radio Edit,Whigfield,50,13pJUleJn57jkWQFZ3b6lj,Think of You - Single,1995-05-08,90s Dance Hits,pop,dance pop,0.7,0.81,8,1,0.04,0.06,0.03,0.87,127.4,243069
+821,2Biy0tRkZTGxGH8axDwnqP,The Bomb (These Sounds Fall Into My Mind),The Bucketheads,50,7AvNbRsfa2B0Hwf4bfcABj,All In The Mind,1995-03-03,90s Dance Hits,pop,dance pop,0.78,0.87,5,1,0.04,0.0,0.08,0.87,125.92,202934
+822,1CJbLAkUiPXrttszpQhnO6,Mr. Vain Recall - Radio Edit,Culture Beat,7,7KmBBdhWW33xFdfaoV0iVv,Mr. Vain Recall,2009-07-24,90s Dance Hits,pop,dance pop,0.55,0.95,2,1,0.07,0.0,0.33,0.38,139.75,213413
+823,1SssFw74DdHVjRa6ADggdD,Sweat (A La La La La Long),Inner Circle,70,0zLd8jpRt4m6FWCu81Fb9n,Blazzin' Fire,2010-12-14,90s Dance Hits,pop,dance pop,0.79,0.73,0,1,0.22,0.01,0.16,0.94,173.02,227067
+824,7dIa8yS7HIPKkBvOmERSZ7,U Got 2 Let The Music - Brescia Edit,Cappella,46,5WnAHnV4xlvxZXEDOtISxX,Best Of Cappella,2010-06-18,90s Dance Hits,pop,dance pop,0.67,0.97,9,0,0.04,0.09,0.17,0.68,135.05,218907
+825,44o1MQVbm8S827avRs4RHc,Feel the heat of the night - Radio Edit,Masterboy,50,73rwjoMZxrGQdbe5rPK7EY,Feel the heat of the night,2006-01-23,90s Dance Hits,pop,dance pop,0.62,0.92,9,0,0.04,0.01,0.32,0.9,137.97,221840
+826,1M9HkdNJ9ArhHc4ueJ5tVm,Captain Jack - Short Mix,Captain Jack,48,5l3oBATLEoSIqIbLyrEH90,Captain Jack Is Back,2008-11-21,90s Dance Hits,pop,dance pop,0.67,1.0,1,0,0.08,0.07,0.24,0.57,149.88,248533
+827,09nxdcY2oYo57fJrG6CCCT,Dragostea Din Tei - Original Romanian Version,O-Zone,8,4I8dkoKeszRKl3UqT89l7R,Time 25th Anniversary,2009-12-25,90s Dance Hits,pop,dance pop,0.81,0.97,0,1,0.04,0.17,0.07,0.68,130.09,213461
+828,3cOnQmSQuEUie603kZp82h,Somebody Dance with Me,DJ Bobo,43,42iXHnNCzEOJ3Ik0J5OEJz,Best Of,2014-05-02,90s Dance Hits,pop,dance pop,0.68,0.99,6,0,0.04,0.1,0.14,0.65,124.05,212893
+829,0KT6DLAELYSbgfUemzwGPX,Heaven (featuring Do),DJ Sammy,64,15UjVcCwrMwAEPzAoVrZ55,Heaven,2002-08-06,90s Dance Hits,pop,dance pop,0.56,0.94,8,1,0.05,0.0,0.15,0.57,137.97,235000
+830,5unmsMTn84dE2kb3kz4wfe,Around the World (La La La La La) - Radio Version,A Touch Of Class,5,5Coqq6ulj1Q4EBnDzyuY9l,Smash! Vol. 11,2000-11-24,90s Dance Hits,pop,dance pop,0.61,0.98,9,0,0.03,0.12,0.16,0.65,131.99,215800
+831,3vV2Gu4JlRaeHfJxg2Z1dk,My Oh My,Aqua,43,7uYn7ZSrXOVlmITyocZs9F,Aquarium,1997-01-01,90s Dance Hits,pop,dance pop,0.71,0.93,2,0,0.03,0.11,0.08,0.96,132.99,204720
+832,5Klo65Y9uouLjNVDV3pqh7,Go West - 2003 Remaster,Pet Shop Boys,63,5IVJbSDDWbGjKbBczyifFl,PopArt - The Hits,2003,90s Dance Hits,pop,dance pop,0.54,0.95,7,1,0.04,0.02,0.34,0.44,120.72,304080
+833,1ohbjkuczl6hEoYEo931PH,Sing Hallelujah!,Dr. Alban,21,5YPI9qfm2uuMxlq4CEUOFu,One Love (2nd Edition),1992-05-04,90s Dance Hits,pop,dance pop,0.76,0.82,5,0,0.04,0.0,0.13,0.94,124.71,240933
+834,1pUFYb9peWkK8m1WCKNRjp,God Is a DJ,Faithless,57,2Vcq2BbEjHFdfodZ8hlcZL,Forever Faithless - The Greatest Hits (C),2005-08-30,90s Dance Hits,pop,dance pop,0.61,0.9,10,0,0.04,0.18,0.17,0.39,130.55,208507
+835,5npMYgysWSKOIVXj2szeLn,Vogue - Edit,Madonna,51,38nngL1nidjNYdHvJ3xJED,I'm Breathless,1990-03-22,90s Dance Hits,pop,dance pop,0.69,0.82,10,0,0.05,0.01,0.1,0.28,116.21,289560
+836,6FP4peicCGnib7asns71fs,The Launch - Radio Edit,DJ Jean,53,2mf2kFapmGUkmAVWvjjzr0,The Launch,1999-02-02,90s Dance Hits,pop,dance pop,0.74,1.0,11,0,0.14,0.06,0.27,0.26,136.51,220360
+837,5WtbtCmPbr8a9TkFSCx7nF,Not over Yet - Perfecto Edit,Grace,20,3g4niytYg05bBFEApZ1LVs,Digging In The Crates: 1997 Vol. 1,2007-01-30,90s Dance Hits,pop,dance pop,0.56,0.83,6,0,0.04,0.0,0.05,0.46,130.53,458058
+838,4cqiLvFRDuV8ClE61eMmZx,Never Alone,2 Brothers On The 4th Floor,55,3us11hQQJX1JXSIOz98bGG,Dreams,1994,90s Dance Hits,pop,dance pop,0.7,0.92,8,0,0.06,0.07,0.62,0.77,128.0,252072
+839,1IWzfq3sLedGQ3fb2hAMBA,Rhythm Is A Dancer,SNAP!,57,2TrNT4qm7qDIRTUVn9jBW4,The Madman's Return,1992-01-01,90s Dance Hits,pop,dance pop,0.76,0.65,9,0,0.03,0.21,0.09,0.86,124.37,332230
+840,3v1W3lS40jrAyGerzF3igy,Up & Down,Vengaboys,61,5t02mTYT9ks9sOC1ihea4a,Greatest Hits!,2000,90s Dance Hits,pop,dance pop,0.79,0.93,6,1,0.07,0.0,0.07,0.89,135.95,241040
+841,6dugx9WBSS8TDxbKqp9zmj,Scatman's World,Scatman John,54,2MRWFajfjxfLAF3wwmdv5j,Scatman's World,1995-06-01,90s Dance Hits,pop,dance pop,0.7,0.87,11,0,0.06,0.07,0.09,0.94,146.99,225133
+842,2rTYgHxgcndkUrRoU7x0Sv,Mr. Vain,Culture Beat,54,4WiN45TcjcmOnnk8ZPzIIO,Serenity,1993-01-01,90s Dance Hits,pop,dance pop,0.68,1.0,9,0,0.04,0.05,0.33,0.4,132.87,336840
+843,0FkLMOUTkSTPSAYkIXQ579,L'amour Toujours (Small Mix),Gigi D'Agostino,69,3dvjLo2u1kao2ikKIJa6KP,L'Amour Toujour,2014-05-30,90s Dance Hits,pop,dance pop,0.64,0.88,7,1,0.03,0.08,0.36,0.74,139.05,242053
+844,0nQLxiNGbbUoSGrxksETLm,The Power,SNAP!,59,40dT7brCvniJawDHpBCE4A,World Power,1990-01-01,90s Dance Hits,pop,dance pop,0.74,0.88,0,1,0.06,0.04,0.34,0.71,108.9,228994
+845,12N5Qmt5TAs881z17sWUvV,Run To Me,Double You,53,4FFAbrXcMye0H2wPesW81W,The Blue Album,1994-01-01,90s Dance Hits,pop,dance pop,0.72,0.96,10,0,0.05,0.04,0.1,0.36,129.99,237533
+846,4RADreHMvMkZwsPgPr9z5c,"Rhythm Is A Dancer - 7"" Edit",SNAP!,67,2TrNT4qm7qDIRTUVn9jBW4,The Madman's Return,1992-01-01,90s Dance Hits,pop,dance pop,0.79,0.74,9,0,0.04,0.27,0.14,0.71,124.25,225882
+847,65RTyZesurf9xxf7FZVL1u,Not Today - Remix,Hillsong UNITED,43,3wNAcHO8vZNoUyhaVopRb3,Not Today,2018-09-28,Christian Dance Party,pop,dance pop,0.62,0.83,6,0,0.04,0.09,0.38,0.43,110.0,219187
+848,3skkHSk5KA7akip3Ey6Xjx,Every Little Thing,Hillsong Young & Free,52,3GBUiNPCjCorEs0W9lf41C,III,2018-06-29,Christian Dance Party,pop,dance pop,0.48,0.68,5,1,0.03,0.05,0.16,0.45,154.85,202893
+849,2sCLhumJK6miHTPJvl3IHE,I Believe,Youngheart,33,1kmv6m8hy3vd3jAw3gnYUH,I Believe,2018-05-11,Christian Dance Party,pop,dance pop,0.56,0.84,0,1,0.04,0.08,0.1,0.62,100.0,220200
+850,4773u67p3U4PKaWtm5vlcj,Come To Life,Neon Feather,34,101P0Nat9WRPuN60kxdk2i,Come To Life,2019-02-15,Christian Dance Party,pop,dance pop,0.43,0.84,0,1,0.05,0.06,0.2,0.45,150.13,178733
+851,0jrDmug9eevza5OnEarhgA,Neighbour,Verses,31,18PYzr8erZvttOU0Sxzypo,Neighbour,2019-03-29,Christian Dance Party,pop,dance pop,0.66,0.55,5,0,0.03,0.01,0.09,0.2,139.94,242267
+852,5cdVjOTp2QPOmYlFuCtkAP,Close (feat. Steven Furtick),Tauren Wells,32,11UPUq8hVQ8xAP4sDVVaVw,Perfect Peace,2019-11-01,Christian Dance Party,pop,dance pop,0.84,0.55,8,1,0.07,0.05,0.13,0.7,120.02,168000
+853,6v1Hgn7yTvz7vQkJiRBESz,Nobody,Local Sound,46,0WYEPMMXkI0XVuKs3c9iZX,Nobody,2018-09-21,Christian Dance Party,pop,dance pop,0.71,0.85,7,1,0.08,0.11,0.05,0.71,102.04,187693
+854,22gFNeEYuXuElY2QsLeMqx,Up Again (Lucky Rose Remix),Dan Bremnes,36,06JS6Bb9W32T4lOsbVtbry,Up Again (The Remixes),2019-09-20,Christian Dance Party,pop,dance pop,0.79,0.68,0,1,0.08,0.06,0.35,0.41,97.11,170948
+855,3x4q0AuhGdiPi1jvCIFACQ,This Place,Logan Pollard,21,4cf7rFGPQeG1Vre7Dy3X6x,This Place,2018-08-11,Christian Dance Party,pop,dance pop,0.5,0.33,5,0,0.12,0.39,0.08,0.57,140.06,183000
+856,3tPJHHygrSqPgZPoAxON8B,Letting Go,Verses,38,3UOCEOeOpQEcLithw3QCF8,Letting Go,2018-04-26,Christian Dance Party,pop,dance pop,0.55,0.68,2,1,0.03,0.01,0.06,0.52,82.49,222160
+857,5X54DpGquhkONi2RbkUvsH,I just need U. - Tide Electric Remix,TobyMac,41,6HbrhmZ9osGyiKjUFDxQGJ,The St. Nemele Collab Sessions,2019-08-23,Christian Dance Party,pop,dance pop,0.73,0.66,5,0,0.04,0.23,0.1,0.4,113.03,207493
+858,5q6iykOAJ0N2fe7wvj0r3A,Through People Like Me - Chris Howland Remix,Mass Anthem,39,5hD1dXOyGkApOTXsjxw0jm,Through People Like Me (Chris Howland Remix),2018-06-08,Christian Dance Party,pop,dance pop,0.69,0.73,8,1,0.04,0.02,0.07,0.44,99.98,207600
+859,3LEiqJm0Q2iwUNZ8t5PDqe,Glorious Day - Remix,Passion,40,3bmUsMqgu3e582aGytKsGa,Glorious Day (Remix),2018-06-22,Christian Dance Party,pop,dance pop,0.62,0.83,2,1,0.04,0.02,0.07,0.44,114.02,257947
+860,0m8YMp4kDDFVATJCVIdhOv,Victory (Remix),Highlands Worship,31,0rKi7QjPJvKUskc2wmojXW,You're Here - EP,2018-07-06,Christian Dance Party,pop,dance pop,0.59,0.59,7,0,0.03,0.01,0.06,0.35,141.13,213723
+861,4BqQrDNmfGfujQ4wPRb5tS,Reckless Love,Verses,38,03I4434NGoyIoKdHRMtPH6,Reckless Love,2018-10-26,Christian Dance Party,pop,dance pop,0.43,0.63,5,1,0.05,0.02,0.1,0.16,173.74,227267
+862,36J64RkkFvdrJNKfiwY0iB,Gravity,Elizabeth Grace,38,0OOBKQWUax70V9bF7gvdDc,Gravity,2018-08-02,Christian Dance Party,pop,dance pop,0.72,0.41,7,1,0.04,0.82,0.16,0.39,107.07,202710
+863,0EJlpO8Z5Vqy4phgcqU84V,Paradise,Matthew Parker,32,0YFwILd7BfZdEimIslxHse,Daydreamer,2018-10-26,Christian Dance Party,pop,dance pop,0.54,0.55,5,1,0.03,0.05,0.33,0.46,114.98,227080
+864,1c8q7CBtCpGs30KOpWFrDA,Circles,Rachael Nemiroff,31,1txV9V5eiqjfWu5OEk68y0,Circles,2018-05-18,Christian Dance Party,pop,dance pop,0.74,0.67,0,0,0.03,0.55,0.11,0.77,114.01,230904
+865,3CMc5c4Ex3OMy1rzk5oIXs,More Of You,Hillsong Young & Free,39,3GBUiNPCjCorEs0W9lf41C,III,2018-06-29,Christian Dance Party,pop,dance pop,0.54,0.67,6,1,0.03,0.08,0.15,0.47,128.01,214867
+866,0nJgXVtgMwXsVspxOoVzP1,Without Your Love,York Worship,29,73vSjvOZ2gSVQ0soCkap1X,Without Your Love,2018-02-27,Christian Dance Party,pop,dance pop,0.53,0.61,0,1,0.04,0.14,0.14,0.66,101.03,236380
+867,4uQcfhLIZNpiWJKS9nPz3z,Burn The Ships (R3HAB Remix),for KING & COUNTRY,53,637sa0MubVLyJ8al6duftV,Burn The Ships (R3HAB Remix),2019-10-04,Christian Dance Party,pop,dance pop,0.64,0.76,5,1,0.08,0.02,0.1,0.3,98.04,146020
+868,1I2NEALPO5AC8mhgiXyBuV,How You Love,Marci Coleman,27,2eFIRZLzXKmFXsck5wNVyO,How You Love,2018-08-21,Christian Dance Party,pop,dance pop,0.68,0.63,11,0,0.07,0.08,0.12,0.36,124.02,237097
+869,7xirNNSKhl1H9U9TKRNSYL,Ain't No Grave,Bryan Boliver,30,7KIpxDdQ4W7VoMV7MBXHIh,Ain't No Grave,2018-10-12,Christian Dance Party,pop,dance pop,0.54,0.76,11,0,0.06,0.0,0.13,0.43,129.99,208615
+870,5x0YfwtrTBCxjVuiVuW7fw,Fall to My Knees,Marshall Marshall,40,0llF4ILcbfcL42C7CNtmGr,Fall to My Knees,2018-08-24,Christian Dance Party,pop,dance pop,0.53,0.69,2,1,0.04,0.12,0.19,0.53,150.11,198800
+871,3A1etA4fcClRWiPCRhbY9l,Only Ever,Alive City,54,1OK3WYikBD59j8DxLPXhte,Only Ever,2019-08-15,Christian Dance Party,pop,dance pop,0.34,0.6,4,1,0.11,0.1,0.25,0.39,84.01,201041
+872,0ReSY5XOCFXFRooRS7hPxk,God Only Knows (GATTÜSO Remix),for KING & COUNTRY,52,5gdySuafgIrPQvdKzjbmIi,God Only Knows (GATTÜSO Remix),2019-05-31,Christian Dance Party,pop,dance pop,0.55,0.89,2,1,0.04,0.0,0.1,0.43,144.04,198371
+873,3ihK0bdxDfJmsxLHmK74kR,We Dance,Bright Ones,35,1tkbwMwtLCA575ZKqXFgx7,Bright Ones,2018-04-27,Christian Dance Party,pop,dance pop,0.74,0.64,1,1,0.03,0.01,0.11,0.27,130.03,234774
+874,43S4LXQySI1N2Zmnkdzh6j,All In (CB Remix),Heather Schnoor,33,569y4fe4V9EiryjqIMjVXZ,All In,2018-03-30,Christian Dance Party,pop,dance pop,0.58,0.79,1,1,0.03,0.19,0.14,0.34,91.98,187966
+875,4mTSFX7iAk4JN3IHu1qghA,Hold On,Verses,30,2qJLcPbOmq2x6Cj0vOs9l5,Hold On,2018-08-03,Christian Dance Party,pop,dance pop,0.58,0.66,10,0,0.05,0.01,0.06,0.42,85.0,234885
+876,3u8YEAVRbJEozzWp9WZLVR,On The Way Up 2.0,Apollo LTD,35,740c1lmrFgWszOD0auolea,Out Of Body,2019-06-07,Christian Dance Party,pop,dance pop,0.66,0.78,0,1,0.04,0.01,0.35,0.26,105.03,196400
+877,5iCVQdYhIJYSbBPe1XazGk,Overboard (Doug Weier Remix),Manafest,28,6suA983fqDUTAfXYnbj2J1,Stones Reloaded,2018-09-21,Christian Dance Party,pop,dance pop,0.64,0.87,0,0,0.04,0.24,0.11,0.79,142.02,244158
+878,7AQxzmkhwBJwgSYr0qQTVf,Electric,Influence Music,34,7aeZhYzqlaq5f68cLvfsXc,Touching Heaven - Electric EP,2019-02-15,Christian Dance Party,pop,dance pop,0.64,0.88,0,1,0.15,0.47,0.32,0.57,109.84,214038
+879,67uQCds7ugUZn3TZUhc5dB,Love Me Like You - TYE Remix,The Young Escape,39,7t1QRFDMpYbZPFnirwkU3q,Love Me Like You (TYE Remix),2019-05-31,Christian Dance Party,pop,dance pop,0.4,0.76,1,1,0.12,0.03,0.15,0.4,177.77,203000
+880,04BZvpVvpJKPWXVfnWr6a3,Grateful (Neon Feather Remix),Cade Thompson,33,5dcQET2nIhMNJxVLrZ1CyX,Grateful (Neon Feather Remix),2018-08-24,Christian Dance Party,pop,dance pop,0.48,0.96,11,1,0.18,0.01,0.42,0.66,100.04,142723
+881,3LxnSVRPRzPZdhNlu3d6W9,Nobody,Bryan Boliver,27,3PI4D4ObSCHUXpX3RWI9tC,In the Meantime...,2018-09-07,Christian Dance Party,pop,dance pop,0.64,0.72,11,1,0.06,0.08,0.25,0.37,94.99,253263
+882,0shptsB4Efvi4T5zNKjeuO,Scars (Come With Livin') - Neon Feather Remix,TobyMac,43,6HbrhmZ9osGyiKjUFDxQGJ,The St. Nemele Collab Sessions,2019-08-23,Christian Dance Party,pop,dance pop,0.55,0.66,0,0,0.03,0.13,0.15,0.34,140.04,243240
+883,3decfgk2pFkvCzYUFj6ssf,I'm Yours,Influencers Worship,0,2FQCn5R6hSDeGYgUCW5kN9,I'm Yours,2018-07-06,Christian Dance Party,pop,dance pop,0.56,0.84,11,0,0.06,0.0,0.17,0.36,128.0,205280
+884,18tCFWknS0gTJBBRLCuI0T,You Tell Me,Youngheart,37,4RXdxAM1qZd91aLI3o6H9q,You Tell Me,2018-11-02,Christian Dance Party,pop,dance pop,0.66,0.86,0,1,0.03,0.06,0.12,0.87,94.98,180600
+885,51fJSFDs5Lnu7n7HfFR4qk,Amazing Grace - HGHTS Remix,Hyper Fenton,35,4dziAM5y6HeViXiF5bAGbK,Remembering Me,2018-05-13,Christian Dance Party,pop,dance pop,0.77,0.84,8,1,0.05,0.1,0.07,0.52,100.0,160776
+886,5pGOK0d3Ls6ikio9oQYkLC,Streams,Austin & Lindsey Adamec,31,2UZ3kOA1L3lJapkpfPzbBV,Streams,2018-06-01,Christian Dance Party,pop,dance pop,0.21,0.73,2,1,0.04,0.48,0.11,0.44,74.74,240995
+887,5nS1Qzp6og3WIDj66VaE9V,Heaven On Earth,Stars Go Dim,2,5AbkeF2NtDSgARCT4CYRqO,Heaven On Earth,2018-04-20,Christian Dance Party,pop,dance pop,0.67,0.76,4,0,0.07,0.06,0.13,0.7,98.01,178680
+888,35WxT8FX7Y3i7Tc4VX7yR3,joy.,for KING & COUNTRY,5,6qHyInMPaaQ8AcXp0ZOKa2,joy.,2018-05-18,Christian Dance Party,pop,dance pop,0.68,0.54,5,0,0.06,0.01,0.11,0.42,119.96,233947
+889,384MzPWC7HLmPNYDrkYlj8,On Top of the World (Remix),Citipointe Live,33,2jRbH5nSx3UDwDyUVDt9zy,On Top of the World (Remix),2017-06-03,Christian Dance Party,pop,dance pop,0.49,0.89,7,1,0.09,0.03,0.08,0.37,127.9,212963
+890,511Q7DOLFifvVhCfPO1tgp,Mirage,Platon Emil,33,5AmXZU3x9PMA0p5Y5pD9C4,Mirage,2017-10-20,Christian Dance Party,pop,dance pop,0.66,0.77,4,0,0.04,0.1,0.21,0.38,105.02,213411
+891,48r9VGBsm0WhLf5k8EuEcU,100 (feat. Dawn Elektra),Galactus Jack,27,15PpOTzWk6BLk6X0D9xsAP,"Younger Days, Pt. 2",2017-08-25,Christian Dance Party,pop,dance pop,0.72,0.64,1,1,0.04,0.05,0.1,0.36,107.01,203304
+892,1HXkhm3VgTwqtHUDzKT3GY,Unshakable Love,Elevation Youth,37,5DCIWSIAV8ZSe52kYLlnSV,Unshakable Love,2018-08-03,Christian Dance Party,pop,dance pop,0.68,0.71,11,1,0.07,0.0,0.36,0.31,119.95,192365
+893,5e7LO2aDWOUlYa5QUhGyhE,Chasing Me,Long Hollow Wave,30,0JOzQpf01TBnKzjEJPEDmg,Chasing Me,2018-06-08,Christian Dance Party,pop,dance pop,0.72,0.8,10,1,0.07,0.0,0.08,0.42,110.0,225273
+894,6O3GXI34itpMqZbBYHNgoX,WILD LOVE,ELEVATION RHYTHM,43,6egEvDkcMBG9XDAsIvaOsE,WILD LOVE,2019-09-13,Christian Dance Party,pop,dance pop,0.68,0.81,1,0,0.06,0.02,0.36,0.88,149.94,167500
+895,6ZkeEVV8OVRuhZfzB28DlD,Heaven On Earth - Radio Single,Planetshakers,38,2qKW3iRJfRCRQvK1fuq5h6,Heaven On Earth,2018-10-12,Christian Dance Party,pop,dance pop,0.56,0.78,0,1,0.05,0.0,0.16,0.64,122.92,225857
+896,0R8tMSvCvkHpiz7DjnBsAw,Let Go,Hillsong Young & Free,43,1IzKxjCQN2dZYpUvTWTQBd,Let Go,2018-05-18,Christian Dance Party,pop,dance pop,0.58,0.95,0,1,0.12,0.02,0.06,0.53,125.99,231280
+897,7tOL3KPed2xaNyDIYBo45p,Your Love (HGHTS Remix),Chris Howland,38,7AZH851x8UXOTAeOLfhnEf,Your Love (HGHTS Remix),2018-11-23,Christian Dance Party,pop,dance pop,0.64,0.88,0,0,0.12,0.21,0.12,0.68,131.02,237710
+898,467Ka8djftrhQIZTkYJar0,Peace,Canyon Hills Worship,29,2eJbMsDrKsDKk191Ve9lch,Peace,2018-11-23,Christian Dance Party,pop,dance pop,0.61,0.66,2,1,0.05,0.0,0.22,0.52,127.05,195493
+899,4rFKp5rDJS3bldnga3QDLY,Everything and More (feat. Aaron Cole),Hollyn,43,5RoaRB24uoKbClziJyISOo,Everything and More / Isaac,2018-10-19,Christian Dance Party,pop,dance pop,0.66,0.7,4,0,0.04,0.25,0.22,0.29,100.01,197000
+900,7v4qvJHhz314Fcq0sLmyvR,Open Over Us (Live),Meredith Andrews,50,2GxghAKQPGO1E4Zl9nEgaV,Open Over Us (Live),2019-02-08,Christian Dance Party,pop,dance pop,0.22,0.5,3,1,0.03,0.11,0.07,0.11,143.91,452389
+901,50Y5DKzkMsTws48NvpuN5s,Love Won't Let Me Down,Hillsong Young & Free,44,0GpdJt8PyFiCeShU4mHjEX,Love Won’t Let Me Down,2017-08-04,Christian Dance Party,pop,dance pop,0.66,0.83,4,0,0.04,0.0,0.15,0.34,124.07,205730
+902,1MNDmPabVMFhgKy8aqT2V5,Before the Start,Newday,25,3j9rqIOyrlitDeB963NRl2,"Forever, Now",2017-07-28,Christian Dance Party,pop,dance pop,0.6,0.75,2,1,0.04,0.01,0.11,0.14,127.96,288012
+903,7EixVppWsnZOvJJ4ZqET14,Good Life,The Young Escape,47,6gIzH5Pa4X3QKugzZCqpTH,Good Life,2017-10-20,Christian Dance Party,pop,dance pop,0.59,0.72,4,0,0.09,0.05,0.26,0.43,178.08,185427
+904,1cloJnP4gDul2IiDqCwGNh,Higher Than Mine,SEU Worship,46,6CR7FS8KhwY5HnEGlUeGTN,Higher Than Mine,2019-11-08,Christian Dance Party,pop,dance pop,0.67,0.63,11,0,0.1,0.05,0.1,0.16,106.02,185062
+905,6ox0BtzYRNG5RmuWvHQeGE,Fight for Me,GAWVI,4,3tPGtUd8BG730n9yKZJDsS,Fight for Me,2018-07-06,Christian Dance Party,pop,dance pop,0.68,0.6,1,1,0.06,0.32,0.21,0.48,159.92,203058
+906,3EnzqTwdFWe68x0OTxR9T5,You Are My Revival - Remix,Long Hollow Wave,25,63XOMUjCOnSWVpzA4YMJSj,You Are My Revival (Remix),2018-03-23,Christian Dance Party,pop,dance pop,0.6,0.69,4,0,0.08,0.1,0.08,0.53,120.01,184000
+907,2MaU0zb75fuPS5DVKd0jqh,Tick,Happi,27,2X5VyvTVPQPXdTyEWGMkgS,Tick,2019-02-08,Christian Dance Party,pop,dance pop,0.74,0.93,9,1,0.05,0.03,0.15,0.41,128.0,165015
+908,1XmVcaQPI9yWpKVbIiL14L,Feel so Alive,Amplify Worship,33,10EIkKvRCCMDk4YgzVqVnZ,"Amplify Worship, Vol. 1",2018-09-15,Christian Dance Party,pop,dance pop,0.79,0.58,7,1,0.21,0.13,0.05,0.86,99.04,201507
+909,5mGfNohrEXnZOXRiA6wnXS,Higher - HYMN Remix,For All Seasons,39,08xXt5aiOTpxzJ299vhbdB,Higher (HYMN Remix),2017-10-06,Christian Dance Party,pop,dance pop,0.63,0.87,5,1,0.05,0.25,0.33,0.48,106.01,206228
+910,2NwLHtXx1LDo3wmjDbQVUH,Human (Matthew Parker Remix),Holly Starr,27,6ZIZXM1DADD0cdLNv654k8,Human (Matthew Parker Remix),2018-08-10,Christian Dance Party,pop,dance pop,0.69,0.59,9,0,0.06,0.32,0.11,0.5,139.95,245114
+911,7FifQY094jXA1y2Z34caaC,So Good,Jabin Chavez,35,5Nl9RSpoK14O2v6E7uxPH9,So Good,2017-05-26,Christian Dance Party,pop,dance pop,0.75,0.81,7,1,0.05,0.24,0.15,0.7,106.98,231982
+912,1rT1mXm67dRJPY64AC10Th,So Much More - Remix,Northwood Worship,3,0x5nsNm1Xz8Pf8EzPjx1MC,So Much More,2017-10-21,Christian Dance Party,pop,dance pop,0.67,0.71,2,1,0.05,0.23,0.05,0.76,103.97,240157
+913,4YkMADiCB98XqOGQb0P1aT,Light the Way- Single (feat. Nozomi),Brandon Seibert,29,6CBWSNoJSRIK9TB9kdnD5G,Light the Way,2018-01-05,Christian Dance Party,pop,dance pop,0.45,0.7,1,0,0.04,0.0,0.11,0.68,100.04,210967
+914,4f1lXCkLLZV7K2zJhAAMwZ,Lavish,WYLD,6,4VXerGqFlDL8rXUhBSM8ry,Lavish,2018-09-28,Christian Dance Party,pop,dance pop,0.66,0.58,7,1,0.11,0.4,0.19,0.6,99.9,204600
+915,6NxyQGdameCyJwJNko3xkF,Where Would I Be - Remix,Heart Youth,33,2vhzLylC7CCEtUml5nlNvo,Where Would I Be (Remix),2018-07-06,Christian Dance Party,pop,dance pop,0.71,0.74,0,1,0.04,0.01,0.16,0.48,131.08,194198
+916,2oTLO5bUVaNMuZYaevh0yf,Edge Of My Seat - THUNDERBIRD Remix,TobyMac,36,6HbrhmZ9osGyiKjUFDxQGJ,The St. Nemele Collab Sessions,2019-08-23,Christian Dance Party,pop,dance pop,0.73,0.74,0,0,0.04,0.12,0.16,0.9,107.96,179773
+917,64WGFpBr68nqhKHahymiyZ,Heaven Is Here,Influencers Worship,29,65GpDYQeSO7qD5L58c1xnt,On Earth / In Heaven,2018-11-09,Christian Dance Party,pop,dance pop,0.59,0.79,2,1,0.04,0.0,0.07,0.23,117.99,255277
+918,7t7DIWoyU902Qn5YNaKG84,Brave,The Vicious Vic,27,349EARcBXYKZmwZklH2jGL,Brave,2019-02-22,Christian Dance Party,pop,dance pop,0.53,0.86,0,1,0.1,0.62,0.07,0.49,135.08,212970
+919,0bs6tC9MHag57CQU3A0Im1,The Reason (Sean Cook Remix),Urban Rescue,38,1mSYwpWEPVGq0apNJlpeb3,The Reason (Sean Cook Remix),2017-10-13,Christian Dance Party,pop,dance pop,0.64,0.58,8,0,0.04,0.02,0.08,0.54,97.95,181905
+920,1nA0NiBT62ZUdL5bvV3rRn,Just As I Am,Marshall Marshall,38,1brlBoJ3C9XNxV06qYYRpM,Just As I Am,2018-06-29,Christian Dance Party,pop,dance pop,0.57,0.62,8,1,0.05,0.13,0.11,0.23,131.98,195000
+921,5yZpJTy5l9RllZbapSLp5Z,Walk On Water,Nadia Grace,20,1gYWhIAQqyUE1fZjzNuJB8,Walk On Water,2018-08-17,Christian Dance Party,pop,dance pop,0.53,0.65,5,1,0.04,0.04,0.07,0.5,147.89,208226
+922,5ZULALImTm80tzUbYQYM9d,Dance Monkey,Tones and I,92,2pJXQvY0YeDvVJ9gMU9G7j,The Kids Are Coming,2019-08-29,Pop Dance Hits,pop,dance pop,0.82,0.59,6,0,0.09,0.69,0.15,0.51,98.03,209438
+923,53CNDHcrOI23OATSulqwJz,Deeper Love,Covenants,32,6ZhqPgy1NLqC8hRlGV0d1Z,Deeper Love,2020-01-10,Pop Dance Hits,pop,dance pop,0.67,0.8,6,0,0.07,0.01,0.38,0.87,121.96,146557
+924,2du5gCpnDxNp8DZwvbVixv,"About Me - Brieuc, Cloud 41 & Lowkie Club Mix",Argui,28,184HsyMC2ANjxUVsWWzNcv,"About Me (Brieuc, Cloud 41 & Lowkie Remix)",2019-12-06,Pop Dance Hits,pop,dance pop,0.63,0.9,7,0,0.05,0.05,0.25,0.25,125.1,175591
+925,58D6VqvfGiVvPkNQstmdUj,Leave The Light On,ReauBeau,18,1yQNwKOhOWZWkZ7ooPaOz1,Leave The Light On,2020-01-17,Pop Dance Hits,pop,dance pop,0.53,0.83,7,1,0.19,0.09,0.31,0.35,135.79,178235
+926,4PshELHcjnTZQ2lBscyz8Q,Kuama,Gregor Potter,29,1oMSFyPiVmFQ6Ecp9wwskB,Kuama,2020-01-03,Pop Dance Hits,pop,dance pop,0.61,0.84,6,1,0.03,0.01,0.14,0.28,125.05,190080
+927,1bSO9nzT5h55OrJO7BbHL2,One Life - VIP Mix,DJ MEG,38,1USoW8vmr37W5sd5g0579c,One Life (VIP Mix),2019-11-29,Pop Dance Hits,pop,dance pop,0.64,0.94,9,1,0.1,0.01,0.14,0.26,118.01,201500
+928,7HxbtxmdOIM0mttc9sBLzI,Feelings,FUNKYBEAT,33,4MHmCdONzfCJlmq82uWx5J,Feelings,2019-11-22,Pop Dance Hits,pop,dance pop,0.73,0.66,3,0,0.07,0.03,0.12,0.2,117.11,187115
+929,2ll2DFDKBbjxZ3YFSWemMn,Night Drive,Rubayne,38,49hk8Lgb9Q5p9wo3XjkRTa,Night Drive,2019-11-15,Pop Dance Hits,pop,dance pop,0.56,0.9,5,1,0.1,0.04,0.39,0.22,105.06,178286
+930,2EDHz4tC3pZDkxAJln2sB3,Energia,Tim Hox,37,1DAYMa9ojJpOW07foafYqb,Energia,2019-12-13,Pop Dance Hits,pop,dance pop,0.81,0.81,11,0,0.07,0.01,0.77,0.9,125.97,204772
+931,2ljYzOcJBuvjadNQXrW1Mg,About Me,Argui,40,7ii3f4CMJ3P51j1IJ18x5g,About Me,2019-10-25,Pop Dance Hits,pop,dance pop,0.67,0.7,4,0,0.05,0.09,0.23,0.42,123.98,186290
+932,6B4H7k0ANCSCribJM3Z0VP,Yourself,IIWII,31,4fv0RqSFsEMoZlTIyvYZA6,Yourself,2019-10-04,Pop Dance Hits,pop,dance pop,0.56,0.78,2,0,0.08,0.19,0.32,0.28,124.02,154839
+933,1A80HRxJMhn6YAxqRup4BQ,Oh Baby,Martin Mix,37,7LPvpi4FjES1wzl8ioKjA2,Oh Baby,2019-09-27,Pop Dance Hits,pop,dance pop,0.58,0.98,2,1,0.07,0.04,0.19,0.42,126.08,160000
+934,5KHbu2Go6NBryS0h0TpTNJ,Talk About It,Bancali,0,5aBI1WNIur9niQ5dM6xnVB,Talk About It,2018-01-17,Pop Dance Hits,pop,dance pop,0.5,0.72,7,0,0.22,0.51,0.42,0.32,110.02,248727
+935,7mpcmYoOCeI5gh5azJSnWY,You Don't Know Me (feat. Duane Harden) - Radio Edit,Armand Van Helden,0,4lsQp3EEpwSUYNr6NHlKR5,Return of the 90s,2012-11-16,Pop Dance Hits,pop,dance pop,0.68,0.85,5,1,0.11,0.02,0.59,0.92,129.96,200787
+936,1ECSiX5La6LjrV4a3YSn61,One Life,DJ MEG,38,16cm6KPpbumvrt259ZToMD,One Life,2019-09-20,Pop Dance Hits,pop,dance pop,0.68,0.83,1,0,0.14,0.07,0.54,0.34,126.0,196777
+937,16oJQyfFenUOV6Mit7tMlo,Somebody,Venomenal,28,1dp5cqJ4G8y2TmF5jGRRL0,Somebody,2019-08-30,Pop Dance Hits,pop,dance pop,0.72,0.83,9,0,0.13,0.15,0.14,0.46,124.01,208809
+938,6fGTmOLGyOYvBN7RZcPMLC,Criminal,Noah Neiman,38,7hR5bfvolmtljXJHfeO81y,Criminal,2019-08-16,Pop Dance Hits,pop,dance pop,0.64,0.83,5,0,0.18,0.01,0.09,0.55,160.14,207000
+939,2b9nc02c0lN7BRupiZpUZd,Is This Love,Venomenal,28,1nukboLnfOz26E5DXsfZgk,Is This Love,2019-05-24,Pop Dance Hits,pop,dance pop,0.73,0.88,11,0,0.09,0.03,0.05,0.48,125.96,184225
+940,2MAaPdiUD0bkWNhlfrLC3F,Flashback,Tim van Werd,32,4STGaCf8TcdXdYRhYAOrMY,Flashback,2019-07-26,Pop Dance Hits,pop,dance pop,0.64,0.74,0,1,0.04,0.06,0.12,0.34,107.02,171589
+941,5Qsgy4BNNR8ZKIsGGhb8lv,Good Omen,Ortzy,21,1dfu4PNIXbL4nZ9B4YahFj,Gemstone presents Hidden Gems Vol. 2,2019-08-02,Pop Dance Hits,pop,dance pop,0.68,0.88,6,0,0.05,0.01,0.33,0.4,109.99,223636
+942,1admfyWHefYAHbwjKdro8b,Time,Brieuc,30,2wgnlHjOxAJGubpPos4TqO,Time,2019-11-01,Pop Dance Hits,pop,dance pop,0.61,0.84,5,1,0.04,0.01,0.34,0.29,125.02,205938
+943,1kSEroHstaZPoBMouyCbHU,Come Over,Noah Neiman,31,5F3qOBw2jBUNcBTvWqUtB0,Come Over,2019-10-18,Pop Dance Hits,pop,dance pop,0.57,0.67,1,0,0.09,0.21,0.14,0.34,160.14,223687
+944,2oIc3yUshnfNpy4NjJFAWO,Anastasy,TheLavish,21,25Gi0Cqs9E26ztzNevJpQU,Anastasy,2019-09-13,Pop Dance Hits,pop,dance pop,0.7,0.8,8,0,0.04,0.07,0.17,0.41,106.02,201509
+945,5jyLJ77yatsz5KfW2zXLvO,Ego - Domastic Remix,Rich Edwards,33,7p0BtPedY7IVn0QIjz1Kue,Ego (Domastic Remix),2019-06-21,Pop Dance Hits,pop,dance pop,0.81,0.79,2,1,0.1,0.01,0.14,0.39,128.07,187500
+946,2NUIaPZQ0FvyRsmPbLvyno,If,eSQUIRE,18,6ko66l4krtmW1Z91w12qkQ,If,2019-04-12,Pop Dance Hits,pop,dance pop,0.69,0.93,4,0,0.05,0.01,0.11,0.1,123.96,236129
+947,75V4H4EmBmzUVjjcPorCzC,Give In To You,Matt Strike,19,5UG4jbozZPuVuQAjXhvYKz,Give In To You,2019-03-29,Pop Dance Hits,pop,dance pop,0.8,0.63,8,1,0.31,0.05,0.77,0.57,109.9,174545
+948,21X8grU7IMAVa2elySGIRR,Next To Me,Olmos,33,56z92LC1YnAf9vxUWhsuRm,Next To Me,2019-03-15,Pop Dance Hits,pop,dance pop,0.7,0.76,6,0,0.09,0.1,0.37,0.41,108.98,189358
+949,0Hg7Cuf6iv7G5CDfxZqwxQ,Cut You Loose,ReauBeau,39,2SvQBVgCaoO3C2SfYCM1pi,Cut You Loose,2019-03-01,Pop Dance Hits,pop,dance pop,0.6,0.72,4,0,0.13,0.37,0.16,0.2,145.01,155586
+950,6LISuoA3ejKIjbfgFdVYoe,G+O,WHYLO,29,4tLFroH0gNLVZalcRd8F24,G+O,2019-02-15,Pop Dance Hits,pop,dance pop,0.59,0.59,6,1,0.08,0.09,0.12,0.36,170.12,160941
+951,2uSfFZG8Bfrfo7Q2bm98JC,Something,Funk Machine,42,13gk0UtoswsSHqX3SS9xIF,Something,2019-02-08,Pop Dance Hits,pop,dance pop,0.54,0.87,8,1,0.06,0.02,0.1,0.38,160.09,171000
+952,6or5lT9sFZHGqjr9waVqTA,The Weekend,REK,18,0pHWtB92JUutsgGTs3YSyr,The Weekend,2019-02-01,Pop Dance Hits,pop,dance pop,0.79,0.73,4,0,0.08,0.16,0.05,0.56,106.1,168300
+953,6ol2reMXoUuIZE0TA5FfvU,Right For Ya,Prince Paris,33,0OXLtD5u7FSpDIFc7sVXLC,Right For Ya,2019-01-25,Pop Dance Hits,pop,dance pop,0.64,0.81,9,0,0.09,0.06,0.31,0.22,100.0,158400
+954,0UZqdhKxrGxVLPVkTrCZ2d,I Refuse,Matt Strike,32,50lQbKRmoYVUht8Ex4M2xE,I Refuse,2019-01-18,Pop Dance Hits,pop,dance pop,0.57,0.65,9,0,0.09,0.2,0.04,0.18,82.32,200727
+955,633nrOG7ExXrw3Dnj9DJ5U,Firefly,Olmos,31,695xOjSuIx6jmHC7rMXjlX,Firefly,2019-01-11,Pop Dance Hits,pop,dance pop,0.6,0.73,2,1,0.04,0.26,0.16,0.33,106.9,204112
+956,2DSDxFmWjyoKmCamYexX4b,Changes,Steve Hartz,19,6DmuMrCIzhgbVdTHp0pYne,Changes,2018-12-14,Pop Dance Hits,pop,dance pop,0.66,0.81,10,0,0.04,0.01,0.19,0.28,111.98,203571
+957,4OgitSyiGyLiRKdw8Q0ueX,Love's Not Fading,Julian Calor,24,319RlomVyyGY9EzFKW94VS,Love's Not Fading,2018-11-30,Pop Dance Hits,pop,dance pop,0.69,0.55,4,0,0.06,0.1,0.1,0.24,104.98,214857
+958,3xJx0XcOK0tfVquoP1TY1i,Closure,Snareskin,36,5Nm8uvUxW7aC0fiyl2tED6,Closure,2018-11-23,Pop Dance Hits,pop,dance pop,0.59,0.54,1,0,0.09,0.31,0.08,0.43,156.02,180332
+959,3NPvE7siGFFFB1lwTBwF3F,Bring You Home,The Partysquad,32,3EfdOwwQP8sw0cWt2VmHxu,Bring You Home,2018-11-16,Pop Dance Hits,pop,dance pop,0.67,0.77,0,1,0.04,0.06,0.09,0.73,100.06,187200
+960,5wPlp34kFeUY2zgcIOxyks,Black & Blue,VIVID,31,1Iojo6tKUt0BH9c30WA8c7,Black & Blue,2018-11-09,Pop Dance Hits,pop,dance pop,0.34,0.78,8,0,0.07,0.07,0.14,0.26,165.47,212364
+961,6oZQUfZVGOwKmb9Zsjd0vx,Unforgettable,Aerreo,44,1N6bSsrepPdy2ZXbQ3iv3H,Unforgettable,2018-11-02,Pop Dance Hits,pop,dance pop,0.63,0.72,0,1,0.02,0.09,0.22,0.26,93.02,221935
+962,7q8O26YXHhmaYRuHoFP8WA,Madness,Matt Strike,20,2rdWy8tZFf40xTMGZfk8GC,Madness,2018-10-26,Pop Dance Hits,pop,dance pop,0.68,0.61,7,0,0.04,0.04,0.1,0.28,95.05,202105
+963,5pTo16mj3CEmY5ZeaBfSxx,Love Me Away,Junior J,19,46EN1Tuvhk0Jve4oiGFm7Z,Love Me Away,2018-10-12,Pop Dance Hits,pop,dance pop,0.49,0.76,7,1,0.04,0.01,0.14,0.31,159.98,167288
+964,2EtqqczcLNk5A61lGXfqfk,Superficial Love,Karim Mika,41,6Z9HzNtVBDyIxF2aECRaDh,Superficial Love,2018-10-05,Pop Dance Hits,pop,dance pop,0.31,0.83,1,1,0.04,0.2,0.1,0.23,74.82,232500
+965,4idB0v45onZipVsuVPmNYF,Tell Me,Rich Edwards,30,28DeHdZUufPBbd7v6hpOG3,Tell Me,2018-09-21,Pop Dance Hits,pop,dance pop,0.38,0.62,1,0,0.04,0.01,0.11,0.34,90.02,204667
+966,0TXDJf4CYjDJ06TmNa2JFo,Middlefingers,Tom & Jame,34,4dDwTmOTtVa291KwDN9TOQ,Middlefingers,2018-09-14,Pop Dance Hits,pop,dance pop,0.68,0.84,8,1,0.05,0.21,0.15,0.72,141.99,196500
+967,48jHHmb5clst09XAbv4kXx,Like You,Anthony Dircson,24,7dy2W1x5M8YxaRfTtOwPjX,Like You,2018-07-27,Pop Dance Hits,pop,dance pop,0.65,0.53,10,1,0.03,0.36,0.11,0.38,90.0,164000
+968,2ZUpK7zEZHyewSn6b57AHW,Find You,Charming Horses,24,0SEhR6VbKQoWG39M0L0whb,Find You,2018-07-06,Pop Dance Hits,pop,dance pop,0.71,0.81,4,0,0.05,0.14,0.2,0.56,120.05,174000
+969,6gjJnkvucgBtEyGkKQVBd0,SO AM I,WHYLO,30,49b0PyJsa4hXzYSGy9i2dc,SO AM I,2018-06-22,Pop Dance Hits,pop,dance pop,0.77,0.8,1,0,0.04,0.15,0.08,0.31,101.98,183528
+970,1kDoUhdifstUonl3rPqALE,Walk Away - Rich Edwards Remix,Sick Individuals,20,3zCl99cTNVTJnlTd2jlmaz,Walk Away (Rich Edwards Remix),2018-05-11,Pop Dance Hits,pop,dance pop,0.59,0.66,3,0,0.15,0.11,0.08,0.37,140.02,147464
+971,5LY8939uhRCLuTBZptxtZK,Walk Away - Melio Remix,Sick Individuals,24,3BZzXs4IKZxNana5f923ta,Walk Away (Melio Remix),2018-05-11,Pop Dance Hits,pop,dance pop,0.76,0.46,1,1,0.16,0.08,0.18,0.19,104.96,195857
+972,2nvpSQh1Qn65nwX0Ssc7sP,Love Again,Matt Strike,28,6hP3xbzXMRjhxQWsFf9NBy,Love Again,2018-04-27,Pop Dance Hits,pop,dance pop,0.58,0.84,11,1,0.05,0.04,0.09,0.3,147.01,228265
+973,48fLPV7iCWxVoOqHdMrmc7,Ego,Rich Edwards,28,26TVpQLJSXSlH0gPQnTm8N,Ego,2018-04-13,Pop Dance Hits,pop,dance pop,0.6,0.63,9,0,0.03,0.34,0.11,0.21,105.02,193714
+974,4nT4O9xTNvHX7Zwt2bq4nn,Take Me,Steve Hartz,23,1dfu4PNIXbL4nZ9B4YahFj,Gemstone presents Hidden Gems Vol. 2,2019-08-02,Pop Dance Hits,pop,dance pop,0.81,0.76,8,1,0.11,0.04,0.51,0.64,117.02,172569
+975,1bu2fXNStlVDr7CMj5klhw,Fixated,ORACLES,18,1dfu4PNIXbL4nZ9B4YahFj,Gemstone presents Hidden Gems Vol. 2,2019-08-02,Pop Dance Hits,pop,dance pop,0.8,0.57,7,1,0.16,0.01,0.1,0.18,107.05,219813
+976,2jcYSJGmvhpYn3D6IVzS0S,On Replay,Costa Leon,41,7rRFgazHklkQuIWFw7xL2d,On Replay,2019-06-28,Pop Dance Hits,pop,dance pop,0.77,0.86,7,1,0.04,0.06,0.06,0.46,121.98,171639
+977,745LUoE5rQZ51Tz4WnBoNp,Try Again (feat. A7S),Tungevaag & Raaban,60,1u3cv5nL73WeTFy0JV5H9F,Try Again (feat. A7S),2019-05-03,Pop Dance Hits,pop,dance pop,0.71,0.86,0,0,0.2,0.14,0.12,0.51,126.91,179552
+978,3aY4mGFsRJJmZeqkagYFCB,Morninglight - Main Circus Deep Mix,Team Deep,13,3Ufv5Lc2VMt49bQm6pt2sr,Morninglight (Main Circus Remixes),2019-06-28,Pop Dance Hits,pop,dance pop,0.64,0.95,10,0,0.08,0.07,0.28,0.55,124.94,251590
+979,7d7i3Qm7awL2gJPcYoQ0hn,Aura - Edit,Avoure,54,42fhXYR9M3yxMTI0CV7fs5,Aura (Edit),2019-04-18,Pop Dance Hits,pop,dance pop,0.61,0.83,1,0,0.03,0.0,0.1,0.26,122.98,268232
+980,3sluZvJ5lmSBe8yYVYbZSH,Everyday,Eddie Thoneick,35,4VJ1TsnxSPpcZLQS9yHJhC,Everyday,2019-07-05,Pop Dance Hits,pop,dance pop,0.65,0.94,10,0,0.07,0.0,0.04,0.41,124.98,302510
+981,11dhySFZw0ZslqkOYnPqak,Head Over Heels - James Roe Remix,Sultan + Shepard,55,3OJCysYeuhIA3rPbu7qLrU,Head Over Heels (James Roe Remix),2019-02-22,Pop Dance Hits,pop,dance pop,0.67,0.81,11,0,0.05,0.0,0.63,0.32,123.99,184003
+982,4ZOt1OugofXuARJ9Y6eGl6,What's It Gonna Be,Venomenal,41,4hAXfVCbpolW0D4YyooUBK,What's It Gonna Be,2019-07-12,Pop Dance Hits,pop,dance pop,0.62,0.88,8,0,0.05,0.01,0.18,0.24,124.0,184639
+983,1mQ6oxC6caPHPY1siLKNzO,Summer Air (feat. Trevor Guthrie),Hardwell,51,25HUKIHCA9hKTUXf8ZJubh,Summer Air (feat. Trevor Guthrie),2019-05-31,Pop Dance Hits,pop,dance pop,0.63,0.57,4,1,0.05,0.09,0.22,0.56,125.99,201905
+984,6Uht61EmIs80U7aNc7yzjh,I Know,Pierce Fulton,2,6ZOGS4ziCsXCMf3kOr1rYR,I Know,2019-05-03,Pop Dance Hits,pop,dance pop,0.75,0.84,8,1,0.05,0.01,0.06,0.74,128.0,300000
+985,3m71siVDw8qXKAdpO9zLiT,Someone New,Quentyn,45,6yTaSm8NY1fUrKhusuVYz0,Someone New,2019-11-22,Pop Dance Hits,pop,dance pop,0.59,0.63,5,0,0.05,0.01,0.38,0.39,112.02,182143
+986,2uiAa5m82aeHbtOFA3x58m,Aftermath,Kydus,49,5ccNg9Jdl0RZJKFzqs1Q5O,Aftermath,2018-11-09,Pop Dance Hits,pop,dance pop,0.69,0.78,0,1,0.05,0.05,0.07,0.04,124.0,247984
+987,4TANuW9cpKCGqH499rr9re,Visions,Lane 8,59,5T9RiXXAhDNHltzGYXDMGn,Visions,2019-01-31,Pop Dance Hits,pop,dance pop,0.52,0.89,8,1,0.03,0.18,0.1,0.04,124.99,261120
+988,03ShCBJrWXSp3vogMeCIxz,Switch,Afrojack,54,7JwpOIArdc9tgXBuyNewRx,Switch,2019-04-26,Pop Dance Hits,pop,dance pop,0.77,0.68,11,1,0.14,0.17,0.15,0.61,109.96,173340
+989,1GYW5YnYuoWiPw4ZB4V1lD,Spiritual (Mriya) [feat. Brooke Tomlinson],Curbi,56,1WWroqRJpueMR97aNxQXtp,Spiritual (Mriya) [feat. Brooke Tomlinson],2019-03-01,Pop Dance Hits,pop,dance pop,0.64,0.81,8,1,0.05,0.15,0.08,0.2,128.02,198750
+990,1niO3yUZuPOkcgzaQSKAJx,Wrong for Me,Otherwise Fine,35,63CHNHCUwHNhiqoXlRGzdm,Wrong for Me,2019-05-15,Pop Dance Hits,pop,dance pop,0.6,0.78,11,0,0.07,0.19,0.56,0.26,92.01,211107
+991,1nYWmABuAHNjdRdAcasmQv,Take Me Away,Calippo,49,74KYCGHyc0O22v61PiEeMy,Take Me Away,2019-04-19,Pop Dance Hits,pop,dance pop,0.8,0.75,6,0,0.1,0.07,0.16,0.55,124.99,201120
+992,25vBQdSHICUlEX14WwuNM9,Pretender,Wolves By Night,14,3H4fG4jJDxhKegnc161qXR,Pretender,2019-04-12,Pop Dance Hits,pop,dance pop,0.72,0.85,11,0,0.04,0.0,0.11,0.54,122.0,190820
+993,7yaMJeDKiDCGC35LrP6EYU,Love Me - Felix Cartal's Chill Mix,Felix Cartal,58,3D4DNUNdCascgr0VRYUib9,Love Me (Remixes),2019-05-03,Pop Dance Hits,pop,dance pop,0.65,0.81,8,1,0.05,0.02,0.1,0.21,121.05,221901
+994,5ZH1dljg1FkK3n8wmZOXlJ,Tell Me Why,Duskus,33,0pioOeoEup7EcFByMGJL2B,Tell Me Why,2019-03-22,Pop Dance Hits,pop,dance pop,0.66,0.77,6,1,0.09,0.53,0.09,0.11,132.04,218182
+995,0ZX44GyxjAWC4dbi9MmiUS,Dancing By Yourself,Junior Sanchez,40,7BlAaka3ZPQmnfzF0GsVEE,Dancing By Yourself,2019-06-14,Pop Dance Hits,pop,dance pop,0.73,0.84,10,0,0.08,0.02,0.06,0.72,123.0,185041
+996,323eANs4Kha72cH6LjR10A,Hurt U,EAUXMAR,40,4o3G5jkb2iGQPzIsXiLYa3,Hurt U,2019-01-18,Pop Dance Hits,pop,dance pop,0.73,0.44,1,0,0.04,0.35,0.14,0.22,114.01,187368
+997,3ODZO5cBfM9S0wQSMhBSjg,It Ain't Over,Funk Machine,25,2FCnRxbazceZaXT3Kma6i2,It Ain't Over,2019-06-07,Pop Dance Hits,pop,dance pop,0.54,0.78,8,1,0.03,0.0,0.07,0.4,80.06,183375
+998,1RbgdZhU9FOKFbDZZKOMrv,Shadows (feat. Veronica),Adam K,44,2qrOPZcexgBsPApRmUSY66,Shadows (feat. Veronica),2019-05-10,Pop Dance Hits,pop,dance pop,0.73,0.68,6,0,0.04,0.11,0.26,0.48,117.97,182034
+999,7yQuDwalzZvPiA94r0mlRY,Preach,Watermät,40,10RhNRvhkKT1uUJmlVeCTR,Preach,2019-02-11,Pop Dance Hits,pop,dance pop,0.65,0.86,6,1,0.07,0.01,0.04,0.68,123.99,181940
